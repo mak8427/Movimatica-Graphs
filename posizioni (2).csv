@@ -1,0 +1,2372 @@
+Data [dd.MM.yy HH:mm:ss],Longitudine,Latitudine,Indirizzo,Luogo,C.A.P.,Velocità,Tipo
+09.03.21 10:03:30,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+09.03.21 10:06:01,7.65791,45.091656,Via Nole 19,Torino,10149,18,position
+09.03.21 10:07:41,7.655056,45.091497,Via Nole 78,Torino,10149,19,position
+09.03.21 10:10:33,7.65415,45.091868,Via Pianezza,Torino,10149,37,position
+09.03.21 10:14:44,7.651907,45.093455,Via Pianezza 80,Torino,10149,31,position
+09.03.21 10:17:46,7.650615,45.094239,Via Pianezza 94,Torino,10149,35,position
+09.03.21 10:19:06,7.649252,45.094693,Via Foglizzo,Torino,10149,26,position
+09.03.21 10:23:51,7.64907,45.095155,Via Foglizzo 1,Torino,10149,27,position
+09.03.21 10:25:47,7.649359,45.098639,Corso Lombardia 128,Torino,10149,32,position
+09.03.21 10:30:36,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,12,position
+09.03.21 10:35:11,7.644521,45.100676,Corso Toscana,Torino,10151,20,position
+09.03.21 10:37:10,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,39,position
+09.03.21 10:41:59,7.638341,45.10241,Viale dei Mughetti,Torino,10151,22,position
+09.03.21 10:43:57,7.638416,45.102865,Corso Molise,Torino,10151,32,position
+09.03.21 10:48:23,7.638523,45.105046,Corso Molise,Torino,10151,13,position
+09.03.21 10:50:52,7.638652,45.106886,Corso Molise,Torino,10151,38,position
+09.03.21 10:53:46,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,13,position
+09.03.21 10:55:36,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,19,position
+09.03.21 10:59:27,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,33,position
+09.03.21 11:02:21,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,23,position
+09.03.21 11:06:42,7.638137,45.112307,Via Druento,Torino,10151,18,position
+09.03.21 11:09:33,7.639961,45.112224,Via Druento,Torino,10151,28,position
+09.03.21 11:12:15,7.642868,45.111989,Via Druento,Torino,10151,30,position
+09.03.21 11:14:07,7.645229,45.1118,Via Druento,Torino,10151,20,position
+09.03.21 11:16:55,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,37,position
+09.03.21 11:18:56,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,17,position
+09.03.21 11:22:55,7.647879,45.105985,Corso Grosseto,Torino,10151,19,position
+09.03.21 11:26:14,7.652943,45.105788,Corso Grosseto,Torino,10151,37,position
+09.03.21 11:27:44,7.659745,45.10547,Corso Grosseto,Torino,10151,11,position
+09.03.21 11:31:41,7.662792,45.105303,Corso Grosseto,Torino,10151,13,position
+09.03.21 11:34:56,7.663586,45.103773,Via Lucento,Torino,10149,17,position
+09.03.21 11:37:35,7.662513,45.103955,Corso Potenza,Torino,10149,32,position
+09.03.21 11:40:38,7.660431,45.100775,Corso Potenza 155,Torino,10149,30,position
+09.03.21 11:41:45,7.658693,45.098154,Corso Potenza,Torino,10149,33,position
+09.03.21 11:43:10,7.658071,45.097291,Corso Potenza,Torino,10149,30,position
+09.03.21 11:47:02,7.657041,45.096836,Largo Toscana,Torino,10149,29,position
+09.03.21 11:51:02,7.65805,45.096306,Largo Toscana 27,Torino,10149,19,position
+09.03.21 11:52:04,7.659122,45.096337,Corso Toscana,Torino,10149,17,position
+09.03.21 11:55:05,7.662406,45.095458,Corso Toscana,Torino,10149,26,position
+09.03.21 11:57:41,7.662942,45.094943,Largo Borgaro 27,Torino,10149,31,position
+09.03.21 11:59:50,7.66291,45.093459,Via Borgaro,Torino,10149,10,position
+09.03.21 12:03:26,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,36,position
+09.03.21 12:06:26,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+09.03.21 12:06:26,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+09.03.21 13:06:26,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+10.03.21 10:03:08,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+10.03.21 10:04:24,7.658355,45.08866,Corso Svizzera 149,Torino,10149,26,position
+10.03.21 10:07:54,7.656113,45.087043,Corso Svizzera 129,Torino,10143,28,position
+10.03.21 10:10:20,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,16,position
+10.03.21 10:15:16,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,39,position
+10.03.21 10:19:01,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,11,position
+10.03.21 10:21:41,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,38,position
+10.03.21 10:25:49,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,17,position
+10.03.21 10:30:38,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,13,position
+10.03.21 10:32:24,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,11,position
+10.03.21 10:34:32,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,34,position
+10.03.21 10:37:41,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,16,position
+10.03.21 10:40:28,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,40,position
+10.03.21 10:42:09,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,35,position
+10.03.21 10:46:41,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,27,position
+10.03.21 10:49:26,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,12,position
+10.03.21 10:53:58,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,35,position
+10.03.21 10:58:11,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,38,position
+10.03.21 10:59:54,7.693154,45.057599,Ponte Umberto I,Torino,10131,35,position
+10.03.21 11:03:48,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,11,position
+10.03.21 11:06:33,7.699892,45.063836,Corso Casale,Torino,10131,10,position
+10.03.21 11:09:39,7.709076,45.067231,Corso Casale 71,Torino,10132,23,position
+10.03.21 11:14:16,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,34,position
+10.03.21 11:16:30,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,38,position
+10.03.21 11:18:15,7.704355,45.069853,Corso Regina Margherita,Torino,10153,13,position
+10.03.21 11:19:38,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,19,position
+10.03.21 11:21:03,7.707316,45.072081,Corso Tortona,Torino,10153,19,position
+10.03.21 11:25:28,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,25,position
+10.03.21 11:27:34,7.703239,45.076627,Corso Novara,Torino,10153,33,position
+10.03.21 11:29:21,7.7006,45.079733,Corso Novara,Torino,10154,30,position
+10.03.21 11:30:42,7.697414,45.083312,Via Bologna,Torino,10154,13,position
+10.03.21 11:33:24,7.695778,45.085111,Corso Novara,Torino,10154,16,position
+10.03.21 11:34:36,7.693567,45.086342,Corso Novara,Torino,10154,22,position
+10.03.21 11:37:15,7.690644,45.087884,Corso Novara,Torino,10155,14,position
+10.03.21 11:41:26,7.688262,45.088967,Corso Vigevano,Torino,10155,30,position
+10.03.21 11:43:56,7.683649,45.089527,Corso Vigevano,Torino,10155,24,position
+10.03.21 11:45:41,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,16,position
+10.03.21 11:47:56,7.67778,45.09055,Corso Mortara,Torino,10149,25,position
+10.03.21 11:49:07,7.676782,45.089952,Corso Mortara,Torino,10149,35,position
+10.03.21 11:51:16,7.6738,45.0898,Corso Mortara,Torino,10149,22,position
+10.03.21 11:54:40,7.670635,45.09052,Corso Mortara,Torino,10149,27,position
+10.03.21 11:58:45,7.67057,45.090861,Via Orvieto,Torino,10149,13,position
+10.03.21 12:03:33,7.668961,45.091111,Corso Mortara 64,Torino,10149,25,position
+10.03.21 12:08:07,7.668349,45.093209,Via Verolengo,Torino,10149,13,position
+10.03.21 12:12:41,7.66733,45.093761,Via Verolengo,Torino,10149,16,position
+10.03.21 12:14:56,7.662942,45.093739,Via Borgaro,Torino,10149,36,position
+10.03.21 12:16:15,7.66284,45.091944,Via Borgaro,Torino,10149,22,position
+10.03.21 12:19:15,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+10.03.21 12:19:16,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+10.03.21 13:19:15,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+11.03.21 10:03:52,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+11.03.21 10:06:53,7.659042,45.089194,Corso Svizzera 157,Torino,10149,13,position
+11.03.21 10:10:07,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,26,position
+11.03.21 10:14:08,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,21,position
+11.03.21 10:15:45,7.652857,45.087069,Corso Regina Margherita,Torino,10143,13,position
+11.03.21 10:18:47,7.652658,45.087376,Corso Regina Margherita,Torino,10143,40,position
+11.03.21 10:20:04,7.651972,45.087592,Corso Regina Margherita,Torino,10143,31,position
+11.03.21 10:24:42,7.652803,45.088831,Corso Potenza 16,Torino,10143,39,position
+11.03.21 10:26:50,7.653721,45.090239,Corso Potenza 26,Torino,10143,13,position
+11.03.21 10:30:22,7.654498,45.091353,Corso Potenza,Torino,10149,11,position
+11.03.21 10:33:13,7.654863,45.091387,Via Pianezza,Torino,10149,40,position
+11.03.21 10:36:28,7.655078,45.091504,Via Nole 78,Torino,10149,39,position
+11.03.21 10:38:04,7.657905,45.091656,Via Nole 19,Torino,10149,37,position
+11.03.21 10:40:30,7.660517,45.091811,Via Nole,Torino,10149,23,position
+11.03.21 10:45:08,7.662191,45.091913,Via Nole 50,Torino,10149,35,position
+11.03.21 10:48:08,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+11.03.21 10:48:08,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+11.03.21 11:48:08,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+12.03.21 10:03:52,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+12.03.21 10:05:40,7.658355,45.08866,Corso Svizzera 149,Torino,10149,11,position
+12.03.21 10:10:38,7.656113,45.087043,Corso Svizzera 129,Torino,10143,33,position
+12.03.21 10:12:15,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,34,position
+12.03.21 10:14:33,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,26,position
+12.03.21 10:17:53,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,39,position
+12.03.21 10:22:07,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,12,position
+12.03.21 10:26:28,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,15,position
+12.03.21 10:29:22,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,31,position
+12.03.21 10:34:11,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,23,position
+12.03.21 10:37:15,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,39,position
+12.03.21 10:39:53,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,30,position
+12.03.21 10:43:05,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,36,position
+12.03.21 10:46:39,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,11,position
+12.03.21 10:48:42,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,35,position
+12.03.21 10:50:32,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,30,position
+12.03.21 10:54:42,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,32,position
+12.03.21 10:57:16,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,28,position
+12.03.21 11:00:15,7.693154,45.057599,Ponte Umberto I,Torino,10131,39,position
+12.03.21 11:02:54,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,33,position
+12.03.21 11:05:42,7.699892,45.063836,Corso Casale,Torino,10131,39,position
+12.03.21 11:09:58,7.709076,45.067231,Corso Casale 71,Torino,10132,12,position
+12.03.21 11:13:06,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,13,position
+12.03.21 11:14:43,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,37,position
+12.03.21 11:16:00,7.704355,45.069853,Corso Regina Margherita,Torino,10153,26,position
+12.03.21 11:18:56,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,22,position
+12.03.21 11:23:46,7.707316,45.072081,Corso Tortona,Torino,10153,23,position
+12.03.21 11:26:26,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,20,position
+12.03.21 11:29:20,7.703239,45.076627,Corso Novara,Torino,10153,31,position
+12.03.21 11:31:33,7.7006,45.079733,Corso Novara,Torino,10154,20,position
+12.03.21 11:35:09,7.697414,45.083312,Via Bologna,Torino,10154,14,position
+12.03.21 11:37:56,7.695778,45.085111,Corso Novara,Torino,10154,31,position
+12.03.21 11:39:56,7.693567,45.086342,Corso Novara,Torino,10154,18,position
+12.03.21 11:41:06,7.690644,45.087884,Corso Novara,Torino,10155,32,position
+12.03.21 11:44:27,7.688262,45.088967,Corso Vigevano,Torino,10155,21,position
+12.03.21 11:46:58,7.683649,45.089527,Corso Vigevano,Torino,10155,20,position
+12.03.21 11:48:22,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,21,position
+12.03.21 11:51:00,7.67778,45.09055,Corso Mortara,Torino,10149,34,position
+12.03.21 11:53:46,7.676782,45.089952,Corso Mortara,Torino,10149,11,position
+12.03.21 11:56:03,7.6738,45.0898,Corso Mortara,Torino,10149,16,position
+12.03.21 12:00:35,7.670635,45.09052,Corso Mortara,Torino,10149,40,position
+12.03.21 12:04:21,7.67057,45.090861,Via Orvieto,Torino,10149,20,position
+12.03.21 12:08:41,7.668961,45.091111,Corso Mortara 64,Torino,10149,10,position
+12.03.21 12:10:23,7.668349,45.093209,Via Verolengo,Torino,10149,34,position
+12.03.21 12:14:23,7.66733,45.093761,Via Verolengo,Torino,10149,20,position
+12.03.21 12:15:38,7.662942,45.093739,Via Borgaro,Torino,10149,11,position
+12.03.21 12:19:58,7.66284,45.091944,Via Borgaro,Torino,10149,11,position
+12.03.21 12:22:58,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+12.03.21 12:22:58,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+12.03.21 13:22:58,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+13.03.21 10:03:49,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+13.03.21 10:08:42,7.65791,45.091656,Via Nole 19,Torino,10149,32,position
+13.03.21 10:10:29,7.655056,45.091497,Via Nole 78,Torino,10149,37,position
+13.03.21 10:12:42,7.65415,45.091868,Via Pianezza,Torino,10149,24,position
+13.03.21 10:15:30,7.651907,45.093455,Via Pianezza 80,Torino,10149,12,position
+13.03.21 10:19:30,7.650615,45.094239,Via Pianezza 94,Torino,10149,23,position
+13.03.21 10:21:08,7.649252,45.094693,Via Foglizzo,Torino,10149,40,position
+13.03.21 10:24:18,7.64907,45.095155,Via Foglizzo 1,Torino,10149,17,position
+13.03.21 10:26:22,7.649359,45.098639,Corso Lombardia 128,Torino,10149,24,position
+13.03.21 10:29:13,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,23,position
+13.03.21 10:33:12,7.644521,45.100676,Corso Toscana,Torino,10151,15,position
+13.03.21 10:36:38,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,27,position
+13.03.21 10:38:46,7.638341,45.10241,Viale dei Mughetti,Torino,10151,23,position
+13.03.21 10:41:09,7.638416,45.102865,Corso Molise,Torino,10151,40,position
+13.03.21 10:42:46,7.638523,45.105046,Corso Molise,Torino,10151,21,position
+13.03.21 10:47:08,7.638652,45.106886,Corso Molise,Torino,10151,11,position
+13.03.21 10:50:56,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,35,position
+13.03.21 10:55:03,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,28,position
+13.03.21 10:58:26,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,21,position
+13.03.21 11:01:19,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,11,position
+13.03.21 11:05:46,7.638137,45.112307,Via Druento,Torino,10151,15,position
+13.03.21 11:07:18,7.639961,45.112224,Via Druento,Torino,10151,17,position
+13.03.21 11:11:54,7.642868,45.111989,Via Druento,Torino,10151,22,position
+13.03.21 11:15:09,7.645229,45.1118,Via Druento,Torino,10151,35,position
+13.03.21 11:18:09,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,16,position
+13.03.21 11:19:49,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,30,position
+13.03.21 11:23:46,7.647879,45.105985,Corso Grosseto,Torino,10151,20,position
+13.03.21 11:25:34,7.652943,45.105788,Corso Grosseto,Torino,10151,27,position
+13.03.21 11:26:44,7.659745,45.10547,Corso Grosseto,Torino,10151,29,position
+13.03.21 11:30:42,7.662792,45.105303,Corso Grosseto,Torino,10151,31,position
+13.03.21 11:35:23,7.663586,45.103773,Via Lucento,Torino,10149,15,position
+13.03.21 11:38:07,7.662513,45.103955,Corso Potenza,Torino,10149,31,position
+13.03.21 11:42:22,7.660431,45.100775,Corso Potenza 155,Torino,10149,21,position
+13.03.21 11:46:42,7.658693,45.098154,Corso Potenza,Torino,10149,10,position
+13.03.21 11:48:33,7.658071,45.097291,Corso Potenza,Torino,10149,29,position
+13.03.21 11:50:14,7.657041,45.096836,Largo Toscana,Torino,10149,40,position
+13.03.21 11:54:41,7.65805,45.096306,Largo Toscana 27,Torino,10149,29,position
+13.03.21 11:59:00,7.659122,45.096337,Corso Toscana,Torino,10149,21,position
+13.03.21 12:00:21,7.662406,45.095458,Corso Toscana,Torino,10149,24,position
+13.03.21 12:02:29,7.662942,45.094943,Largo Borgaro 27,Torino,10149,36,position
+13.03.21 12:03:38,7.66291,45.093459,Via Borgaro,Torino,10149,29,position
+13.03.21 12:05:25,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,20,position
+13.03.21 12:08:25,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+13.03.21 12:08:26,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+13.03.21 13:08:25,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+14.03.21 10:03:44,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+14.03.21 10:05:26,7.657819,45.088259,Corso Svizzera 145,Torino,10149,14,position
+14.03.21 10:07:27,7.656279,45.087164,Corso Svizzera,Torino,10143,35,position
+14.03.21 10:10:02,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,23,position
+14.03.21 10:11:50,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,38,position
+14.03.21 10:14:36,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,32,position
+14.03.21 10:17:04,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,12,position
+14.03.21 10:19:49,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,35,position
+14.03.21 10:21:19,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,31,position
+14.03.21 10:25:10,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,17,position
+14.03.21 10:28:42,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,34,position
+14.03.21 10:33:37,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,21,position
+14.03.21 10:36:06,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,13,position
+14.03.21 10:40:56,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,37,position
+14.03.21 10:45:19,7.657932,45.061366,Corso Peschiera,Torino,10138,12,position
+14.03.21 10:48:21,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,28,position
+14.03.21 10:50:23,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,26,position
+14.03.21 10:53:13,7.664573,45.064981,Corso Stati Uniti,Torino,10128,12,position
+14.03.21 10:56:36,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,40,position
+14.03.21 10:59:29,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,40,position
+14.03.21 11:00:56,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,23,position
+14.03.21 11:05:25,7.665849,45.072535,Corso Inghilterra,Torino,10138,16,position
+14.03.21 11:08:02,7.667405,45.074778,Corso Inghilterra,Torino,10138,39,position
+14.03.21 11:11:10,7.669519,45.078036,Corso Principe Oddone,Torino,10122,23,position
+14.03.21 11:12:39,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,24,position
+14.03.21 11:16:13,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,17,position
+14.03.21 11:20:31,7.67115,45.081096,Corso Umbria,Torino,10144,37,position
+14.03.21 11:24:53,7.669277,45.083255,Corso Umbria,Torino,10144,29,position
+14.03.21 11:26:17,7.667276,45.085539,Corso Umbria 30,Torino,10144,31,position
+14.03.21 11:30:18,7.666182,45.086884,Corso Umbria 42,Torino,10144,36,position
+14.03.21 11:32:47,7.666295,45.087153,Via Treviso,Torino,10144,38,position
+14.03.21 11:37:28,7.665866,45.087274,Corso Umbria,Torino,10144,19,position
+14.03.21 11:40:28,7.665592,45.087471,Corso Umbria 53,Torino,10144,35,position
+14.03.21 11:41:59,7.664541,45.088747,Corso Umbria 65,Torino,10149,12,position
+14.03.21 11:46:07,7.664353,45.089293,Corso Umbria,Torino,10149,17,position
+14.03.21 11:48:48,7.664026,45.089391,Corso Umbria 90,Torino,10149,38,position
+14.03.21 11:50:37,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,17,position
+14.03.21 11:55:33,7.662845,45.091637,Corso Svizzera,Torino,10149,16,position
+14.03.21 11:58:33,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+14.03.21 11:58:33,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+14.03.21 12:58:33,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+15.03.21 10:03:57,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+15.03.21 10:06:13,7.659042,45.089194,Corso Svizzera 157,Torino,10149,28,position
+15.03.21 10:10:07,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,36,position
+15.03.21 10:12:36,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,10,position
+15.03.21 10:16:03,7.652857,45.087069,Corso Regina Margherita,Torino,10143,12,position
+15.03.21 10:21:01,7.652658,45.087376,Corso Regina Margherita,Torino,10143,25,position
+15.03.21 10:25:25,7.651972,45.087592,Corso Regina Margherita,Torino,10143,33,position
+15.03.21 10:26:42,7.652803,45.088831,Corso Potenza 16,Torino,10143,35,position
+15.03.21 10:31:20,7.653721,45.090239,Corso Potenza 26,Torino,10143,38,position
+15.03.21 10:32:51,7.654498,45.091353,Corso Potenza,Torino,10149,21,position
+15.03.21 10:35:39,7.654863,45.091387,Via Pianezza,Torino,10149,12,position
+15.03.21 10:38:55,7.655078,45.091504,Via Nole 78,Torino,10149,34,position
+15.03.21 10:40:41,7.657905,45.091656,Via Nole 19,Torino,10149,24,position
+15.03.21 10:44:25,7.660517,45.091811,Via Nole,Torino,10149,22,position
+15.03.21 10:45:30,7.662191,45.091913,Via Nole 50,Torino,10149,12,position
+15.03.21 10:48:30,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+15.03.21 10:48:30,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+15.03.21 11:48:30,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+16.03.21 10:03:05,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+16.03.21 10:06:01,7.655019,45.091504,Via Nole 80,Torino,10149,31,position
+16.03.21 10:10:21,7.654429,45.091807,Corso Potenza 73,Torino,10149,18,position
+16.03.21 10:12:26,7.653039,45.08977,Corso Potenza 21,Torino,10143,28,position
+16.03.21 10:14:58,7.651441,45.087407,Corso Regina Margherita,Torino,10143,22,position
+16.03.21 10:16:50,7.642622,45.090383,Corso Regina Margherita,Torino,10151,34,position
+16.03.21 10:17:52,7.635401,45.092709,Corso Regina Margherita,Torino,10151,33,position
+16.03.21 10:20:44,7.629393,45.094905,Corso Regina Margherita,Torino,10151,15,position
+16.03.21 10:23:20,7.622054,45.097791,Corso Regina Margherita,Torino,10151,24,position
+16.03.21 10:25:56,7.615864,45.100184,Corso Regina Margherita,Torino,10151,36,position
+16.03.21 10:27:39,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,24,position
+16.03.21 10:31:41,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,19,position
+16.03.21 10:33:32,7.600479,45.105742,Tangenziale Nord,Collegno,10093,21,position
+16.03.21 10:35:37,7.598333,45.105697,Via Venaria,Collegno,10093,40,position
+16.03.21 10:39:24,7.596316,45.104107,Tangenziale Nord,Collegno,10093,14,position
+16.03.21 10:42:00,7.594857,45.10338,Tangenziale Nord,Collegno,10093,31,position
+16.03.21 10:44:19,7.586832,45.101138,Tangenziale Nord,Collegno,10093,13,position
+16.03.21 10:48:30,7.580201,45.099381,Tangenziale Nord,Collegno,10093,35,position
+16.03.21 10:50:39,7.576854,45.098381,Tangenziale Nord,Collegno,10093,24,position
+16.03.21 10:54:54,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,22,position
+16.03.21 10:57:26,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,31,position
+16.03.21 11:01:28,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,29,position
+16.03.21 11:03:23,7.580845,45.092959,Via della Piombia,Collegno,10093,33,position
+16.03.21 11:07:58,7.584128,45.090762,Via Sebusto 24,Collegno,10093,40,position
+16.03.21 11:10:21,7.586317,45.087399,Via della Varda,Collegno,10093,11,position
+16.03.21 11:12:29,7.587819,45.084445,Via della Varda,Collegno,10093,23,position
+16.03.21 11:14:42,7.587561,45.08043,Viale Certosa,Collegno,10093,11,position
+16.03.21 11:18:48,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,39,position
+16.03.21 11:23:26,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,36,position
+16.03.21 11:26:02,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,11,position
+16.03.21 11:30:06,7.586993,45.074107,Via Torino,Collegno,10093,39,position
+16.03.21 11:31:17,7.587985,45.073581,Via Torino,Collegno,10093,29,position
+16.03.21 11:32:27,7.588092,45.073175,Corso Francia,Collegno,10093,16,position
+16.03.21 11:33:31,7.593843,45.073425,Corso Francia,Collegno,10093,11,position
+16.03.21 11:37:20,7.607903,45.07399,Corso Francia,Torino,10146,26,position
+16.03.21 11:39:24,7.618567,45.074429,Corso Francia,Torino,10146,28,position
+16.03.21 11:40:28,7.632708,45.07502,Corso Francia,Torino,10146,33,position
+16.03.21 11:41:29,7.641624,45.075376,Corso Francia,Torino,10145,33,position
+16.03.21 11:46:15,7.648791,45.075642,Corso Francia 111,Torino,10138,36,position
+16.03.21 11:50:49,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,35,position
+16.03.21 11:53:34,7.651065,45.081786,Corso Svizzera 68,Torino,10143,28,position
+16.03.21 11:55:04,7.651741,45.08318,Corso Svizzera 76,Torino,10143,36,position
+16.03.21 11:57:22,7.653104,45.084551,Corso Svizzera,Torino,10143,24,position
+16.03.21 12:00:26,7.655646,45.086429,Corso Svizzera,Torino,10143,29,position
+16.03.21 12:01:58,7.659852,45.089474,Corso Svizzera,Torino,10149,20,position
+16.03.21 12:04:11,7.66276,45.091595,Corso Svizzera,Torino,10149,14,position
+16.03.21 12:07:11,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+16.03.21 12:07:11,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+16.03.21 13:07:11,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+17.03.21 10:03:04,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+17.03.21 10:05:01,7.655019,45.091504,Via Nole 80,Torino,10149,35,position
+17.03.21 10:09:22,7.654429,45.091807,Corso Potenza 73,Torino,10149,23,position
+17.03.21 10:10:57,7.653039,45.08977,Corso Potenza 21,Torino,10143,24,position
+17.03.21 10:13:41,7.651441,45.087407,Corso Regina Margherita,Torino,10143,40,position
+17.03.21 10:15:33,7.642622,45.090383,Corso Regina Margherita,Torino,10151,31,position
+17.03.21 10:17:13,7.635401,45.092709,Corso Regina Margherita,Torino,10151,35,position
+17.03.21 10:20:49,7.629393,45.094905,Corso Regina Margherita,Torino,10151,24,position
+17.03.21 10:23:33,7.622054,45.097791,Corso Regina Margherita,Torino,10151,30,position
+17.03.21 10:25:24,7.615864,45.100184,Corso Regina Margherita,Torino,10151,22,position
+17.03.21 10:27:07,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,27,position
+17.03.21 10:29:27,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,38,position
+17.03.21 10:32:20,7.600479,45.105742,Tangenziale Nord,Collegno,10093,18,position
+17.03.21 10:35:57,7.598333,45.105697,Via Venaria,Collegno,10093,35,position
+17.03.21 10:38:20,7.596316,45.104107,Tangenziale Nord,Collegno,10093,25,position
+17.03.21 10:40:37,7.594857,45.10338,Tangenziale Nord,Collegno,10093,14,position
+17.03.21 10:42:25,7.586832,45.101138,Tangenziale Nord,Collegno,10093,12,position
+17.03.21 10:44:57,7.580201,45.099381,Tangenziale Nord,Collegno,10093,28,position
+17.03.21 10:46:04,7.576854,45.098381,Tangenziale Nord,Collegno,10093,33,position
+17.03.21 10:50:52,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,37,position
+17.03.21 10:54:33,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,36,position
+17.03.21 10:58:50,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,31,position
+17.03.21 11:03:48,7.580845,45.092959,Via della Piombia,Collegno,10093,30,position
+17.03.21 11:08:23,7.584128,45.090762,Via Sebusto 24,Collegno,10093,14,position
+17.03.21 11:12:35,7.586317,45.087399,Via della Varda,Collegno,10093,24,position
+17.03.21 11:16:18,7.587819,45.084445,Via della Varda,Collegno,10093,16,position
+17.03.21 11:19:55,7.587561,45.08043,Viale Certosa,Collegno,10093,21,position
+17.03.21 11:22:22,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,10,position
+17.03.21 11:25:35,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,19,position
+17.03.21 11:30:01,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,13,position
+17.03.21 11:33:29,7.586993,45.074107,Via Torino,Collegno,10093,12,position
+17.03.21 11:38:05,7.587985,45.073581,Via Torino,Collegno,10093,30,position
+17.03.21 11:41:27,7.588092,45.073175,Corso Francia,Collegno,10093,33,position
+17.03.21 11:44:33,7.593843,45.073425,Corso Francia,Collegno,10093,40,position
+17.03.21 11:46:48,7.607903,45.07399,Corso Francia,Torino,10146,39,position
+17.03.21 11:48:24,7.618567,45.074429,Corso Francia,Torino,10146,19,position
+17.03.21 11:50:08,7.632708,45.07502,Corso Francia,Torino,10146,18,position
+17.03.21 11:55:03,7.641624,45.075376,Corso Francia,Torino,10145,38,position
+17.03.21 11:59:50,7.648791,45.075642,Corso Francia 111,Torino,10138,24,position
+17.03.21 12:03:54,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,25,position
+17.03.21 12:08:30,7.651065,45.081786,Corso Svizzera 68,Torino,10143,30,position
+17.03.21 12:10:03,7.651741,45.08318,Corso Svizzera 76,Torino,10143,32,position
+17.03.21 12:14:39,7.653104,45.084551,Corso Svizzera,Torino,10143,31,position
+17.03.21 12:17:48,7.655646,45.086429,Corso Svizzera,Torino,10143,34,position
+17.03.21 12:20:15,7.659852,45.089474,Corso Svizzera,Torino,10149,15,position
+17.03.21 12:24:14,7.66276,45.091595,Corso Svizzera,Torino,10149,25,position
+17.03.21 12:27:14,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+17.03.21 12:27:14,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+17.03.21 13:27:14,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+18.03.21 10:03:05,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+18.03.21 10:05:16,7.658355,45.08866,Corso Svizzera 149,Torino,10149,29,position
+18.03.21 10:09:59,7.656113,45.087043,Corso Svizzera 129,Torino,10143,22,position
+18.03.21 10:13:47,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,30,position
+18.03.21 10:17:17,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,13,position
+18.03.21 10:21:04,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,16,position
+18.03.21 10:23:27,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,14,position
+18.03.21 10:26:15,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,27,position
+18.03.21 10:28:10,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,10,position
+18.03.21 10:29:35,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,27,position
+18.03.21 10:32:02,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,18,position
+18.03.21 10:34:07,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,34,position
+18.03.21 10:36:46,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,22,position
+18.03.21 10:38:47,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,28,position
+18.03.21 10:43:45,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,17,position
+18.03.21 10:46:43,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,38,position
+18.03.21 10:48:58,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,16,position
+18.03.21 10:52:30,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,22,position
+18.03.21 10:57:25,7.693154,45.057599,Ponte Umberto I,Torino,10131,27,position
+18.03.21 11:00:32,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,24,position
+18.03.21 11:02:23,7.699892,45.063836,Corso Casale,Torino,10131,14,position
+18.03.21 11:06:55,7.709076,45.067231,Corso Casale 71,Torino,10132,30,position
+18.03.21 11:08:02,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,22,position
+18.03.21 11:10:42,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,12,position
+18.03.21 11:15:36,7.704355,45.069853,Corso Regina Margherita,Torino,10153,12,position
+18.03.21 11:16:59,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,37,position
+18.03.21 11:21:27,7.707316,45.072081,Corso Tortona,Torino,10153,14,position
+18.03.21 11:24:11,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,40,position
+18.03.21 11:27:33,7.703239,45.076627,Corso Novara,Torino,10153,19,position
+18.03.21 11:30:33,7.7006,45.079733,Corso Novara,Torino,10154,18,position
+18.03.21 11:33:33,7.697414,45.083312,Via Bologna,Torino,10154,29,position
+18.03.21 11:37:43,7.695778,45.085111,Corso Novara,Torino,10154,11,position
+18.03.21 11:39:21,7.693567,45.086342,Corso Novara,Torino,10154,22,position
+18.03.21 11:43:46,7.690644,45.087884,Corso Novara,Torino,10155,22,position
+18.03.21 11:47:39,7.688262,45.088967,Corso Vigevano,Torino,10155,27,position
+18.03.21 11:52:06,7.683649,45.089527,Corso Vigevano,Torino,10155,10,position
+18.03.21 11:54:12,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,31,position
+18.03.21 11:55:16,7.67778,45.09055,Corso Mortara,Torino,10149,24,position
+18.03.21 11:58:44,7.676782,45.089952,Corso Mortara,Torino,10149,29,position
+18.03.21 12:03:40,7.6738,45.0898,Corso Mortara,Torino,10149,15,position
+18.03.21 12:04:55,7.670635,45.09052,Corso Mortara,Torino,10149,16,position
+18.03.21 12:09:45,7.67057,45.090861,Via Orvieto,Torino,10149,19,position
+18.03.21 12:13:33,7.668961,45.091111,Corso Mortara 64,Torino,10149,28,position
+18.03.21 12:17:40,7.668349,45.093209,Via Verolengo,Torino,10149,22,position
+18.03.21 12:20:49,7.66733,45.093761,Via Verolengo,Torino,10149,12,position
+18.03.21 12:22:46,7.662942,45.093739,Via Borgaro,Torino,10149,19,position
+18.03.21 12:24:24,7.66284,45.091944,Via Borgaro,Torino,10149,32,position
+18.03.21 12:27:24,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+18.03.21 12:27:24,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+18.03.21 13:27:24,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+19.03.21 10:04:34,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+19.03.21 10:09:04,7.658355,45.08866,Corso Svizzera 149,Torino,10149,38,position
+19.03.21 10:12:03,7.656113,45.087043,Corso Svizzera 129,Torino,10143,33,position
+19.03.21 10:13:28,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,23,position
+19.03.21 10:14:41,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,21,position
+19.03.21 10:16:31,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,23,position
+19.03.21 10:21:30,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,23,position
+19.03.21 10:23:56,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,21,position
+19.03.21 10:25:59,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,36,position
+19.03.21 10:28:47,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,31,position
+19.03.21 10:33:25,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,21,position
+19.03.21 10:37:45,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,36,position
+19.03.21 10:40:37,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,34,position
+19.03.21 10:45:23,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,24,position
+19.03.21 10:47:18,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,14,position
+19.03.21 10:51:32,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,34,position
+19.03.21 10:54:41,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,25,position
+19.03.21 10:58:30,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,21,position
+19.03.21 11:00:53,7.693154,45.057599,Ponte Umberto I,Torino,10131,25,position
+19.03.21 11:04:53,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,33,position
+19.03.21 11:06:07,7.699892,45.063836,Corso Casale,Torino,10131,15,position
+19.03.21 11:07:54,7.709076,45.067231,Corso Casale 71,Torino,10132,28,position
+19.03.21 11:08:55,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,13,position
+19.03.21 11:10:58,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,21,position
+19.03.21 11:15:03,7.704355,45.069853,Corso Regina Margherita,Torino,10153,14,position
+19.03.21 11:16:13,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,17,position
+19.03.21 11:17:31,7.707316,45.072081,Corso Tortona,Torino,10153,14,position
+19.03.21 11:19:03,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,15,position
+19.03.21 11:22:07,7.703239,45.076627,Corso Novara,Torino,10153,21,position
+19.03.21 11:23:29,7.7006,45.079733,Corso Novara,Torino,10154,38,position
+19.03.21 11:25:17,7.697414,45.083312,Via Bologna,Torino,10154,22,position
+19.03.21 11:30:06,7.695778,45.085111,Corso Novara,Torino,10154,29,position
+19.03.21 11:35:03,7.693567,45.086342,Corso Novara,Torino,10154,33,position
+19.03.21 11:38:35,7.690644,45.087884,Corso Novara,Torino,10155,34,position
+19.03.21 11:40:27,7.688262,45.088967,Corso Vigevano,Torino,10155,29,position
+19.03.21 11:45:25,7.683649,45.089527,Corso Vigevano,Torino,10155,38,position
+19.03.21 11:48:07,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,10,position
+19.03.21 11:49:21,7.67778,45.09055,Corso Mortara,Torino,10149,16,position
+19.03.21 11:53:00,7.676782,45.089952,Corso Mortara,Torino,10149,25,position
+19.03.21 11:57:49,7.6738,45.0898,Corso Mortara,Torino,10149,24,position
+19.03.21 12:01:14,7.670635,45.09052,Corso Mortara,Torino,10149,12,position
+19.03.21 12:03:25,7.67057,45.090861,Via Orvieto,Torino,10149,26,position
+19.03.21 12:07:22,7.668961,45.091111,Corso Mortara 64,Torino,10149,11,position
+19.03.21 12:11:30,7.668349,45.093209,Via Verolengo,Torino,10149,19,position
+19.03.21 12:14:14,7.66733,45.093761,Via Verolengo,Torino,10149,37,position
+19.03.21 12:17:32,7.662942,45.093739,Via Borgaro,Torino,10149,13,position
+19.03.21 12:21:40,7.66284,45.091944,Via Borgaro,Torino,10149,27,position
+19.03.21 12:24:40,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+19.03.21 12:24:40,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+19.03.21 13:24:40,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+20.03.21 10:03:53,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+20.03.21 10:07:33,7.655019,45.091504,Via Nole 80,Torino,10149,26,position
+20.03.21 10:10:55,7.654429,45.091807,Corso Potenza 73,Torino,10149,38,position
+20.03.21 10:15:18,7.653039,45.08977,Corso Potenza 21,Torino,10143,16,position
+20.03.21 10:16:35,7.651441,45.087407,Corso Regina Margherita,Torino,10143,26,position
+20.03.21 10:17:48,7.642622,45.090383,Corso Regina Margherita,Torino,10151,30,position
+20.03.21 10:21:08,7.635401,45.092709,Corso Regina Margherita,Torino,10151,20,position
+20.03.21 10:25:44,7.629393,45.094905,Corso Regina Margherita,Torino,10151,34,position
+20.03.21 10:26:45,7.622054,45.097791,Corso Regina Margherita,Torino,10151,22,position
+20.03.21 10:28:43,7.615864,45.100184,Corso Regina Margherita,Torino,10151,33,position
+20.03.21 10:32:11,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,35,position
+20.03.21 10:33:15,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,39,position
+20.03.21 10:35:49,7.600479,45.105742,Tangenziale Nord,Collegno,10093,32,position
+20.03.21 10:38:20,7.598333,45.105697,Via Venaria,Collegno,10093,29,position
+20.03.21 10:40:58,7.596316,45.104107,Tangenziale Nord,Collegno,10093,30,position
+20.03.21 10:44:51,7.594857,45.10338,Tangenziale Nord,Collegno,10093,35,position
+20.03.21 10:48:00,7.586832,45.101138,Tangenziale Nord,Collegno,10093,26,position
+20.03.21 10:52:16,7.580201,45.099381,Tangenziale Nord,Collegno,10093,21,position
+20.03.21 10:56:09,7.576854,45.098381,Tangenziale Nord,Collegno,10093,23,position
+20.03.21 10:59:58,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,17,position
+20.03.21 11:04:01,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,31,position
+20.03.21 11:05:14,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,20,position
+20.03.21 11:08:34,7.580845,45.092959,Via della Piombia,Collegno,10093,28,position
+20.03.21 11:11:22,7.584128,45.090762,Via Sebusto 24,Collegno,10093,31,position
+20.03.21 11:12:56,7.586317,45.087399,Via della Varda,Collegno,10093,21,position
+20.03.21 11:14:27,7.587819,45.084445,Via della Varda,Collegno,10093,14,position
+20.03.21 11:16:18,7.587561,45.08043,Viale Certosa,Collegno,10093,22,position
+20.03.21 11:18:19,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,14,position
+20.03.21 11:20:22,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,31,position
+20.03.21 11:24:12,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,10,position
+20.03.21 11:28:04,7.586993,45.074107,Via Torino,Collegno,10093,13,position
+20.03.21 11:29:56,7.587985,45.073581,Via Torino,Collegno,10093,12,position
+20.03.21 11:34:00,7.588092,45.073175,Corso Francia,Collegno,10093,17,position
+20.03.21 11:35:03,7.593843,45.073425,Corso Francia,Collegno,10093,22,position
+20.03.21 11:36:44,7.607903,45.07399,Corso Francia,Torino,10146,33,position
+20.03.21 11:40:43,7.618567,45.074429,Corso Francia,Torino,10146,30,position
+20.03.21 11:44:44,7.632708,45.07502,Corso Francia,Torino,10146,37,position
+20.03.21 11:48:14,7.641624,45.075376,Corso Francia,Torino,10145,15,position
+20.03.21 11:52:35,7.648791,45.075642,Corso Francia 111,Torino,10138,10,position
+20.03.21 11:54:31,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,38,position
+20.03.21 11:57:09,7.651065,45.081786,Corso Svizzera 68,Torino,10143,31,position
+20.03.21 11:58:50,7.651741,45.08318,Corso Svizzera 76,Torino,10143,20,position
+20.03.21 12:03:09,7.653104,45.084551,Corso Svizzera,Torino,10143,31,position
+20.03.21 12:07:17,7.655646,45.086429,Corso Svizzera,Torino,10143,39,position
+20.03.21 12:08:48,7.659852,45.089474,Corso Svizzera,Torino,10149,23,position
+20.03.21 12:12:54,7.66276,45.091595,Corso Svizzera,Torino,10149,37,position
+20.03.21 12:15:54,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+20.03.21 12:15:54,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+20.03.21 13:15:54,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+21.03.21 10:03:36,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+21.03.21 10:07:57,7.655019,45.091504,Via Nole 80,Torino,10149,38,position
+21.03.21 10:10:22,7.654429,45.091807,Corso Potenza 73,Torino,10149,22,position
+21.03.21 10:13:45,7.653039,45.08977,Corso Potenza 21,Torino,10143,35,position
+21.03.21 10:16:39,7.651441,45.087407,Corso Regina Margherita,Torino,10143,22,position
+21.03.21 10:18:53,7.642622,45.090383,Corso Regina Margherita,Torino,10151,32,position
+21.03.21 10:22:01,7.635401,45.092709,Corso Regina Margherita,Torino,10151,13,position
+21.03.21 10:25:51,7.629393,45.094905,Corso Regina Margherita,Torino,10151,33,position
+21.03.21 10:28:03,7.622054,45.097791,Corso Regina Margherita,Torino,10151,19,position
+21.03.21 10:33:01,7.615864,45.100184,Corso Regina Margherita,Torino,10151,30,position
+21.03.21 10:34:43,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,32,position
+21.03.21 10:36:57,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,20,position
+21.03.21 10:39:25,7.600479,45.105742,Tangenziale Nord,Collegno,10093,13,position
+21.03.21 10:40:48,7.598333,45.105697,Via Venaria,Collegno,10093,17,position
+21.03.21 10:42:39,7.596316,45.104107,Tangenziale Nord,Collegno,10093,32,position
+21.03.21 10:45:51,7.594857,45.10338,Tangenziale Nord,Collegno,10093,31,position
+21.03.21 10:49:57,7.586832,45.101138,Tangenziale Nord,Collegno,10093,24,position
+21.03.21 10:52:34,7.580201,45.099381,Tangenziale Nord,Collegno,10093,29,position
+21.03.21 10:54:41,7.576854,45.098381,Tangenziale Nord,Collegno,10093,15,position
+21.03.21 10:56:00,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,19,position
+21.03.21 10:57:17,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,38,position
+21.03.21 11:00:26,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,30,position
+21.03.21 11:02:05,7.580845,45.092959,Via della Piombia,Collegno,10093,40,position
+21.03.21 11:05:37,7.584128,45.090762,Via Sebusto 24,Collegno,10093,13,position
+21.03.21 11:08:07,7.586317,45.087399,Via della Varda,Collegno,10093,35,position
+21.03.21 11:12:14,7.587819,45.084445,Via della Varda,Collegno,10093,23,position
+21.03.21 11:16:13,7.587561,45.08043,Viale Certosa,Collegno,10093,25,position
+21.03.21 11:17:45,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,36,position
+21.03.21 11:19:05,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,28,position
+21.03.21 11:24:01,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,37,position
+21.03.21 11:26:13,7.586993,45.074107,Via Torino,Collegno,10093,29,position
+21.03.21 11:27:47,7.587985,45.073581,Via Torino,Collegno,10093,27,position
+21.03.21 11:32:46,7.588092,45.073175,Corso Francia,Collegno,10093,25,position
+21.03.21 11:36:50,7.593843,45.073425,Corso Francia,Collegno,10093,12,position
+21.03.21 11:39:03,7.607903,45.07399,Corso Francia,Torino,10146,17,position
+21.03.21 11:43:14,7.618567,45.074429,Corso Francia,Torino,10146,37,position
+21.03.21 11:44:58,7.632708,45.07502,Corso Francia,Torino,10146,33,position
+21.03.21 11:46:45,7.641624,45.075376,Corso Francia,Torino,10145,31,position
+21.03.21 11:48:35,7.648791,45.075642,Corso Francia 111,Torino,10138,24,position
+21.03.21 11:52:05,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,39,position
+21.03.21 11:54:28,7.651065,45.081786,Corso Svizzera 68,Torino,10143,15,position
+21.03.21 11:57:37,7.651741,45.08318,Corso Svizzera 76,Torino,10143,30,position
+21.03.21 12:01:01,7.653104,45.084551,Corso Svizzera,Torino,10143,21,position
+21.03.21 12:04:41,7.655646,45.086429,Corso Svizzera,Torino,10143,40,position
+21.03.21 12:06:21,7.659852,45.089474,Corso Svizzera,Torino,10149,38,position
+21.03.21 12:10:54,7.66276,45.091595,Corso Svizzera,Torino,10149,14,position
+21.03.21 12:13:54,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+21.03.21 12:13:54,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+21.03.21 13:13:54,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+22.03.21 10:04:18,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+22.03.21 10:08:22,7.657819,45.088259,Corso Svizzera 145,Torino,10149,12,position
+22.03.21 10:11:00,7.656279,45.087164,Corso Svizzera,Torino,10143,33,position
+22.03.21 10:12:34,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,20,position
+22.03.21 10:16:47,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,23,position
+22.03.21 10:18:52,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,10,position
+22.03.21 10:20:59,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,19,position
+22.03.21 10:24:42,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,28,position
+22.03.21 10:29:10,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,37,position
+22.03.21 10:32:00,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,29,position
+22.03.21 10:36:44,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,24,position
+22.03.21 10:38:10,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,38,position
+22.03.21 10:40:39,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,25,position
+22.03.21 10:44:02,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,19,position
+22.03.21 10:48:59,7.657932,45.061366,Corso Peschiera,Torino,10138,27,position
+22.03.21 10:51:35,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,36,position
+22.03.21 10:53:19,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,38,position
+22.03.21 10:54:21,7.664573,45.064981,Corso Stati Uniti,Torino,10128,33,position
+22.03.21 10:56:18,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,19,position
+22.03.21 10:57:58,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,16,position
+22.03.21 11:01:43,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,16,position
+22.03.21 11:05:57,7.665849,45.072535,Corso Inghilterra,Torino,10138,27,position
+22.03.21 11:10:51,7.667405,45.074778,Corso Inghilterra,Torino,10138,37,position
+22.03.21 11:14:47,7.669519,45.078036,Corso Principe Oddone,Torino,10122,22,position
+22.03.21 11:16:11,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,15,position
+22.03.21 11:20:36,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,10,position
+22.03.21 11:25:28,7.67115,45.081096,Corso Umbria,Torino,10144,30,position
+22.03.21 11:30:02,7.669277,45.083255,Corso Umbria,Torino,10144,15,position
+22.03.21 11:32:06,7.667276,45.085539,Corso Umbria 30,Torino,10144,38,position
+22.03.21 11:36:15,7.666182,45.086884,Corso Umbria 42,Torino,10144,23,position
+22.03.21 11:39:53,7.666295,45.087153,Via Treviso,Torino,10144,40,position
+22.03.21 11:43:02,7.665866,45.087274,Corso Umbria,Torino,10144,38,position
+22.03.21 11:47:55,7.665592,45.087471,Corso Umbria 53,Torino,10144,32,position
+22.03.21 11:49:39,7.664541,45.088747,Corso Umbria 65,Torino,10149,40,position
+22.03.21 11:51:04,7.664353,45.089293,Corso Umbria,Torino,10149,37,position
+22.03.21 11:55:27,7.664026,45.089391,Corso Umbria 90,Torino,10149,11,position
+22.03.21 12:00:16,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,22,position
+22.03.21 12:01:50,7.662845,45.091637,Corso Svizzera,Torino,10149,21,position
+22.03.21 12:04:50,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+22.03.21 12:04:50,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+22.03.21 13:04:50,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+23.03.21 10:04:02,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+23.03.21 10:07:02,7.657819,45.088259,Corso Svizzera 145,Torino,10149,35,position
+23.03.21 10:08:41,7.656279,45.087164,Corso Svizzera,Torino,10143,17,position
+23.03.21 10:09:53,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,35,position
+23.03.21 10:13:08,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,24,position
+23.03.21 10:15:06,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,26,position
+23.03.21 10:16:37,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,35,position
+23.03.21 10:19:59,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,31,position
+23.03.21 10:24:45,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,18,position
+23.03.21 10:27:45,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,23,position
+23.03.21 10:30:11,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,19,position
+23.03.21 10:32:26,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,37,position
+23.03.21 10:33:31,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,24,position
+23.03.21 10:38:01,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,12,position
+23.03.21 10:41:24,7.657932,45.061366,Corso Peschiera,Torino,10138,16,position
+23.03.21 10:42:38,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,32,position
+23.03.21 10:46:59,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,29,position
+23.03.21 10:51:18,7.664573,45.064981,Corso Stati Uniti,Torino,10128,34,position
+23.03.21 10:54:10,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,30,position
+23.03.21 10:57:48,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,17,position
+23.03.21 11:01:27,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,39,position
+23.03.21 11:04:10,7.665849,45.072535,Corso Inghilterra,Torino,10138,34,position
+23.03.21 11:07:23,7.667405,45.074778,Corso Inghilterra,Torino,10138,13,position
+23.03.21 11:11:42,7.669519,45.078036,Corso Principe Oddone,Torino,10122,30,position
+23.03.21 11:14:47,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,21,position
+23.03.21 11:18:48,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,25,position
+23.03.21 11:21:53,7.67115,45.081096,Corso Umbria,Torino,10144,36,position
+23.03.21 11:22:54,7.669277,45.083255,Corso Umbria,Torino,10144,18,position
+23.03.21 11:25:41,7.667276,45.085539,Corso Umbria 30,Torino,10144,35,position
+23.03.21 11:26:46,7.666182,45.086884,Corso Umbria 42,Torino,10144,36,position
+23.03.21 11:29:11,7.666295,45.087153,Via Treviso,Torino,10144,37,position
+23.03.21 11:31:00,7.665866,45.087274,Corso Umbria,Torino,10144,38,position
+23.03.21 11:32:23,7.665592,45.087471,Corso Umbria 53,Torino,10144,40,position
+23.03.21 11:36:45,7.664541,45.088747,Corso Umbria 65,Torino,10149,39,position
+23.03.21 11:39:16,7.664353,45.089293,Corso Umbria,Torino,10149,22,position
+23.03.21 11:43:54,7.664026,45.089391,Corso Umbria 90,Torino,10149,28,position
+23.03.21 11:47:11,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,32,position
+23.03.21 11:49:23,7.662845,45.091637,Corso Svizzera,Torino,10149,39,position
+23.03.21 11:52:23,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+23.03.21 11:52:24,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+23.03.21 12:52:23,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+24.03.21 10:03:05,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+24.03.21 10:07:27,7.657819,45.088259,Corso Svizzera 145,Torino,10149,26,position
+24.03.21 10:09:01,7.656279,45.087164,Corso Svizzera,Torino,10143,30,position
+24.03.21 10:10:54,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,36,position
+24.03.21 10:15:17,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,37,position
+24.03.21 10:18:53,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,15,position
+24.03.21 10:23:35,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,15,position
+24.03.21 10:27:07,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,20,position
+24.03.21 10:29:25,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,28,position
+24.03.21 10:32:51,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,37,position
+24.03.21 10:34:55,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,38,position
+24.03.21 10:38:18,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,29,position
+24.03.21 10:42:19,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,20,position
+24.03.21 10:46:24,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,24,position
+24.03.21 10:50:16,7.657932,45.061366,Corso Peschiera,Torino,10138,12,position
+24.03.21 10:53:27,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,15,position
+24.03.21 10:58:17,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,14,position
+24.03.21 11:02:15,7.664573,45.064981,Corso Stati Uniti,Torino,10128,25,position
+24.03.21 11:07:02,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,15,position
+24.03.21 11:08:22,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,31,position
+24.03.21 11:10:08,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,13,position
+24.03.21 11:14:08,7.665849,45.072535,Corso Inghilterra,Torino,10138,39,position
+24.03.21 11:18:11,7.667405,45.074778,Corso Inghilterra,Torino,10138,23,position
+24.03.21 11:23:04,7.669519,45.078036,Corso Principe Oddone,Torino,10122,20,position
+24.03.21 11:25:05,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,22,position
+24.03.21 11:26:16,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,36,position
+24.03.21 11:29:52,7.67115,45.081096,Corso Umbria,Torino,10144,33,position
+24.03.21 11:31:49,7.669277,45.083255,Corso Umbria,Torino,10144,36,position
+24.03.21 11:36:32,7.667276,45.085539,Corso Umbria 30,Torino,10144,36,position
+24.03.21 11:40:05,7.666182,45.086884,Corso Umbria 42,Torino,10144,37,position
+24.03.21 11:41:58,7.666295,45.087153,Via Treviso,Torino,10144,15,position
+24.03.21 11:46:25,7.665866,45.087274,Corso Umbria,Torino,10144,16,position
+24.03.21 11:51:09,7.665592,45.087471,Corso Umbria 53,Torino,10144,31,position
+24.03.21 11:55:08,7.664541,45.088747,Corso Umbria 65,Torino,10149,34,position
+24.03.21 11:58:50,7.664353,45.089293,Corso Umbria,Torino,10149,13,position
+24.03.21 12:01:12,7.664026,45.089391,Corso Umbria 90,Torino,10149,22,position
+24.03.21 12:05:03,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,19,position
+24.03.21 12:09:26,7.662845,45.091637,Corso Svizzera,Torino,10149,30,position
+24.03.21 12:12:26,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+24.03.21 12:12:26,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+24.03.21 13:12:26,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+25.03.21 10:03:19,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+25.03.21 10:07:48,7.657819,45.088259,Corso Svizzera 145,Torino,10149,19,position
+25.03.21 10:09:32,7.656279,45.087164,Corso Svizzera,Torino,10143,33,position
+25.03.21 10:13:37,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,30,position
+25.03.21 10:15:26,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,24,position
+25.03.21 10:17:01,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,27,position
+25.03.21 10:21:16,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,18,position
+25.03.21 10:24:03,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,39,position
+25.03.21 10:27:38,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,39,position
+25.03.21 10:32:29,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,26,position
+25.03.21 10:34:20,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,35,position
+25.03.21 10:37:31,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,12,position
+25.03.21 10:40:32,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,19,position
+25.03.21 10:45:10,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,31,position
+25.03.21 10:48:54,7.657932,45.061366,Corso Peschiera,Torino,10138,37,position
+25.03.21 10:51:46,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,16,position
+25.03.21 10:54:08,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,36,position
+25.03.21 10:59:03,7.664573,45.064981,Corso Stati Uniti,Torino,10128,21,position
+25.03.21 11:00:07,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,29,position
+25.03.21 11:01:50,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,16,position
+25.03.21 11:03:26,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,15,position
+25.03.21 11:04:33,7.665849,45.072535,Corso Inghilterra,Torino,10138,26,position
+25.03.21 11:08:33,7.667405,45.074778,Corso Inghilterra,Torino,10138,27,position
+25.03.21 11:10:22,7.669519,45.078036,Corso Principe Oddone,Torino,10122,12,position
+25.03.21 11:13:55,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,40,position
+25.03.21 11:15:21,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,19,position
+25.03.21 11:19:52,7.67115,45.081096,Corso Umbria,Torino,10144,14,position
+25.03.21 11:21:26,7.669277,45.083255,Corso Umbria,Torino,10144,17,position
+25.03.21 11:26:09,7.667276,45.085539,Corso Umbria 30,Torino,10144,31,position
+25.03.21 11:29:02,7.666182,45.086884,Corso Umbria 42,Torino,10144,13,position
+25.03.21 11:33:22,7.666295,45.087153,Via Treviso,Torino,10144,28,position
+25.03.21 11:36:26,7.665866,45.087274,Corso Umbria,Torino,10144,29,position
+25.03.21 11:38:23,7.665592,45.087471,Corso Umbria 53,Torino,10144,11,position
+25.03.21 11:43:02,7.664541,45.088747,Corso Umbria 65,Torino,10149,22,position
+25.03.21 11:44:23,7.664353,45.089293,Corso Umbria,Torino,10149,13,position
+25.03.21 11:47:37,7.664026,45.089391,Corso Umbria 90,Torino,10149,31,position
+25.03.21 11:51:17,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,14,position
+25.03.21 11:55:54,7.662845,45.091637,Corso Svizzera,Torino,10149,23,position
+25.03.21 11:58:54,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+25.03.21 11:58:55,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+25.03.21 12:58:54,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+26.03.21 10:04:58,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+26.03.21 10:06:44,7.65791,45.091656,Via Nole 19,Torino,10149,28,position
+26.03.21 10:07:56,7.655056,45.091497,Via Nole 78,Torino,10149,16,position
+26.03.21 10:11:50,7.65415,45.091868,Via Pianezza,Torino,10149,16,position
+26.03.21 10:13:28,7.651907,45.093455,Via Pianezza 80,Torino,10149,40,position
+26.03.21 10:18:05,7.650615,45.094239,Via Pianezza 94,Torino,10149,17,position
+26.03.21 10:21:28,7.649252,45.094693,Via Foglizzo,Torino,10149,13,position
+26.03.21 10:23:29,7.64907,45.095155,Via Foglizzo 1,Torino,10149,11,position
+26.03.21 10:24:31,7.649359,45.098639,Corso Lombardia 128,Torino,10149,30,position
+26.03.21 10:27:08,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,12,position
+26.03.21 10:31:07,7.644521,45.100676,Corso Toscana,Torino,10151,31,position
+26.03.21 10:36:07,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,10,position
+26.03.21 10:39:24,7.638341,45.10241,Viale dei Mughetti,Torino,10151,27,position
+26.03.21 10:42:22,7.638416,45.102865,Corso Molise,Torino,10151,11,position
+26.03.21 10:44:07,7.638523,45.105046,Corso Molise,Torino,10151,17,position
+26.03.21 10:48:35,7.638652,45.106886,Corso Molise,Torino,10151,25,position
+26.03.21 10:52:28,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,33,position
+26.03.21 10:54:48,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,26,position
+26.03.21 10:57:59,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,38,position
+26.03.21 11:02:35,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,34,position
+26.03.21 11:07:15,7.638137,45.112307,Via Druento,Torino,10151,24,position
+26.03.21 11:11:34,7.639961,45.112224,Via Druento,Torino,10151,23,position
+26.03.21 11:15:39,7.642868,45.111989,Via Druento,Torino,10151,15,position
+26.03.21 11:18:16,7.645229,45.1118,Via Druento,Torino,10151,24,position
+26.03.21 11:22:47,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,27,position
+26.03.21 11:25:18,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,37,position
+26.03.21 11:29:49,7.647879,45.105985,Corso Grosseto,Torino,10151,15,position
+26.03.21 11:33:23,7.652943,45.105788,Corso Grosseto,Torino,10151,17,position
+26.03.21 11:36:15,7.659745,45.10547,Corso Grosseto,Torino,10151,40,position
+26.03.21 11:41:06,7.662792,45.105303,Corso Grosseto,Torino,10151,23,position
+26.03.21 11:43:56,7.663586,45.103773,Via Lucento,Torino,10149,21,position
+26.03.21 11:46:41,7.662513,45.103955,Corso Potenza,Torino,10149,26,position
+26.03.21 11:48:52,7.660431,45.100775,Corso Potenza 155,Torino,10149,23,position
+26.03.21 11:52:03,7.658693,45.098154,Corso Potenza,Torino,10149,39,position
+26.03.21 11:55:33,7.658071,45.097291,Corso Potenza,Torino,10149,24,position
+26.03.21 11:57:02,7.657041,45.096836,Largo Toscana,Torino,10149,20,position
+26.03.21 11:58:15,7.65805,45.096306,Largo Toscana 27,Torino,10149,22,position
+26.03.21 11:59:18,7.659122,45.096337,Corso Toscana,Torino,10149,18,position
+26.03.21 12:03:58,7.662406,45.095458,Corso Toscana,Torino,10149,39,position
+26.03.21 12:05:51,7.662942,45.094943,Largo Borgaro 27,Torino,10149,32,position
+26.03.21 12:09:52,7.66291,45.093459,Via Borgaro,Torino,10149,33,position
+26.03.21 12:12:44,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,31,position
+26.03.21 12:15:44,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+26.03.21 12:15:44,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+26.03.21 13:15:44,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+27.03.21 10:03:56,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+27.03.21 10:05:46,7.657819,45.088259,Corso Svizzera 145,Torino,10149,23,position
+27.03.21 10:08:06,7.656279,45.087164,Corso Svizzera,Torino,10143,36,position
+27.03.21 10:09:13,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,16,position
+27.03.21 10:10:31,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,30,position
+27.03.21 10:14:55,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,21,position
+27.03.21 10:17:07,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,10,position
+27.03.21 10:19:55,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,14,position
+27.03.21 10:23:41,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,31,position
+27.03.21 10:25:58,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,36,position
+27.03.21 10:30:33,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,11,position
+27.03.21 10:33:40,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,28,position
+27.03.21 10:37:00,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,37,position
+27.03.21 10:40:57,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,31,position
+27.03.21 10:43:39,7.657932,45.061366,Corso Peschiera,Torino,10138,13,position
+27.03.21 10:48:16,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,12,position
+27.03.21 10:50:53,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,25,position
+27.03.21 10:55:24,7.664573,45.064981,Corso Stati Uniti,Torino,10128,35,position
+27.03.21 11:00:13,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,24,position
+27.03.21 11:04:30,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,16,position
+27.03.21 11:07:34,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,26,position
+27.03.21 11:12:11,7.665849,45.072535,Corso Inghilterra,Torino,10138,29,position
+27.03.21 11:15:04,7.667405,45.074778,Corso Inghilterra,Torino,10138,31,position
+27.03.21 11:19:30,7.669519,45.078036,Corso Principe Oddone,Torino,10122,16,position
+27.03.21 11:23:18,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,40,position
+27.03.21 11:26:21,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,35,position
+27.03.21 11:29:05,7.67115,45.081096,Corso Umbria,Torino,10144,40,position
+27.03.21 11:30:13,7.669277,45.083255,Corso Umbria,Torino,10144,33,position
+27.03.21 11:32:11,7.667276,45.085539,Corso Umbria 30,Torino,10144,29,position
+27.03.21 11:34:35,7.666182,45.086884,Corso Umbria 42,Torino,10144,17,position
+27.03.21 11:37:38,7.666295,45.087153,Via Treviso,Torino,10144,17,position
+27.03.21 11:41:27,7.665866,45.087274,Corso Umbria,Torino,10144,38,position
+27.03.21 11:44:06,7.665592,45.087471,Corso Umbria 53,Torino,10144,24,position
+27.03.21 11:48:33,7.664541,45.088747,Corso Umbria 65,Torino,10149,37,position
+27.03.21 11:53:19,7.664353,45.089293,Corso Umbria,Torino,10149,18,position
+27.03.21 11:55:56,7.664026,45.089391,Corso Umbria 90,Torino,10149,12,position
+27.03.21 11:58:15,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,27,position
+27.03.21 12:01:25,7.662845,45.091637,Corso Svizzera,Torino,10149,11,position
+27.03.21 12:04:25,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+27.03.21 12:04:25,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+27.03.21 13:04:25,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+28.03.21 10:04:01,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+28.03.21 10:08:17,7.657819,45.088259,Corso Svizzera 145,Torino,10149,22,position
+28.03.21 10:10:54,7.656279,45.087164,Corso Svizzera,Torino,10143,40,position
+28.03.21 10:12:36,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,16,position
+28.03.21 10:15:43,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,12,position
+28.03.21 10:17:05,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,28,position
+28.03.21 10:20:10,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,12,position
+28.03.21 10:23:26,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,25,position
+28.03.21 10:25:02,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,33,position
+28.03.21 10:29:48,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,27,position
+28.03.21 10:33:09,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,17,position
+28.03.21 10:37:04,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,39,position
+28.03.21 10:40:53,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,21,position
+28.03.21 10:43:34,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,28,position
+28.03.21 10:46:16,7.657932,45.061366,Corso Peschiera,Torino,10138,19,position
+28.03.21 10:49:58,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,17,position
+28.03.21 10:51:49,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,25,position
+28.03.21 10:56:36,7.664573,45.064981,Corso Stati Uniti,Torino,10128,17,position
+28.03.21 10:58:49,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,22,position
+28.03.21 11:01:50,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,38,position
+28.03.21 11:03:11,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,36,position
+28.03.21 11:06:37,7.665849,45.072535,Corso Inghilterra,Torino,10138,30,position
+28.03.21 11:10:10,7.667405,45.074778,Corso Inghilterra,Torino,10138,38,position
+28.03.21 11:12:38,7.669519,45.078036,Corso Principe Oddone,Torino,10122,14,position
+28.03.21 11:17:02,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,29,position
+28.03.21 11:21:23,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,36,position
+28.03.21 11:24:05,7.67115,45.081096,Corso Umbria,Torino,10144,25,position
+28.03.21 11:28:02,7.669277,45.083255,Corso Umbria,Torino,10144,30,position
+28.03.21 11:29:15,7.667276,45.085539,Corso Umbria 30,Torino,10144,27,position
+28.03.21 11:33:46,7.666182,45.086884,Corso Umbria 42,Torino,10144,37,position
+28.03.21 11:36:52,7.666295,45.087153,Via Treviso,Torino,10144,25,position
+28.03.21 11:39:54,7.665866,45.087274,Corso Umbria,Torino,10144,36,position
+28.03.21 11:42:02,7.665592,45.087471,Corso Umbria 53,Torino,10144,38,position
+28.03.21 11:44:01,7.664541,45.088747,Corso Umbria 65,Torino,10149,31,position
+28.03.21 11:48:04,7.664353,45.089293,Corso Umbria,Torino,10149,28,position
+28.03.21 11:52:31,7.664026,45.089391,Corso Umbria 90,Torino,10149,35,position
+28.03.21 11:55:09,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,18,position
+28.03.21 11:57:48,7.662845,45.091637,Corso Svizzera,Torino,10149,14,position
+28.03.21 12:00:48,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+28.03.21 12:00:48,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+28.03.21 13:00:48,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+29.03.21 10:03:53,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+29.03.21 10:06:09,7.65791,45.091656,Via Nole 19,Torino,10149,27,position
+29.03.21 10:08:14,7.655056,45.091497,Via Nole 78,Torino,10149,10,position
+29.03.21 10:09:16,7.65415,45.091868,Via Pianezza,Torino,10149,40,position
+29.03.21 10:14:02,7.651907,45.093455,Via Pianezza 80,Torino,10149,18,position
+29.03.21 10:15:08,7.650615,45.094239,Via Pianezza 94,Torino,10149,34,position
+29.03.21 10:17:55,7.649252,45.094693,Via Foglizzo,Torino,10149,15,position
+29.03.21 10:18:59,7.64907,45.095155,Via Foglizzo 1,Torino,10149,24,position
+29.03.21 10:21:44,7.649359,45.098639,Corso Lombardia 128,Torino,10149,16,position
+29.03.21 10:26:18,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,23,position
+29.03.21 10:28:56,7.644521,45.100676,Corso Toscana,Torino,10151,37,position
+29.03.21 10:30:36,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,27,position
+29.03.21 10:33:42,7.638341,45.10241,Viale dei Mughetti,Torino,10151,31,position
+29.03.21 10:38:26,7.638416,45.102865,Corso Molise,Torino,10151,18,position
+29.03.21 10:41:29,7.638523,45.105046,Corso Molise,Torino,10151,28,position
+29.03.21 10:46:12,7.638652,45.106886,Corso Molise,Torino,10151,26,position
+29.03.21 10:48:46,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,12,position
+29.03.21 10:53:45,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,38,position
+29.03.21 10:56:33,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,39,position
+29.03.21 10:57:40,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,19,position
+29.03.21 11:01:08,7.638137,45.112307,Via Druento,Torino,10151,27,position
+29.03.21 11:04:06,7.639961,45.112224,Via Druento,Torino,10151,38,position
+29.03.21 11:06:58,7.642868,45.111989,Via Druento,Torino,10151,28,position
+29.03.21 11:11:06,7.645229,45.1118,Via Druento,Torino,10151,38,position
+29.03.21 11:14:21,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,27,position
+29.03.21 11:19:13,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,38,position
+29.03.21 11:22:26,7.647879,45.105985,Corso Grosseto,Torino,10151,31,position
+29.03.21 11:26:54,7.652943,45.105788,Corso Grosseto,Torino,10151,39,position
+29.03.21 11:29:50,7.659745,45.10547,Corso Grosseto,Torino,10151,39,position
+29.03.21 11:31:00,7.662792,45.105303,Corso Grosseto,Torino,10151,22,position
+29.03.21 11:34:47,7.663586,45.103773,Via Lucento,Torino,10149,14,position
+29.03.21 11:37:43,7.662513,45.103955,Corso Potenza,Torino,10149,16,position
+29.03.21 11:42:20,7.660431,45.100775,Corso Potenza 155,Torino,10149,21,position
+29.03.21 11:46:23,7.658693,45.098154,Corso Potenza,Torino,10149,28,position
+29.03.21 11:49:49,7.658071,45.097291,Corso Potenza,Torino,10149,11,position
+29.03.21 11:52:26,7.657041,45.096836,Largo Toscana,Torino,10149,30,position
+29.03.21 11:55:58,7.65805,45.096306,Largo Toscana 27,Torino,10149,16,position
+29.03.21 11:57:10,7.659122,45.096337,Corso Toscana,Torino,10149,15,position
+29.03.21 11:58:24,7.662406,45.095458,Corso Toscana,Torino,10149,35,position
+29.03.21 12:00:40,7.662942,45.094943,Largo Borgaro 27,Torino,10149,19,position
+29.03.21 12:03:36,7.66291,45.093459,Via Borgaro,Torino,10149,30,position
+29.03.21 12:05:38,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,12,position
+29.03.21 12:08:38,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+29.03.21 12:08:38,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+29.03.21 13:08:38,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+30.03.21 10:03:03,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+30.03.21 10:05:21,7.65791,45.091656,Via Nole 19,Torino,10149,25,position
+30.03.21 10:08:27,7.655056,45.091497,Via Nole 78,Torino,10149,39,position
+30.03.21 10:11:24,7.65415,45.091868,Via Pianezza,Torino,10149,38,position
+30.03.21 10:15:28,7.651907,45.093455,Via Pianezza 80,Torino,10149,32,position
+30.03.21 10:16:54,7.650615,45.094239,Via Pianezza 94,Torino,10149,34,position
+30.03.21 10:20:30,7.649252,45.094693,Via Foglizzo,Torino,10149,10,position
+30.03.21 10:23:37,7.64907,45.095155,Via Foglizzo 1,Torino,10149,35,position
+30.03.21 10:24:56,7.649359,45.098639,Corso Lombardia 128,Torino,10149,38,position
+30.03.21 10:27:50,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,20,position
+30.03.21 10:30:27,7.644521,45.100676,Corso Toscana,Torino,10151,32,position
+30.03.21 10:32:57,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,10,position
+30.03.21 10:36:30,7.638341,45.10241,Viale dei Mughetti,Torino,10151,28,position
+30.03.21 10:39:36,7.638416,45.102865,Corso Molise,Torino,10151,26,position
+30.03.21 10:43:55,7.638523,45.105046,Corso Molise,Torino,10151,15,position
+30.03.21 10:45:56,7.638652,45.106886,Corso Molise,Torino,10151,19,position
+30.03.21 10:48:05,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,19,position
+30.03.21 10:49:39,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,16,position
+30.03.21 10:53:26,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,11,position
+30.03.21 10:55:26,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,22,position
+30.03.21 10:56:54,7.638137,45.112307,Via Druento,Torino,10151,18,position
+30.03.21 10:59:28,7.639961,45.112224,Via Druento,Torino,10151,36,position
+30.03.21 11:02:26,7.642868,45.111989,Via Druento,Torino,10151,20,position
+30.03.21 11:06:18,7.645229,45.1118,Via Druento,Torino,10151,14,position
+30.03.21 11:10:41,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,21,position
+30.03.21 11:12:26,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,15,position
+30.03.21 11:14:04,7.647879,45.105985,Corso Grosseto,Torino,10151,24,position
+30.03.21 11:15:28,7.652943,45.105788,Corso Grosseto,Torino,10151,11,position
+30.03.21 11:20:10,7.659745,45.10547,Corso Grosseto,Torino,10151,29,position
+30.03.21 11:23:07,7.662792,45.105303,Corso Grosseto,Torino,10151,26,position
+30.03.21 11:28:03,7.663586,45.103773,Via Lucento,Torino,10149,29,position
+30.03.21 11:31:43,7.662513,45.103955,Corso Potenza,Torino,10149,12,position
+30.03.21 11:33:16,7.660431,45.100775,Corso Potenza 155,Torino,10149,25,position
+30.03.21 11:34:36,7.658693,45.098154,Corso Potenza,Torino,10149,13,position
+30.03.21 11:37:48,7.658071,45.097291,Corso Potenza,Torino,10149,36,position
+30.03.21 11:40:40,7.657041,45.096836,Largo Toscana,Torino,10149,20,position
+30.03.21 11:42:23,7.65805,45.096306,Largo Toscana 27,Torino,10149,36,position
+30.03.21 11:45:03,7.659122,45.096337,Corso Toscana,Torino,10149,39,position
+30.03.21 11:48:53,7.662406,45.095458,Corso Toscana,Torino,10149,33,position
+30.03.21 11:50:11,7.662942,45.094943,Largo Borgaro 27,Torino,10149,16,position
+30.03.21 11:53:16,7.66291,45.093459,Via Borgaro,Torino,10149,37,position
+30.03.21 11:54:58,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,10,position
+30.03.21 11:57:58,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+30.03.21 11:57:59,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+30.03.21 12:57:58,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+31.03.21 10:03:52,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+31.03.21 10:06:53,7.657819,45.088259,Corso Svizzera 145,Torino,10149,27,position
+31.03.21 10:08:53,7.656279,45.087164,Corso Svizzera,Torino,10143,34,position
+31.03.21 10:12:34,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,28,position
+31.03.21 10:16:58,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,32,position
+31.03.21 10:19:48,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,31,position
+31.03.21 10:22:10,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,29,position
+31.03.21 10:25:11,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,20,position
+31.03.21 10:29:48,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,20,position
+31.03.21 10:34:46,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,30,position
+31.03.21 10:38:58,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,21,position
+31.03.21 10:43:49,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,39,position
+31.03.21 10:45:16,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,29,position
+31.03.21 10:48:38,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,22,position
+31.03.21 10:51:47,7.657932,45.061366,Corso Peschiera,Torino,10138,24,position
+31.03.21 10:56:27,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,37,position
+31.03.21 11:00:08,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,12,position
+31.03.21 11:02:33,7.664573,45.064981,Corso Stati Uniti,Torino,10128,12,position
+31.03.21 11:06:16,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,32,position
+31.03.21 11:09:21,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,38,position
+31.03.21 11:10:58,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,19,position
+31.03.21 11:15:30,7.665849,45.072535,Corso Inghilterra,Torino,10138,14,position
+31.03.21 11:19:17,7.667405,45.074778,Corso Inghilterra,Torino,10138,10,position
+31.03.21 11:21:51,7.669519,45.078036,Corso Principe Oddone,Torino,10122,20,position
+31.03.21 11:26:16,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,13,position
+31.03.21 11:30:36,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,26,position
+31.03.21 11:33:39,7.67115,45.081096,Corso Umbria,Torino,10144,34,position
+31.03.21 11:35:38,7.669277,45.083255,Corso Umbria,Torino,10144,10,position
+31.03.21 11:38:15,7.667276,45.085539,Corso Umbria 30,Torino,10144,26,position
+31.03.21 11:42:44,7.666182,45.086884,Corso Umbria 42,Torino,10144,34,position
+31.03.21 11:45:08,7.666295,45.087153,Via Treviso,Torino,10144,17,position
+31.03.21 11:49:04,7.665866,45.087274,Corso Umbria,Torino,10144,36,position
+31.03.21 11:51:36,7.665592,45.087471,Corso Umbria 53,Torino,10144,15,position
+31.03.21 11:54:44,7.664541,45.088747,Corso Umbria 65,Torino,10149,29,position
+31.03.21 11:56:49,7.664353,45.089293,Corso Umbria,Torino,10149,33,position
+31.03.21 12:01:07,7.664026,45.089391,Corso Umbria 90,Torino,10149,26,position
+31.03.21 12:05:50,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,37,position
+31.03.21 12:08:06,7.662845,45.091637,Corso Svizzera,Torino,10149,25,position
+31.03.21 12:11:06,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+31.03.21 12:11:06,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+31.03.21 13:11:06,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+01.04.21 10:03:58,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+01.04.21 10:05:33,7.659042,45.089194,Corso Svizzera 157,Torino,10149,34,position
+01.04.21 10:10:11,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,34,position
+01.04.21 10:13:48,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,21,position
+01.04.21 10:16:22,7.652857,45.087069,Corso Regina Margherita,Torino,10143,28,position
+01.04.21 10:17:29,7.652658,45.087376,Corso Regina Margherita,Torino,10143,16,position
+01.04.21 10:18:31,7.651972,45.087592,Corso Regina Margherita,Torino,10143,10,position
+01.04.21 10:20:05,7.652803,45.088831,Corso Potenza 16,Torino,10143,39,position
+01.04.21 10:23:46,7.653721,45.090239,Corso Potenza 26,Torino,10143,16,position
+01.04.21 10:27:10,7.654498,45.091353,Corso Potenza,Torino,10149,25,position
+01.04.21 10:30:28,7.654863,45.091387,Via Pianezza,Torino,10149,38,position
+01.04.21 10:32:26,7.655078,45.091504,Via Nole 78,Torino,10149,28,position
+01.04.21 10:35:00,7.657905,45.091656,Via Nole 19,Torino,10149,15,position
+01.04.21 10:36:37,7.660517,45.091811,Via Nole,Torino,10149,26,position
+01.04.21 10:41:35,7.662191,45.091913,Via Nole 50,Torino,10149,22,position
+01.04.21 10:44:35,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+01.04.21 10:44:35,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+01.04.21 11:44:35,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+02.04.21 10:03:57,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+02.04.21 10:05:39,7.659042,45.089194,Corso Svizzera 157,Torino,10149,10,position
+02.04.21 10:08:05,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,32,position
+02.04.21 10:10:01,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,35,position
+02.04.21 10:12:52,7.652857,45.087069,Corso Regina Margherita,Torino,10143,27,position
+02.04.21 10:17:39,7.652658,45.087376,Corso Regina Margherita,Torino,10143,14,position
+02.04.21 10:19:49,7.651972,45.087592,Corso Regina Margherita,Torino,10143,39,position
+02.04.21 10:22:42,7.652803,45.088831,Corso Potenza 16,Torino,10143,25,position
+02.04.21 10:25:47,7.653721,45.090239,Corso Potenza 26,Torino,10143,22,position
+02.04.21 10:29:20,7.654498,45.091353,Corso Potenza,Torino,10149,32,position
+02.04.21 10:32:48,7.654863,45.091387,Via Pianezza,Torino,10149,14,position
+02.04.21 10:34:35,7.655078,45.091504,Via Nole 78,Torino,10149,20,position
+02.04.21 10:38:37,7.657905,45.091656,Via Nole 19,Torino,10149,39,position
+02.04.21 10:40:35,7.660517,45.091811,Via Nole,Torino,10149,24,position
+02.04.21 10:41:55,7.662191,45.091913,Via Nole 50,Torino,10149,30,position
+02.04.21 10:44:55,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+02.04.21 10:44:55,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+02.04.21 11:44:55,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+03.04.21 10:03:55,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+03.04.21 10:08:19,7.657819,45.088259,Corso Svizzera 145,Torino,10149,35,position
+03.04.21 10:13:10,7.656279,45.087164,Corso Svizzera,Torino,10143,11,position
+03.04.21 10:17:39,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,24,position
+03.04.21 10:22:12,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,13,position
+03.04.21 10:23:18,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,21,position
+03.04.21 10:26:07,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,35,position
+03.04.21 10:29:12,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,28,position
+03.04.21 10:32:33,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,39,position
+03.04.21 10:34:36,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,37,position
+03.04.21 10:39:15,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,28,position
+03.04.21 10:42:19,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,15,position
+03.04.21 10:44:03,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,20,position
+03.04.21 10:48:14,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,13,position
+03.04.21 10:50:26,7.657932,45.061366,Corso Peschiera,Torino,10138,39,position
+03.04.21 10:53:41,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,40,position
+03.04.21 10:58:39,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,40,position
+03.04.21 11:02:34,7.664573,45.064981,Corso Stati Uniti,Torino,10128,12,position
+03.04.21 11:07:22,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,21,position
+03.04.21 11:09:14,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,28,position
+03.04.21 11:13:01,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,21,position
+03.04.21 11:16:33,7.665849,45.072535,Corso Inghilterra,Torino,10138,28,position
+03.04.21 11:20:47,7.667405,45.074778,Corso Inghilterra,Torino,10138,11,position
+03.04.21 11:22:09,7.669519,45.078036,Corso Principe Oddone,Torino,10122,40,position
+03.04.21 11:26:25,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,11,position
+03.04.21 11:30:18,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,20,position
+03.04.21 11:35:00,7.67115,45.081096,Corso Umbria,Torino,10144,26,position
+03.04.21 11:36:48,7.669277,45.083255,Corso Umbria,Torino,10144,30,position
+03.04.21 11:41:21,7.667276,45.085539,Corso Umbria 30,Torino,10144,23,position
+03.04.21 11:44:19,7.666182,45.086884,Corso Umbria 42,Torino,10144,22,position
+03.04.21 11:48:46,7.666295,45.087153,Via Treviso,Torino,10144,29,position
+03.04.21 11:49:58,7.665866,45.087274,Corso Umbria,Torino,10144,17,position
+03.04.21 11:53:38,7.665592,45.087471,Corso Umbria 53,Torino,10144,25,position
+03.04.21 11:58:07,7.664541,45.088747,Corso Umbria 65,Torino,10149,30,position
+03.04.21 12:02:01,7.664353,45.089293,Corso Umbria,Torino,10149,22,position
+03.04.21 12:06:40,7.664026,45.089391,Corso Umbria 90,Torino,10149,10,position
+03.04.21 12:09:32,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,37,position
+03.04.21 12:14:22,7.662845,45.091637,Corso Svizzera,Torino,10149,24,position
+03.04.21 12:17:22,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+03.04.21 12:17:22,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+03.04.21 13:17:22,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+04.04.21 10:03:57,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+04.04.21 10:06:37,7.658355,45.08866,Corso Svizzera 149,Torino,10149,35,position
+04.04.21 10:09:38,7.656113,45.087043,Corso Svizzera 129,Torino,10143,20,position
+04.04.21 10:13:53,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,39,position
+04.04.21 10:15:27,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,27,position
+04.04.21 10:19:52,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,11,position
+04.04.21 10:22:57,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,31,position
+04.04.21 10:26:48,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,35,position
+04.04.21 10:30:00,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,16,position
+04.04.21 10:33:12,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,37,position
+04.04.21 10:34:33,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,36,position
+04.04.21 10:35:53,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,19,position
+04.04.21 10:38:35,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,14,position
+04.04.21 10:40:13,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,24,position
+04.04.21 10:41:19,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,40,position
+04.04.21 10:43:30,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,12,position
+04.04.21 10:45:03,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,20,position
+04.04.21 10:48:59,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,14,position
+04.04.21 10:52:47,7.693154,45.057599,Ponte Umberto I,Torino,10131,37,position
+04.04.21 10:56:50,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,18,position
+04.04.21 11:01:33,7.699892,45.063836,Corso Casale,Torino,10131,16,position
+04.04.21 11:05:47,7.709076,45.067231,Corso Casale 71,Torino,10132,10,position
+04.04.21 11:10:11,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,24,position
+04.04.21 11:13:00,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,37,position
+04.04.21 11:16:50,7.704355,45.069853,Corso Regina Margherita,Torino,10153,11,position
+04.04.21 11:18:56,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,32,position
+04.04.21 11:21:31,7.707316,45.072081,Corso Tortona,Torino,10153,19,position
+04.04.21 11:24:51,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,30,position
+04.04.21 11:28:35,7.703239,45.076627,Corso Novara,Torino,10153,37,position
+04.04.21 11:30:45,7.7006,45.079733,Corso Novara,Torino,10154,19,position
+04.04.21 11:34:45,7.697414,45.083312,Via Bologna,Torino,10154,34,position
+04.04.21 11:37:55,7.695778,45.085111,Corso Novara,Torino,10154,19,position
+04.04.21 11:39:30,7.693567,45.086342,Corso Novara,Torino,10154,16,position
+04.04.21 11:41:35,7.690644,45.087884,Corso Novara,Torino,10155,26,position
+04.04.21 11:44:28,7.688262,45.088967,Corso Vigevano,Torino,10155,29,position
+04.04.21 11:47:10,7.683649,45.089527,Corso Vigevano,Torino,10155,15,position
+04.04.21 11:50:42,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,19,position
+04.04.21 11:54:55,7.67778,45.09055,Corso Mortara,Torino,10149,37,position
+04.04.21 11:57:24,7.676782,45.089952,Corso Mortara,Torino,10149,32,position
+04.04.21 11:58:44,7.6738,45.0898,Corso Mortara,Torino,10149,27,position
+04.04.21 12:01:19,7.670635,45.09052,Corso Mortara,Torino,10149,14,position
+04.04.21 12:05:33,7.67057,45.090861,Via Orvieto,Torino,10149,39,position
+04.04.21 12:09:58,7.668961,45.091111,Corso Mortara 64,Torino,10149,14,position
+04.04.21 12:13:24,7.668349,45.093209,Via Verolengo,Torino,10149,21,position
+04.04.21 12:17:22,7.66733,45.093761,Via Verolengo,Torino,10149,34,position
+04.04.21 12:19:12,7.662942,45.093739,Via Borgaro,Torino,10149,13,position
+04.04.21 12:20:31,7.66284,45.091944,Via Borgaro,Torino,10149,22,position
+04.04.21 12:23:31,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+04.04.21 12:23:31,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+04.04.21 13:23:31,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+05.04.21 10:03:40,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+05.04.21 10:05:06,7.65791,45.091656,Via Nole 19,Torino,10149,14,position
+05.04.21 10:09:24,7.655056,45.091497,Via Nole 78,Torino,10149,22,position
+05.04.21 10:10:48,7.65415,45.091868,Via Pianezza,Torino,10149,36,position
+05.04.21 10:12:20,7.651907,45.093455,Via Pianezza 80,Torino,10149,38,position
+05.04.21 10:15:52,7.650615,45.094239,Via Pianezza 94,Torino,10149,26,position
+05.04.21 10:18:32,7.649252,45.094693,Via Foglizzo,Torino,10149,28,position
+05.04.21 10:22:06,7.64907,45.095155,Via Foglizzo 1,Torino,10149,27,position
+05.04.21 10:26:48,7.649359,45.098639,Corso Lombardia 128,Torino,10149,39,position
+05.04.21 10:29:16,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,35,position
+05.04.21 10:30:19,7.644521,45.100676,Corso Toscana,Torino,10151,34,position
+05.04.21 10:31:41,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,37,position
+05.04.21 10:33:01,7.638341,45.10241,Viale dei Mughetti,Torino,10151,11,position
+05.04.21 10:37:33,7.638416,45.102865,Corso Molise,Torino,10151,23,position
+05.04.21 10:40:44,7.638523,45.105046,Corso Molise,Torino,10151,39,position
+05.04.21 10:42:58,7.638652,45.106886,Corso Molise,Torino,10151,28,position
+05.04.21 10:46:47,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,17,position
+05.04.21 10:48:57,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,31,position
+05.04.21 10:50:39,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,27,position
+05.04.21 10:54:43,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,33,position
+05.04.21 10:56:27,7.638137,45.112307,Via Druento,Torino,10151,34,position
+05.04.21 11:00:25,7.639961,45.112224,Via Druento,Torino,10151,22,position
+05.04.21 11:05:01,7.642868,45.111989,Via Druento,Torino,10151,13,position
+05.04.21 11:07:50,7.645229,45.1118,Via Druento,Torino,10151,26,position
+05.04.21 11:11:10,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,25,position
+05.04.21 11:16:06,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,17,position
+05.04.21 11:18:07,7.647879,45.105985,Corso Grosseto,Torino,10151,40,position
+05.04.21 11:21:01,7.652943,45.105788,Corso Grosseto,Torino,10151,13,position
+05.04.21 11:22:30,7.659745,45.10547,Corso Grosseto,Torino,10151,37,position
+05.04.21 11:24:41,7.662792,45.105303,Corso Grosseto,Torino,10151,28,position
+05.04.21 11:27:18,7.663586,45.103773,Via Lucento,Torino,10149,14,position
+05.04.21 11:31:50,7.662513,45.103955,Corso Potenza,Torino,10149,29,position
+05.04.21 11:34:21,7.660431,45.100775,Corso Potenza 155,Torino,10149,16,position
+05.04.21 11:38:49,7.658693,45.098154,Corso Potenza,Torino,10149,34,position
+05.04.21 11:41:21,7.658071,45.097291,Corso Potenza,Torino,10149,33,position
+05.04.21 11:43:50,7.657041,45.096836,Largo Toscana,Torino,10149,15,position
+05.04.21 11:45:56,7.65805,45.096306,Largo Toscana 27,Torino,10149,35,position
+05.04.21 11:50:35,7.659122,45.096337,Corso Toscana,Torino,10149,38,position
+05.04.21 11:53:56,7.662406,45.095458,Corso Toscana,Torino,10149,27,position
+05.04.21 11:56:26,7.662942,45.094943,Largo Borgaro 27,Torino,10149,21,position
+05.04.21 11:59:32,7.66291,45.093459,Via Borgaro,Torino,10149,20,position
+05.04.21 12:01:47,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,26,position
+05.04.21 12:04:47,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+05.04.21 12:04:47,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+05.04.21 13:04:47,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+06.04.21 10:03:53,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+06.04.21 10:06:32,7.65791,45.091656,Via Nole 19,Torino,10149,30,position
+06.04.21 10:07:47,7.655056,45.091497,Via Nole 78,Torino,10149,33,position
+06.04.21 10:11:13,7.65415,45.091868,Via Pianezza,Torino,10149,38,position
+06.04.21 10:14:59,7.651907,45.093455,Via Pianezza 80,Torino,10149,31,position
+06.04.21 10:16:44,7.650615,45.094239,Via Pianezza 94,Torino,10149,13,position
+06.04.21 10:20:29,7.649252,45.094693,Via Foglizzo,Torino,10149,16,position
+06.04.21 10:23:27,7.64907,45.095155,Via Foglizzo 1,Torino,10149,17,position
+06.04.21 10:27:55,7.649359,45.098639,Corso Lombardia 128,Torino,10149,22,position
+06.04.21 10:29:38,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,17,position
+06.04.21 10:32:24,7.644521,45.100676,Corso Toscana,Torino,10151,28,position
+06.04.21 10:36:11,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,32,position
+06.04.21 10:40:36,7.638341,45.10241,Viale dei Mughetti,Torino,10151,40,position
+06.04.21 10:44:54,7.638416,45.102865,Corso Molise,Torino,10151,34,position
+06.04.21 10:46:42,7.638523,45.105046,Corso Molise,Torino,10151,32,position
+06.04.21 10:50:08,7.638652,45.106886,Corso Molise,Torino,10151,37,position
+06.04.21 10:51:53,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,26,position
+06.04.21 10:55:23,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,35,position
+06.04.21 10:57:46,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,39,position
+06.04.21 10:59:17,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,28,position
+06.04.21 11:03:15,7.638137,45.112307,Via Druento,Torino,10151,29,position
+06.04.21 11:05:43,7.639961,45.112224,Via Druento,Torino,10151,34,position
+06.04.21 11:10:26,7.642868,45.111989,Via Druento,Torino,10151,40,position
+06.04.21 11:15:07,7.645229,45.1118,Via Druento,Torino,10151,11,position
+06.04.21 11:16:11,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,30,position
+06.04.21 11:17:30,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,30,position
+06.04.21 11:20:52,7.647879,45.105985,Corso Grosseto,Torino,10151,37,position
+06.04.21 11:24:11,7.652943,45.105788,Corso Grosseto,Torino,10151,18,position
+06.04.21 11:25:33,7.659745,45.10547,Corso Grosseto,Torino,10151,16,position
+06.04.21 11:30:00,7.662792,45.105303,Corso Grosseto,Torino,10151,25,position
+06.04.21 11:33:32,7.663586,45.103773,Via Lucento,Torino,10149,40,position
+06.04.21 11:38:10,7.662513,45.103955,Corso Potenza,Torino,10149,36,position
+06.04.21 11:39:34,7.660431,45.100775,Corso Potenza 155,Torino,10149,20,position
+06.04.21 11:42:57,7.658693,45.098154,Corso Potenza,Torino,10149,25,position
+06.04.21 11:47:19,7.658071,45.097291,Corso Potenza,Torino,10149,17,position
+06.04.21 11:50:13,7.657041,45.096836,Largo Toscana,Torino,10149,14,position
+06.04.21 11:53:38,7.65805,45.096306,Largo Toscana 27,Torino,10149,20,position
+06.04.21 11:54:56,7.659122,45.096337,Corso Toscana,Torino,10149,22,position
+06.04.21 11:59:34,7.662406,45.095458,Corso Toscana,Torino,10149,34,position
+06.04.21 12:03:30,7.662942,45.094943,Largo Borgaro 27,Torino,10149,15,position
+06.04.21 12:05:59,7.66291,45.093459,Via Borgaro,Torino,10149,14,position
+06.04.21 12:08:47,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,18,position
+06.04.21 12:11:47,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+06.04.21 12:11:47,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+06.04.21 13:11:47,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+07.04.21 10:03:05,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+07.04.21 10:08:01,7.655019,45.091504,Via Nole 80,Torino,10149,34,position
+07.04.21 10:11:02,7.654429,45.091807,Corso Potenza 73,Torino,10149,12,position
+07.04.21 10:14:37,7.653039,45.08977,Corso Potenza 21,Torino,10143,40,position
+07.04.21 10:15:58,7.651441,45.087407,Corso Regina Margherita,Torino,10143,21,position
+07.04.21 10:20:46,7.642622,45.090383,Corso Regina Margherita,Torino,10151,28,position
+07.04.21 10:22:57,7.635401,45.092709,Corso Regina Margherita,Torino,10151,35,position
+07.04.21 10:27:33,7.629393,45.094905,Corso Regina Margherita,Torino,10151,17,position
+07.04.21 10:28:53,7.622054,45.097791,Corso Regina Margherita,Torino,10151,16,position
+07.04.21 10:33:19,7.615864,45.100184,Corso Regina Margherita,Torino,10151,27,position
+07.04.21 10:37:53,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,20,position
+07.04.21 10:40:29,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,14,position
+07.04.21 10:42:44,7.600479,45.105742,Tangenziale Nord,Collegno,10093,16,position
+07.04.21 10:46:46,7.598333,45.105697,Via Venaria,Collegno,10093,32,position
+07.04.21 10:51:28,7.596316,45.104107,Tangenziale Nord,Collegno,10093,20,position
+07.04.21 10:55:42,7.594857,45.10338,Tangenziale Nord,Collegno,10093,23,position
+07.04.21 10:57:57,7.586832,45.101138,Tangenziale Nord,Collegno,10093,37,position
+07.04.21 10:59:19,7.580201,45.099381,Tangenziale Nord,Collegno,10093,19,position
+07.04.21 11:02:21,7.576854,45.098381,Tangenziale Nord,Collegno,10093,35,position
+07.04.21 11:03:39,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,21,position
+07.04.21 11:06:48,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,36,position
+07.04.21 11:08:20,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,28,position
+07.04.21 11:12:43,7.580845,45.092959,Via della Piombia,Collegno,10093,11,position
+07.04.21 11:14:01,7.584128,45.090762,Via Sebusto 24,Collegno,10093,29,position
+07.04.21 11:18:24,7.586317,45.087399,Via della Varda,Collegno,10093,12,position
+07.04.21 11:23:17,7.587819,45.084445,Via della Varda,Collegno,10093,37,position
+07.04.21 11:25:47,7.587561,45.08043,Viale Certosa,Collegno,10093,39,position
+07.04.21 11:28:10,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,38,position
+07.04.21 11:31:59,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,35,position
+07.04.21 11:33:29,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,32,position
+07.04.21 11:34:57,7.586993,45.074107,Via Torino,Collegno,10093,34,position
+07.04.21 11:36:24,7.587985,45.073581,Via Torino,Collegno,10093,22,position
+07.04.21 11:40:08,7.588092,45.073175,Corso Francia,Collegno,10093,32,position
+07.04.21 11:43:52,7.593843,45.073425,Corso Francia,Collegno,10093,16,position
+07.04.21 11:48:06,7.607903,45.07399,Corso Francia,Torino,10146,18,position
+07.04.21 11:50:16,7.618567,45.074429,Corso Francia,Torino,10146,28,position
+07.04.21 11:53:49,7.632708,45.07502,Corso Francia,Torino,10146,16,position
+07.04.21 11:57:43,7.641624,45.075376,Corso Francia,Torino,10145,33,position
+07.04.21 12:01:50,7.648791,45.075642,Corso Francia 111,Torino,10138,38,position
+07.04.21 12:06:06,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,18,position
+07.04.21 12:07:45,7.651065,45.081786,Corso Svizzera 68,Torino,10143,23,position
+07.04.21 12:11:57,7.651741,45.08318,Corso Svizzera 76,Torino,10143,10,position
+07.04.21 12:16:36,7.653104,45.084551,Corso Svizzera,Torino,10143,11,position
+07.04.21 12:21:25,7.655646,45.086429,Corso Svizzera,Torino,10143,22,position
+07.04.21 12:23:42,7.659852,45.089474,Corso Svizzera,Torino,10149,40,position
+07.04.21 12:24:42,7.66276,45.091595,Corso Svizzera,Torino,10149,17,position
+07.04.21 12:27:42,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+07.04.21 12:27:42,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+07.04.21 13:27:42,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+08.04.21 10:04:28,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+08.04.21 10:06:52,7.659042,45.089194,Corso Svizzera 157,Torino,10149,11,position
+08.04.21 10:10:08,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,11,position
+08.04.21 10:14:27,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,26,position
+08.04.21 10:18:55,7.652857,45.087069,Corso Regina Margherita,Torino,10143,19,position
+08.04.21 10:20:42,7.652658,45.087376,Corso Regina Margherita,Torino,10143,40,position
+08.04.21 10:24:51,7.651972,45.087592,Corso Regina Margherita,Torino,10143,18,position
+08.04.21 10:28:06,7.652803,45.088831,Corso Potenza 16,Torino,10143,39,position
+08.04.21 10:31:48,7.653721,45.090239,Corso Potenza 26,Torino,10143,12,position
+08.04.21 10:35:49,7.654498,45.091353,Corso Potenza,Torino,10149,12,position
+08.04.21 10:39:56,7.654863,45.091387,Via Pianezza,Torino,10149,31,position
+08.04.21 10:43:39,7.655078,45.091504,Via Nole 78,Torino,10149,19,position
+08.04.21 10:48:22,7.657905,45.091656,Via Nole 19,Torino,10149,17,position
+08.04.21 10:52:56,7.660517,45.091811,Via Nole,Torino,10149,10,position
+08.04.21 10:57:49,7.662191,45.091913,Via Nole 50,Torino,10149,19,position
+08.04.21 11:00:49,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+08.04.21 11:00:49,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+08.04.21 12:00:49,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+09.04.21 10:04:52,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+09.04.21 10:09:36,7.655019,45.091504,Via Nole 80,Torino,10149,13,position
+09.04.21 10:14:22,7.654429,45.091807,Corso Potenza 73,Torino,10149,37,position
+09.04.21 10:17:05,7.653039,45.08977,Corso Potenza 21,Torino,10143,26,position
+09.04.21 10:19:28,7.651441,45.087407,Corso Regina Margherita,Torino,10143,27,position
+09.04.21 10:23:18,7.642622,45.090383,Corso Regina Margherita,Torino,10151,31,position
+09.04.21 10:24:23,7.635401,45.092709,Corso Regina Margherita,Torino,10151,30,position
+09.04.21 10:28:31,7.629393,45.094905,Corso Regina Margherita,Torino,10151,18,position
+09.04.21 10:32:59,7.622054,45.097791,Corso Regina Margherita,Torino,10151,21,position
+09.04.21 10:33:59,7.615864,45.100184,Corso Regina Margherita,Torino,10151,40,position
+09.04.21 10:37:15,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,32,position
+09.04.21 10:42:15,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,23,position
+09.04.21 10:43:39,7.600479,45.105742,Tangenziale Nord,Collegno,10093,24,position
+09.04.21 10:47:20,7.598333,45.105697,Via Venaria,Collegno,10093,22,position
+09.04.21 10:51:24,7.596316,45.104107,Tangenziale Nord,Collegno,10093,24,position
+09.04.21 10:53:57,7.594857,45.10338,Tangenziale Nord,Collegno,10093,13,position
+09.04.21 10:55:47,7.586832,45.101138,Tangenziale Nord,Collegno,10093,39,position
+09.04.21 11:00:23,7.580201,45.099381,Tangenziale Nord,Collegno,10093,36,position
+09.04.21 11:01:48,7.576854,45.098381,Tangenziale Nord,Collegno,10093,23,position
+09.04.21 11:04:00,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,22,position
+09.04.21 11:07:14,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,13,position
+09.04.21 11:09:52,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,23,position
+09.04.21 11:11:02,7.580845,45.092959,Via della Piombia,Collegno,10093,24,position
+09.04.21 11:16:02,7.584128,45.090762,Via Sebusto 24,Collegno,10093,35,position
+09.04.21 11:18:49,7.586317,45.087399,Via della Varda,Collegno,10093,35,position
+09.04.21 11:21:59,7.587819,45.084445,Via della Varda,Collegno,10093,20,position
+09.04.21 11:26:17,7.587561,45.08043,Viale Certosa,Collegno,10093,22,position
+09.04.21 11:30:16,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,16,position
+09.04.21 11:31:46,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,13,position
+09.04.21 11:35:17,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,32,position
+09.04.21 11:39:00,7.586993,45.074107,Via Torino,Collegno,10093,39,position
+09.04.21 11:43:57,7.587985,45.073581,Via Torino,Collegno,10093,32,position
+09.04.21 11:45:09,7.588092,45.073175,Corso Francia,Collegno,10093,31,position
+09.04.21 11:49:13,7.593843,45.073425,Corso Francia,Collegno,10093,15,position
+09.04.21 11:51:40,7.607903,45.07399,Corso Francia,Torino,10146,28,position
+09.04.21 11:53:18,7.618567,45.074429,Corso Francia,Torino,10146,12,position
+09.04.21 11:54:34,7.632708,45.07502,Corso Francia,Torino,10146,17,position
+09.04.21 11:57:51,7.641624,45.075376,Corso Francia,Torino,10145,22,position
+09.04.21 12:01:29,7.648791,45.075642,Corso Francia 111,Torino,10138,39,position
+09.04.21 12:03:41,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,37,position
+09.04.21 12:05:41,7.651065,45.081786,Corso Svizzera 68,Torino,10143,27,position
+09.04.21 12:09:24,7.651741,45.08318,Corso Svizzera 76,Torino,10143,12,position
+09.04.21 12:13:27,7.653104,45.084551,Corso Svizzera,Torino,10143,25,position
+09.04.21 12:14:43,7.655646,45.086429,Corso Svizzera,Torino,10143,24,position
+09.04.21 12:17:18,7.659852,45.089474,Corso Svizzera,Torino,10149,12,position
+09.04.21 12:18:58,7.66276,45.091595,Corso Svizzera,Torino,10149,25,position
+09.04.21 12:21:58,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+09.04.21 12:21:58,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+09.04.21 13:21:58,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+10.04.21 10:03:55,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+10.04.21 10:08:24,7.655019,45.091504,Via Nole 80,Torino,10149,40,position
+10.04.21 10:13:13,7.654429,45.091807,Corso Potenza 73,Torino,10149,14,position
+10.04.21 10:14:41,7.653039,45.08977,Corso Potenza 21,Torino,10143,36,position
+10.04.21 10:16:21,7.651441,45.087407,Corso Regina Margherita,Torino,10143,26,position
+10.04.21 10:19:31,7.642622,45.090383,Corso Regina Margherita,Torino,10151,16,position
+10.04.21 10:22:24,7.635401,45.092709,Corso Regina Margherita,Torino,10151,25,position
+10.04.21 10:25:26,7.629393,45.094905,Corso Regina Margherita,Torino,10151,31,position
+10.04.21 10:27:56,7.622054,45.097791,Corso Regina Margherita,Torino,10151,26,position
+10.04.21 10:31:31,7.615864,45.100184,Corso Regina Margherita,Torino,10151,19,position
+10.04.21 10:34:26,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,17,position
+10.04.21 10:39:18,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,25,position
+10.04.21 10:42:54,7.600479,45.105742,Tangenziale Nord,Collegno,10093,24,position
+10.04.21 10:47:10,7.598333,45.105697,Via Venaria,Collegno,10093,39,position
+10.04.21 10:51:50,7.596316,45.104107,Tangenziale Nord,Collegno,10093,35,position
+10.04.21 10:55:06,7.594857,45.10338,Tangenziale Nord,Collegno,10093,32,position
+10.04.21 10:57:48,7.586832,45.101138,Tangenziale Nord,Collegno,10093,39,position
+10.04.21 11:01:55,7.580201,45.099381,Tangenziale Nord,Collegno,10093,30,position
+10.04.21 11:03:06,7.576854,45.098381,Tangenziale Nord,Collegno,10093,30,position
+10.04.21 11:07:55,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,29,position
+10.04.21 11:10:55,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,31,position
+10.04.21 11:15:55,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,34,position
+10.04.21 11:19:20,7.580845,45.092959,Via della Piombia,Collegno,10093,36,position
+10.04.21 11:20:49,7.584128,45.090762,Via Sebusto 24,Collegno,10093,38,position
+10.04.21 11:22:46,7.586317,45.087399,Via della Varda,Collegno,10093,40,position
+10.04.21 11:25:31,7.587819,45.084445,Via della Varda,Collegno,10093,21,position
+10.04.21 11:30:25,7.587561,45.08043,Viale Certosa,Collegno,10093,24,position
+10.04.21 11:33:16,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,39,position
+10.04.21 11:35:54,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,21,position
+10.04.21 11:37:49,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,16,position
+10.04.21 11:41:14,7.586993,45.074107,Via Torino,Collegno,10093,37,position
+10.04.21 11:43:13,7.587985,45.073581,Via Torino,Collegno,10093,40,position
+10.04.21 11:45:17,7.588092,45.073175,Corso Francia,Collegno,10093,16,position
+10.04.21 11:48:19,7.593843,45.073425,Corso Francia,Collegno,10093,10,position
+10.04.21 11:50:12,7.607903,45.07399,Corso Francia,Torino,10146,33,position
+10.04.21 11:52:09,7.618567,45.074429,Corso Francia,Torino,10146,27,position
+10.04.21 11:53:27,7.632708,45.07502,Corso Francia,Torino,10146,24,position
+10.04.21 11:56:50,7.641624,45.075376,Corso Francia,Torino,10145,16,position
+10.04.21 12:01:19,7.648791,45.075642,Corso Francia 111,Torino,10138,16,position
+10.04.21 12:04:57,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,34,position
+10.04.21 12:09:05,7.651065,45.081786,Corso Svizzera 68,Torino,10143,25,position
+10.04.21 12:10:29,7.651741,45.08318,Corso Svizzera 76,Torino,10143,15,position
+10.04.21 12:13:24,7.653104,45.084551,Corso Svizzera,Torino,10143,33,position
+10.04.21 12:18:23,7.655646,45.086429,Corso Svizzera,Torino,10143,14,position
+10.04.21 12:21:32,7.659852,45.089474,Corso Svizzera,Torino,10149,22,position
+10.04.21 12:25:51,7.66276,45.091595,Corso Svizzera,Torino,10149,29,position
+10.04.21 12:28:51,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+10.04.21 12:28:51,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+10.04.21 13:28:51,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+11.04.21 10:03:51,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+11.04.21 10:07:16,7.655019,45.091504,Via Nole 80,Torino,10149,16,position
+11.04.21 10:11:55,7.654429,45.091807,Corso Potenza 73,Torino,10149,17,position
+11.04.21 10:15:47,7.653039,45.08977,Corso Potenza 21,Torino,10143,23,position
+11.04.21 10:20:36,7.651441,45.087407,Corso Regina Margherita,Torino,10143,23,position
+11.04.21 10:22:50,7.642622,45.090383,Corso Regina Margherita,Torino,10151,19,position
+11.04.21 10:26:25,7.635401,45.092709,Corso Regina Margherita,Torino,10151,21,position
+11.04.21 10:29:14,7.629393,45.094905,Corso Regina Margherita,Torino,10151,37,position
+11.04.21 10:32:03,7.622054,45.097791,Corso Regina Margherita,Torino,10151,12,position
+11.04.21 10:33:32,7.615864,45.100184,Corso Regina Margherita,Torino,10151,14,position
+11.04.21 10:38:01,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,19,position
+11.04.21 10:39:06,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,22,position
+11.04.21 10:41:49,7.600479,45.105742,Tangenziale Nord,Collegno,10093,15,position
+11.04.21 10:45:02,7.598333,45.105697,Via Venaria,Collegno,10093,17,position
+11.04.21 10:48:31,7.596316,45.104107,Tangenziale Nord,Collegno,10093,14,position
+11.04.21 10:50:46,7.594857,45.10338,Tangenziale Nord,Collegno,10093,18,position
+11.04.21 10:53:35,7.586832,45.101138,Tangenziale Nord,Collegno,10093,28,position
+11.04.21 10:55:43,7.580201,45.099381,Tangenziale Nord,Collegno,10093,18,position
+11.04.21 11:00:24,7.576854,45.098381,Tangenziale Nord,Collegno,10093,33,position
+11.04.21 11:01:46,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,31,position
+11.04.21 11:06:10,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,33,position
+11.04.21 11:08:26,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,29,position
+11.04.21 11:13:17,7.580845,45.092959,Via della Piombia,Collegno,10093,15,position
+11.04.21 11:18:03,7.584128,45.090762,Via Sebusto 24,Collegno,10093,20,position
+11.04.21 11:22:32,7.586317,45.087399,Via della Varda,Collegno,10093,14,position
+11.04.21 11:26:23,7.587819,45.084445,Via della Varda,Collegno,10093,37,position
+11.04.21 11:31:08,7.587561,45.08043,Viale Certosa,Collegno,10093,38,position
+11.04.21 11:34:13,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,22,position
+11.04.21 11:37:27,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,10,position
+11.04.21 11:39:41,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,26,position
+11.04.21 11:42:35,7.586993,45.074107,Via Torino,Collegno,10093,20,position
+11.04.21 11:45:35,7.587985,45.073581,Via Torino,Collegno,10093,16,position
+11.04.21 11:49:48,7.588092,45.073175,Corso Francia,Collegno,10093,29,position
+11.04.21 11:52:00,7.593843,45.073425,Corso Francia,Collegno,10093,40,position
+11.04.21 11:55:50,7.607903,45.07399,Corso Francia,Torino,10146,23,position
+11.04.21 11:59:49,7.618567,45.074429,Corso Francia,Torino,10146,36,position
+11.04.21 12:01:45,7.632708,45.07502,Corso Francia,Torino,10146,24,position
+11.04.21 12:06:43,7.641624,45.075376,Corso Francia,Torino,10145,37,position
+11.04.21 12:08:04,7.648791,45.075642,Corso Francia 111,Torino,10138,36,position
+11.04.21 12:11:02,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,17,position
+11.04.21 12:14:26,7.651065,45.081786,Corso Svizzera 68,Torino,10143,40,position
+11.04.21 12:17:22,7.651741,45.08318,Corso Svizzera 76,Torino,10143,39,position
+11.04.21 12:20:40,7.653104,45.084551,Corso Svizzera,Torino,10143,19,position
+11.04.21 12:24:56,7.655646,45.086429,Corso Svizzera,Torino,10143,21,position
+11.04.21 12:26:49,7.659852,45.089474,Corso Svizzera,Torino,10149,34,position
+11.04.21 12:30:50,7.66276,45.091595,Corso Svizzera,Torino,10149,38,position
+11.04.21 12:33:50,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+11.04.21 12:33:51,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+11.04.21 13:33:50,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+12.04.21 10:03:44,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+12.04.21 10:08:42,7.65791,45.091656,Via Nole 19,Torino,10149,14,position
+12.04.21 10:12:13,7.655056,45.091497,Via Nole 78,Torino,10149,11,position
+12.04.21 10:14:43,7.65415,45.091868,Via Pianezza,Torino,10149,33,position
+12.04.21 10:16:03,7.651907,45.093455,Via Pianezza 80,Torino,10149,11,position
+12.04.21 10:20:48,7.650615,45.094239,Via Pianezza 94,Torino,10149,35,position
+12.04.21 10:22:22,7.649252,45.094693,Via Foglizzo,Torino,10149,16,position
+12.04.21 10:24:02,7.64907,45.095155,Via Foglizzo 1,Torino,10149,20,position
+12.04.21 10:25:25,7.649359,45.098639,Corso Lombardia 128,Torino,10149,11,position
+12.04.21 10:27:18,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,30,position
+12.04.21 10:30:49,7.644521,45.100676,Corso Toscana,Torino,10151,11,position
+12.04.21 10:34:44,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,12,position
+12.04.21 10:39:23,7.638341,45.10241,Viale dei Mughetti,Torino,10151,38,position
+12.04.21 10:42:52,7.638416,45.102865,Corso Molise,Torino,10151,37,position
+12.04.21 10:45:52,7.638523,45.105046,Corso Molise,Torino,10151,35,position
+12.04.21 10:48:28,7.638652,45.106886,Corso Molise,Torino,10151,17,position
+12.04.21 10:51:58,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,16,position
+12.04.21 10:56:09,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,39,position
+12.04.21 10:57:56,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,39,position
+12.04.21 10:59:56,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,38,position
+12.04.21 11:02:28,7.638137,45.112307,Via Druento,Torino,10151,40,position
+12.04.21 11:04:44,7.639961,45.112224,Via Druento,Torino,10151,13,position
+12.04.21 11:08:44,7.642868,45.111989,Via Druento,Torino,10151,24,position
+12.04.21 11:11:07,7.645229,45.1118,Via Druento,Torino,10151,31,position
+12.04.21 11:15:54,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,10,position
+12.04.21 11:16:54,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,19,position
+12.04.21 11:21:52,7.647879,45.105985,Corso Grosseto,Torino,10151,24,position
+12.04.21 11:24:23,7.652943,45.105788,Corso Grosseto,Torino,10151,18,position
+12.04.21 11:26:52,7.659745,45.10547,Corso Grosseto,Torino,10151,36,position
+12.04.21 11:31:18,7.662792,45.105303,Corso Grosseto,Torino,10151,31,position
+12.04.21 11:35:27,7.663586,45.103773,Via Lucento,Torino,10149,37,position
+12.04.21 11:39:41,7.662513,45.103955,Corso Potenza,Torino,10149,33,position
+12.04.21 11:41:04,7.660431,45.100775,Corso Potenza 155,Torino,10149,24,position
+12.04.21 11:45:28,7.658693,45.098154,Corso Potenza,Torino,10149,14,position
+12.04.21 11:48:11,7.658071,45.097291,Corso Potenza,Torino,10149,32,position
+12.04.21 11:51:20,7.657041,45.096836,Largo Toscana,Torino,10149,19,position
+12.04.21 11:53:48,7.65805,45.096306,Largo Toscana 27,Torino,10149,24,position
+12.04.21 11:58:06,7.659122,45.096337,Corso Toscana,Torino,10149,35,position
+12.04.21 12:01:58,7.662406,45.095458,Corso Toscana,Torino,10149,19,position
+12.04.21 12:04:47,7.662942,45.094943,Largo Borgaro 27,Torino,10149,29,position
+12.04.21 12:08:20,7.66291,45.093459,Via Borgaro,Torino,10149,28,position
+12.04.21 12:13:08,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,21,position
+12.04.21 12:16:08,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+12.04.21 12:16:08,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+12.04.21 13:16:08,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+13.04.21 10:08:00,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+13.04.21 10:11:16,7.655019,45.091504,Via Nole 80,Torino,10149,12,position
+13.04.21 10:12:31,7.654429,45.091807,Corso Potenza 73,Torino,10149,18,position
+13.04.21 10:16:27,7.653039,45.08977,Corso Potenza 21,Torino,10143,16,position
+13.04.21 10:17:30,7.651441,45.087407,Corso Regina Margherita,Torino,10143,24,position
+13.04.21 10:21:54,7.642622,45.090383,Corso Regina Margherita,Torino,10151,27,position
+13.04.21 10:23:46,7.635401,45.092709,Corso Regina Margherita,Torino,10151,32,position
+13.04.21 10:28:27,7.629393,45.094905,Corso Regina Margherita,Torino,10151,11,position
+13.04.21 10:32:39,7.622054,45.097791,Corso Regina Margherita,Torino,10151,37,position
+13.04.21 10:37:21,7.615864,45.100184,Corso Regina Margherita,Torino,10151,16,position
+13.04.21 10:39:33,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,13,position
+13.04.21 10:43:13,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,25,position
+13.04.21 10:46:45,7.600479,45.105742,Tangenziale Nord,Collegno,10093,13,position
+13.04.21 10:49:52,7.598333,45.105697,Via Venaria,Collegno,10093,26,position
+13.04.21 10:54:00,7.596316,45.104107,Tangenziale Nord,Collegno,10093,32,position
+13.04.21 10:58:15,7.594857,45.10338,Tangenziale Nord,Collegno,10093,20,position
+13.04.21 11:01:37,7.586832,45.101138,Tangenziale Nord,Collegno,10093,37,position
+13.04.21 11:05:34,7.580201,45.099381,Tangenziale Nord,Collegno,10093,16,position
+13.04.21 11:09:37,7.576854,45.098381,Tangenziale Nord,Collegno,10093,37,position
+13.04.21 11:12:46,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,20,position
+13.04.21 11:14:02,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,40,position
+13.04.21 11:16:18,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,40,position
+13.04.21 11:19:50,7.580845,45.092959,Via della Piombia,Collegno,10093,35,position
+13.04.21 11:23:41,7.584128,45.090762,Via Sebusto 24,Collegno,10093,39,position
+13.04.21 11:26:09,7.586317,45.087399,Via della Varda,Collegno,10093,28,position
+13.04.21 11:29:12,7.587819,45.084445,Via della Varda,Collegno,10093,35,position
+13.04.21 11:31:15,7.587561,45.08043,Viale Certosa,Collegno,10093,34,position
+13.04.21 11:35:58,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,16,position
+13.04.21 11:38:18,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,18,position
+13.04.21 11:40:02,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,15,position
+13.04.21 11:42:21,7.586993,45.074107,Via Torino,Collegno,10093,35,position
+13.04.21 11:46:52,7.587985,45.073581,Via Torino,Collegno,10093,38,position
+13.04.21 11:51:43,7.588092,45.073175,Corso Francia,Collegno,10093,22,position
+13.04.21 11:56:03,7.593843,45.073425,Corso Francia,Collegno,10093,36,position
+13.04.21 11:58:10,7.607903,45.07399,Corso Francia,Torino,10146,37,position
+13.04.21 12:01:12,7.618567,45.074429,Corso Francia,Torino,10146,31,position
+13.04.21 12:03:17,7.632708,45.07502,Corso Francia,Torino,10146,11,position
+13.04.21 12:06:34,7.641624,45.075376,Corso Francia,Torino,10145,20,position
+13.04.21 12:09:31,7.648791,45.075642,Corso Francia 111,Torino,10138,34,position
+13.04.21 12:11:56,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,11,position
+13.04.21 12:15:46,7.651065,45.081786,Corso Svizzera 68,Torino,10143,17,position
+13.04.21 12:19:42,7.651741,45.08318,Corso Svizzera 76,Torino,10143,12,position
+13.04.21 12:21:30,7.653104,45.084551,Corso Svizzera,Torino,10143,15,position
+13.04.21 12:22:51,7.655646,45.086429,Corso Svizzera,Torino,10143,19,position
+13.04.21 12:25:18,7.659852,45.089474,Corso Svizzera,Torino,10149,40,position
+13.04.21 12:27:56,7.66276,45.091595,Corso Svizzera,Torino,10149,25,position
+13.04.21 12:30:56,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+13.04.21 12:30:57,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+13.04.21 13:30:56,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+14.04.21 10:03:06,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+14.04.21 10:04:09,7.658355,45.08866,Corso Svizzera 149,Torino,10149,33,position
+14.04.21 10:07:22,7.656113,45.087043,Corso Svizzera 129,Torino,10143,33,position
+14.04.21 10:10:32,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,38,position
+14.04.21 10:14:17,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,17,position
+14.04.21 10:16:26,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,22,position
+14.04.21 10:20:48,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,32,position
+14.04.21 10:25:42,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,19,position
+14.04.21 10:30:12,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,23,position
+14.04.21 10:35:06,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,10,position
+14.04.21 10:38:31,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,15,position
+14.04.21 10:42:28,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,21,position
+14.04.21 10:44:18,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,29,position
+14.04.21 10:47:06,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,26,position
+14.04.21 10:49:09,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,32,position
+14.04.21 10:53:35,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,28,position
+14.04.21 10:57:03,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,23,position
+14.04.21 11:00:39,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,33,position
+14.04.21 11:05:00,7.693154,45.057599,Ponte Umberto I,Torino,10131,19,position
+14.04.21 11:07:57,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,40,position
+14.04.21 11:11:40,7.699892,45.063836,Corso Casale,Torino,10131,38,position
+14.04.21 11:14:41,7.709076,45.067231,Corso Casale 71,Torino,10132,22,position
+14.04.21 11:19:24,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,21,position
+14.04.21 11:21:53,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,27,position
+14.04.21 11:22:54,7.704355,45.069853,Corso Regina Margherita,Torino,10153,38,position
+14.04.21 11:27:12,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,18,position
+14.04.21 11:29:28,7.707316,45.072081,Corso Tortona,Torino,10153,13,position
+14.04.21 11:31:56,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,11,position
+14.04.21 11:33:51,7.703239,45.076627,Corso Novara,Torino,10153,37,position
+14.04.21 11:38:15,7.7006,45.079733,Corso Novara,Torino,10154,39,position
+14.04.21 11:39:25,7.697414,45.083312,Via Bologna,Torino,10154,26,position
+14.04.21 11:44:01,7.695778,45.085111,Corso Novara,Torino,10154,23,position
+14.04.21 11:46:02,7.693567,45.086342,Corso Novara,Torino,10154,30,position
+14.04.21 11:50:05,7.690644,45.087884,Corso Novara,Torino,10155,32,position
+14.04.21 11:52:26,7.688262,45.088967,Corso Vigevano,Torino,10155,19,position
+14.04.21 11:56:51,7.683649,45.089527,Corso Vigevano,Torino,10155,18,position
+14.04.21 11:58:37,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,23,position
+14.04.21 11:59:44,7.67778,45.09055,Corso Mortara,Torino,10149,27,position
+14.04.21 12:03:20,7.676782,45.089952,Corso Mortara,Torino,10149,11,position
+14.04.21 12:04:55,7.6738,45.0898,Corso Mortara,Torino,10149,40,position
+14.04.21 12:07:16,7.670635,45.09052,Corso Mortara,Torino,10149,19,position
+14.04.21 12:08:23,7.67057,45.090861,Via Orvieto,Torino,10149,35,position
+14.04.21 12:11:20,7.668961,45.091111,Corso Mortara 64,Torino,10149,22,position
+14.04.21 12:14:40,7.668349,45.093209,Via Verolengo,Torino,10149,12,position
+14.04.21 12:15:43,7.66733,45.093761,Via Verolengo,Torino,10149,13,position
+14.04.21 12:17:52,7.662942,45.093739,Via Borgaro,Torino,10149,17,position
+14.04.21 12:22:25,7.66284,45.091944,Via Borgaro,Torino,10149,33,position
+14.04.21 12:25:25,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+14.04.21 12:25:25,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+14.04.21 13:25:25,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+15.04.21 10:03:08,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+15.04.21 10:04:24,7.655019,45.091504,Via Nole 80,Torino,10149,26,position
+15.04.21 10:06:01,7.654429,45.091807,Corso Potenza 73,Torino,10149,11,position
+15.04.21 10:08:33,7.653039,45.08977,Corso Potenza 21,Torino,10143,27,position
+15.04.21 10:10:01,7.651441,45.087407,Corso Regina Margherita,Torino,10143,26,position
+15.04.21 10:11:34,7.642622,45.090383,Corso Regina Margherita,Torino,10151,27,position
+15.04.21 10:13:50,7.635401,45.092709,Corso Regina Margherita,Torino,10151,12,position
+15.04.21 10:15:23,7.629393,45.094905,Corso Regina Margherita,Torino,10151,11,position
+15.04.21 10:18:47,7.622054,45.097791,Corso Regina Margherita,Torino,10151,38,position
+15.04.21 10:22:14,7.615864,45.100184,Corso Regina Margherita,Torino,10151,28,position
+15.04.21 10:23:33,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,20,position
+15.04.21 10:26:15,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,21,position
+15.04.21 10:28:14,7.600479,45.105742,Tangenziale Nord,Collegno,10093,15,position
+15.04.21 10:32:12,7.598333,45.105697,Via Venaria,Collegno,10093,38,position
+15.04.21 10:35:03,7.596316,45.104107,Tangenziale Nord,Collegno,10093,21,position
+15.04.21 10:39:34,7.594857,45.10338,Tangenziale Nord,Collegno,10093,11,position
+15.04.21 10:43:11,7.586832,45.101138,Tangenziale Nord,Collegno,10093,32,position
+15.04.21 10:47:44,7.580201,45.099381,Tangenziale Nord,Collegno,10093,31,position
+15.04.21 10:49:04,7.576854,45.098381,Tangenziale Nord,Collegno,10093,21,position
+15.04.21 10:52:38,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,31,position
+15.04.21 10:57:08,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,17,position
+15.04.21 10:58:54,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,15,position
+15.04.21 11:03:39,7.580845,45.092959,Via della Piombia,Collegno,10093,38,position
+15.04.21 11:05:21,7.584128,45.090762,Via Sebusto 24,Collegno,10093,39,position
+15.04.21 11:07:54,7.586317,45.087399,Via della Varda,Collegno,10093,14,position
+15.04.21 11:11:12,7.587819,45.084445,Via della Varda,Collegno,10093,10,position
+15.04.21 11:13:21,7.587561,45.08043,Viale Certosa,Collegno,10093,14,position
+15.04.21 11:17:50,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,16,position
+15.04.21 11:20:03,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,39,position
+15.04.21 11:23:24,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,26,position
+15.04.21 11:25:41,7.586993,45.074107,Via Torino,Collegno,10093,39,position
+15.04.21 11:28:09,7.587985,45.073581,Via Torino,Collegno,10093,23,position
+15.04.21 11:30:01,7.588092,45.073175,Corso Francia,Collegno,10093,13,position
+15.04.21 11:33:58,7.593843,45.073425,Corso Francia,Collegno,10093,24,position
+15.04.21 11:35:31,7.607903,45.07399,Corso Francia,Torino,10146,39,position
+15.04.21 11:39:11,7.618567,45.074429,Corso Francia,Torino,10146,12,position
+15.04.21 11:40:19,7.632708,45.07502,Corso Francia,Torino,10146,34,position
+15.04.21 11:45:12,7.641624,45.075376,Corso Francia,Torino,10145,20,position
+15.04.21 11:48:04,7.648791,45.075642,Corso Francia 111,Torino,10138,26,position
+15.04.21 11:51:14,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,26,position
+15.04.21 11:54:39,7.651065,45.081786,Corso Svizzera 68,Torino,10143,19,position
+15.04.21 11:56:17,7.651741,45.08318,Corso Svizzera 76,Torino,10143,39,position
+15.04.21 12:00:10,7.653104,45.084551,Corso Svizzera,Torino,10143,26,position
+15.04.21 12:04:47,7.655646,45.086429,Corso Svizzera,Torino,10143,21,position
+15.04.21 12:07:52,7.659852,45.089474,Corso Svizzera,Torino,10149,26,position
+15.04.21 12:12:11,7.66276,45.091595,Corso Svizzera,Torino,10149,10,position
+15.04.21 12:15:11,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+15.04.21 12:15:11,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+15.04.21 13:15:11,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+16.04.21 10:03:05,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+16.04.21 10:04:46,7.657819,45.088259,Corso Svizzera 145,Torino,10149,13,position
+16.04.21 10:05:57,7.656279,45.087164,Corso Svizzera,Torino,10143,16,position
+16.04.21 10:07:28,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,20,position
+16.04.21 10:11:03,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,19,position
+16.04.21 10:13:04,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,23,position
+16.04.21 10:15:19,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,18,position
+16.04.21 10:18:28,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,26,position
+16.04.21 10:21:09,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,29,position
+16.04.21 10:25:58,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,32,position
+16.04.21 10:28:47,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,29,position
+16.04.21 10:32:31,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,16,position
+16.04.21 10:34:53,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,11,position
+16.04.21 10:39:43,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,22,position
+16.04.21 10:41:03,7.657932,45.061366,Corso Peschiera,Torino,10138,36,position
+16.04.21 10:43:21,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,27,position
+16.04.21 10:45:46,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,22,position
+16.04.21 10:49:50,7.664573,45.064981,Corso Stati Uniti,Torino,10128,29,position
+16.04.21 10:53:41,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,12,position
+16.04.21 10:55:46,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,30,position
+16.04.21 11:00:12,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,18,position
+16.04.21 11:01:14,7.665849,45.072535,Corso Inghilterra,Torino,10138,19,position
+16.04.21 11:02:53,7.667405,45.074778,Corso Inghilterra,Torino,10138,10,position
+16.04.21 11:06:08,7.669519,45.078036,Corso Principe Oddone,Torino,10122,27,position
+16.04.21 11:09:32,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,18,position
+16.04.21 11:10:50,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,21,position
+16.04.21 11:13:14,7.67115,45.081096,Corso Umbria,Torino,10144,40,position
+16.04.21 11:16:50,7.669277,45.083255,Corso Umbria,Torino,10144,27,position
+16.04.21 11:18:37,7.667276,45.085539,Corso Umbria 30,Torino,10144,31,position
+16.04.21 11:22:48,7.666182,45.086884,Corso Umbria 42,Torino,10144,10,position
+16.04.21 11:24:00,7.666295,45.087153,Via Treviso,Torino,10144,30,position
+16.04.21 11:28:50,7.665866,45.087274,Corso Umbria,Torino,10144,15,position
+16.04.21 11:31:51,7.665592,45.087471,Corso Umbria 53,Torino,10144,25,position
+16.04.21 11:36:26,7.664541,45.088747,Corso Umbria 65,Torino,10149,13,position
+16.04.21 11:38:55,7.664353,45.089293,Corso Umbria,Torino,10149,24,position
+16.04.21 11:41:09,7.664026,45.089391,Corso Umbria 90,Torino,10149,33,position
+16.04.21 11:42:41,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,16,position
+16.04.21 11:47:00,7.662845,45.091637,Corso Svizzera,Torino,10149,15,position
+16.04.21 11:50:00,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+16.04.21 11:50:00,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+16.04.21 12:50:00,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+17.04.21 10:03:52,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+17.04.21 10:07:24,7.659042,45.089194,Corso Svizzera 157,Torino,10149,37,position
+17.04.21 10:12:11,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,10,position
+17.04.21 10:15:12,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,26,position
+17.04.21 10:18:57,7.652857,45.087069,Corso Regina Margherita,Torino,10143,27,position
+17.04.21 10:23:03,7.652658,45.087376,Corso Regina Margherita,Torino,10143,38,position
+17.04.21 10:28:02,7.651972,45.087592,Corso Regina Margherita,Torino,10143,31,position
+17.04.21 10:32:51,7.652803,45.088831,Corso Potenza 16,Torino,10143,30,position
+17.04.21 10:34:08,7.653721,45.090239,Corso Potenza 26,Torino,10143,26,position
+17.04.21 10:38:42,7.654498,45.091353,Corso Potenza,Torino,10149,31,position
+17.04.21 10:41:44,7.654863,45.091387,Via Pianezza,Torino,10149,12,position
+17.04.21 10:43:04,7.655078,45.091504,Via Nole 78,Torino,10149,23,position
+17.04.21 10:47:58,7.657905,45.091656,Via Nole 19,Torino,10149,36,position
+17.04.21 10:52:52,7.660517,45.091811,Via Nole,Torino,10149,32,position
+17.04.21 10:54:46,7.662191,45.091913,Via Nole 50,Torino,10149,15,position
+17.04.21 10:57:46,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+17.04.21 10:57:46,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+17.04.21 11:57:46,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+18.04.21 10:03:39,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+18.04.21 10:04:47,7.659042,45.089194,Corso Svizzera 157,Torino,10149,40,position
+18.04.21 10:07:17,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,13,position
+18.04.21 10:10:18,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,18,position
+18.04.21 10:14:19,7.652857,45.087069,Corso Regina Margherita,Torino,10143,17,position
+18.04.21 10:18:32,7.652658,45.087376,Corso Regina Margherita,Torino,10143,26,position
+18.04.21 10:20:34,7.651972,45.087592,Corso Regina Margherita,Torino,10143,21,position
+18.04.21 10:22:42,7.652803,45.088831,Corso Potenza 16,Torino,10143,11,position
+18.04.21 10:24:13,7.653721,45.090239,Corso Potenza 26,Torino,10143,25,position
+18.04.21 10:25:13,7.654498,45.091353,Corso Potenza,Torino,10149,39,position
+18.04.21 10:29:07,7.654863,45.091387,Via Pianezza,Torino,10149,12,position
+18.04.21 10:34:01,7.655078,45.091504,Via Nole 78,Torino,10149,39,position
+18.04.21 10:35:53,7.657905,45.091656,Via Nole 19,Torino,10149,35,position
+18.04.21 10:37:14,7.660517,45.091811,Via Nole,Torino,10149,26,position
+18.04.21 10:41:48,7.662191,45.091913,Via Nole 50,Torino,10149,13,position
+18.04.21 10:44:48,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+18.04.21 10:44:48,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+18.04.21 11:44:48,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+19.04.21 10:03:54,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+19.04.21 10:05:28,7.658355,45.08866,Corso Svizzera 149,Torino,10149,13,position
+19.04.21 10:08:31,7.656113,45.087043,Corso Svizzera 129,Torino,10143,16,position
+19.04.21 10:10:54,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,28,position
+19.04.21 10:15:27,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,16,position
+19.04.21 10:17:37,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,12,position
+19.04.21 10:22:35,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,21,position
+19.04.21 10:27:10,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,19,position
+19.04.21 10:29:21,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,11,position
+19.04.21 10:31:02,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,34,position
+19.04.21 10:35:32,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,21,position
+19.04.21 10:38:07,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,11,position
+19.04.21 10:41:43,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,16,position
+19.04.21 10:43:02,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,36,position
+19.04.21 10:45:35,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,30,position
+19.04.21 10:49:58,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,10,position
+19.04.21 10:52:04,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,20,position
+19.04.21 10:54:21,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,32,position
+19.04.21 10:58:41,7.693154,45.057599,Ponte Umberto I,Torino,10131,15,position
+19.04.21 11:00:14,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,20,position
+19.04.21 11:01:21,7.699892,45.063836,Corso Casale,Torino,10131,34,position
+19.04.21 11:03:09,7.709076,45.067231,Corso Casale 71,Torino,10132,27,position
+19.04.21 11:07:54,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,37,position
+19.04.21 11:09:41,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,26,position
+19.04.21 11:12:17,7.704355,45.069853,Corso Regina Margherita,Torino,10153,13,position
+19.04.21 11:16:08,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,24,position
+19.04.21 11:20:59,7.707316,45.072081,Corso Tortona,Torino,10153,39,position
+19.04.21 11:25:48,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,34,position
+19.04.21 11:29:09,7.703239,45.076627,Corso Novara,Torino,10153,25,position
+19.04.21 11:32:24,7.7006,45.079733,Corso Novara,Torino,10154,36,position
+19.04.21 11:36:01,7.697414,45.083312,Via Bologna,Torino,10154,36,position
+19.04.21 11:37:47,7.695778,45.085111,Corso Novara,Torino,10154,30,position
+19.04.21 11:40:52,7.693567,45.086342,Corso Novara,Torino,10154,19,position
+19.04.21 11:45:30,7.690644,45.087884,Corso Novara,Torino,10155,10,position
+19.04.21 11:47:50,7.688262,45.088967,Corso Vigevano,Torino,10155,12,position
+19.04.21 11:50:18,7.683649,45.089527,Corso Vigevano,Torino,10155,14,position
+19.04.21 11:52:31,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,21,position
+19.04.21 11:55:58,7.67778,45.09055,Corso Mortara,Torino,10149,38,position
+19.04.21 11:57:12,7.676782,45.089952,Corso Mortara,Torino,10149,18,position
+19.04.21 11:58:39,7.6738,45.0898,Corso Mortara,Torino,10149,22,position
+19.04.21 12:02:34,7.670635,45.09052,Corso Mortara,Torino,10149,20,position
+19.04.21 12:04:11,7.67057,45.090861,Via Orvieto,Torino,10149,38,position
+19.04.21 12:07:57,7.668961,45.091111,Corso Mortara 64,Torino,10149,13,position
+19.04.21 12:09:28,7.668349,45.093209,Via Verolengo,Torino,10149,20,position
+19.04.21 12:12:52,7.66733,45.093761,Via Verolengo,Torino,10149,28,position
+19.04.21 12:14:06,7.662942,45.093739,Via Borgaro,Torino,10149,27,position
+19.04.21 12:17:26,7.66284,45.091944,Via Borgaro,Torino,10149,11,position
+19.04.21 12:20:26,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+19.04.21 12:20:26,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+19.04.21 13:20:26,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+20.04.21 10:03:09,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+20.04.21 10:06:29,7.655019,45.091504,Via Nole 80,Torino,10149,18,position
+20.04.21 10:10:03,7.654429,45.091807,Corso Potenza 73,Torino,10149,11,position
+20.04.21 10:14:10,7.653039,45.08977,Corso Potenza 21,Torino,10143,29,position
+20.04.21 10:16:16,7.651441,45.087407,Corso Regina Margherita,Torino,10143,32,position
+20.04.21 10:20:33,7.642622,45.090383,Corso Regina Margherita,Torino,10151,18,position
+20.04.21 10:24:50,7.635401,45.092709,Corso Regina Margherita,Torino,10151,32,position
+20.04.21 10:27:31,7.629393,45.094905,Corso Regina Margherita,Torino,10151,12,position
+20.04.21 10:28:48,7.622054,45.097791,Corso Regina Margherita,Torino,10151,13,position
+20.04.21 10:30:04,7.615864,45.100184,Corso Regina Margherita,Torino,10151,10,position
+20.04.21 10:31:54,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,35,position
+20.04.21 10:33:40,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,29,position
+20.04.21 10:35:56,7.600479,45.105742,Tangenziale Nord,Collegno,10093,26,position
+20.04.21 10:38:31,7.598333,45.105697,Via Venaria,Collegno,10093,20,position
+20.04.21 10:43:29,7.596316,45.104107,Tangenziale Nord,Collegno,10093,18,position
+20.04.21 10:46:12,7.594857,45.10338,Tangenziale Nord,Collegno,10093,34,position
+20.04.21 10:49:55,7.586832,45.101138,Tangenziale Nord,Collegno,10093,13,position
+20.04.21 10:52:35,7.580201,45.099381,Tangenziale Nord,Collegno,10093,11,position
+20.04.21 10:54:23,7.576854,45.098381,Tangenziale Nord,Collegno,10093,36,position
+20.04.21 10:59:08,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,24,position
+20.04.21 11:01:29,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,17,position
+20.04.21 11:03:04,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,34,position
+20.04.21 11:07:22,7.580845,45.092959,Via della Piombia,Collegno,10093,18,position
+20.04.21 11:08:50,7.584128,45.090762,Via Sebusto 24,Collegno,10093,37,position
+20.04.21 11:10:37,7.586317,45.087399,Via della Varda,Collegno,10093,21,position
+20.04.21 11:13:35,7.587819,45.084445,Via della Varda,Collegno,10093,17,position
+20.04.21 11:15:52,7.587561,45.08043,Viale Certosa,Collegno,10093,40,position
+20.04.21 11:19:10,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,40,position
+20.04.21 11:21:30,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,20,position
+20.04.21 11:22:41,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,18,position
+20.04.21 11:26:57,7.586993,45.074107,Via Torino,Collegno,10093,10,position
+20.04.21 11:31:55,7.587985,45.073581,Via Torino,Collegno,10093,34,position
+20.04.21 11:35:57,7.588092,45.073175,Corso Francia,Collegno,10093,27,position
+20.04.21 11:37:00,7.593843,45.073425,Corso Francia,Collegno,10093,26,position
+20.04.21 11:39:57,7.607903,45.07399,Corso Francia,Torino,10146,37,position
+20.04.21 11:43:41,7.618567,45.074429,Corso Francia,Torino,10146,35,position
+20.04.21 11:47:18,7.632708,45.07502,Corso Francia,Torino,10146,34,position
+20.04.21 11:49:26,7.641624,45.075376,Corso Francia,Torino,10145,18,position
+20.04.21 11:50:30,7.648791,45.075642,Corso Francia 111,Torino,10138,27,position
+20.04.21 11:51:33,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,10,position
+20.04.21 11:53:27,7.651065,45.081786,Corso Svizzera 68,Torino,10143,12,position
+20.04.21 11:57:38,7.651741,45.08318,Corso Svizzera 76,Torino,10143,18,position
+20.04.21 11:59:40,7.653104,45.084551,Corso Svizzera,Torino,10143,18,position
+20.04.21 12:01:25,7.655646,45.086429,Corso Svizzera,Torino,10143,17,position
+20.04.21 12:02:37,7.659852,45.089474,Corso Svizzera,Torino,10149,35,position
+20.04.21 12:05:45,7.66276,45.091595,Corso Svizzera,Torino,10149,28,position
+20.04.21 12:08:45,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+20.04.21 12:08:45,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+20.04.21 13:08:45,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+21.04.21 10:03:51,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+21.04.21 10:07:42,7.65791,45.091656,Via Nole 19,Torino,10149,23,position
+21.04.21 10:10:28,7.655056,45.091497,Via Nole 78,Torino,10149,11,position
+21.04.21 10:12:14,7.65415,45.091868,Via Pianezza,Torino,10149,24,position
+21.04.21 10:16:13,7.651907,45.093455,Via Pianezza 80,Torino,10149,21,position
+21.04.21 10:17:28,7.650615,45.094239,Via Pianezza 94,Torino,10149,13,position
+21.04.21 10:21:52,7.649252,45.094693,Via Foglizzo,Torino,10149,21,position
+21.04.21 10:23:09,7.64907,45.095155,Via Foglizzo 1,Torino,10149,37,position
+21.04.21 10:25:53,7.649359,45.098639,Corso Lombardia 128,Torino,10149,14,position
+21.04.21 10:29:46,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,39,position
+21.04.21 10:32:51,7.644521,45.100676,Corso Toscana,Torino,10151,29,position
+21.04.21 10:34:40,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,26,position
+21.04.21 10:37:30,7.638341,45.10241,Viale dei Mughetti,Torino,10151,31,position
+21.04.21 10:39:00,7.638416,45.102865,Corso Molise,Torino,10151,14,position
+21.04.21 10:40:37,7.638523,45.105046,Corso Molise,Torino,10151,40,position
+21.04.21 10:45:01,7.638652,45.106886,Corso Molise,Torino,10151,26,position
+21.04.21 10:46:28,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,26,position
+21.04.21 10:51:28,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,27,position
+21.04.21 10:55:31,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,38,position
+21.04.21 11:00:01,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,32,position
+21.04.21 11:03:14,7.638137,45.112307,Via Druento,Torino,10151,26,position
+21.04.21 11:07:16,7.639961,45.112224,Via Druento,Torino,10151,13,position
+21.04.21 11:10:27,7.642868,45.111989,Via Druento,Torino,10151,29,position
+21.04.21 11:11:46,7.645229,45.1118,Via Druento,Torino,10151,40,position
+21.04.21 11:14:37,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,23,position
+21.04.21 11:17:41,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,20,position
+21.04.21 11:21:22,7.647879,45.105985,Corso Grosseto,Torino,10151,17,position
+21.04.21 11:24:01,7.652943,45.105788,Corso Grosseto,Torino,10151,15,position
+21.04.21 11:25:42,7.659745,45.10547,Corso Grosseto,Torino,10151,37,position
+21.04.21 11:29:00,7.662792,45.105303,Corso Grosseto,Torino,10151,24,position
+21.04.21 11:33:19,7.663586,45.103773,Via Lucento,Torino,10149,40,position
+21.04.21 11:36:56,7.662513,45.103955,Corso Potenza,Torino,10149,18,position
+21.04.21 11:40:38,7.660431,45.100775,Corso Potenza 155,Torino,10149,12,position
+21.04.21 11:44:29,7.658693,45.098154,Corso Potenza,Torino,10149,39,position
+21.04.21 11:48:18,7.658071,45.097291,Corso Potenza,Torino,10149,14,position
+21.04.21 11:52:05,7.657041,45.096836,Largo Toscana,Torino,10149,39,position
+21.04.21 11:54:50,7.65805,45.096306,Largo Toscana 27,Torino,10149,10,position
+21.04.21 11:56:56,7.659122,45.096337,Corso Toscana,Torino,10149,15,position
+21.04.21 11:59:23,7.662406,45.095458,Corso Toscana,Torino,10149,32,position
+21.04.21 12:02:19,7.662942,45.094943,Largo Borgaro 27,Torino,10149,11,position
+21.04.21 12:03:37,7.66291,45.093459,Via Borgaro,Torino,10149,33,position
+21.04.21 12:08:26,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,30,position
+21.04.21 12:11:26,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+21.04.21 12:11:26,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+21.04.21 13:11:26,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+22.04.21 10:03:33,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+22.04.21 10:08:04,7.659042,45.089194,Corso Svizzera 157,Torino,10149,32,position
+22.04.21 10:09:41,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,35,position
+22.04.21 10:12:57,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,34,position
+22.04.21 10:17:29,7.652857,45.087069,Corso Regina Margherita,Torino,10143,12,position
+22.04.21 10:22:09,7.652658,45.087376,Corso Regina Margherita,Torino,10143,17,position
+22.04.21 10:24:51,7.651972,45.087592,Corso Regina Margherita,Torino,10143,25,position
+22.04.21 10:26:26,7.652803,45.088831,Corso Potenza 16,Torino,10143,14,position
+22.04.21 10:27:36,7.653721,45.090239,Corso Potenza 26,Torino,10143,32,position
+22.04.21 10:32:25,7.654498,45.091353,Corso Potenza,Torino,10149,12,position
+22.04.21 10:33:31,7.654863,45.091387,Via Pianezza,Torino,10149,15,position
+22.04.21 10:34:53,7.655078,45.091504,Via Nole 78,Torino,10149,21,position
+22.04.21 10:36:54,7.657905,45.091656,Via Nole 19,Torino,10149,33,position
+22.04.21 10:41:32,7.660517,45.091811,Via Nole,Torino,10149,19,position
+22.04.21 10:46:30,7.662191,45.091913,Via Nole 50,Torino,10149,13,position
+22.04.21 10:49:30,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+22.04.21 10:49:30,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+22.04.21 11:49:30,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+23.04.21 10:03:07,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+23.04.21 10:07:59,7.659042,45.089194,Corso Svizzera 157,Torino,10149,33,position
+23.04.21 10:12:03,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,37,position
+23.04.21 10:15:46,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,13,position
+23.04.21 10:19:02,7.652857,45.087069,Corso Regina Margherita,Torino,10143,32,position
+23.04.21 10:20:45,7.652658,45.087376,Corso Regina Margherita,Torino,10143,27,position
+23.04.21 10:24:21,7.651972,45.087592,Corso Regina Margherita,Torino,10143,24,position
+23.04.21 10:25:59,7.652803,45.088831,Corso Potenza 16,Torino,10143,16,position
+23.04.21 10:28:06,7.653721,45.090239,Corso Potenza 26,Torino,10143,10,position
+23.04.21 10:30:54,7.654498,45.091353,Corso Potenza,Torino,10149,25,position
+23.04.21 10:32:47,7.654863,45.091387,Via Pianezza,Torino,10149,22,position
+23.04.21 10:35:06,7.655078,45.091504,Via Nole 78,Torino,10149,35,position
+23.04.21 10:38:40,7.657905,45.091656,Via Nole 19,Torino,10149,27,position
+23.04.21 10:41:44,7.660517,45.091811,Via Nole,Torino,10149,31,position
+23.04.21 10:45:51,7.662191,45.091913,Via Nole 50,Torino,10149,36,position
+23.04.21 10:48:51,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+23.04.21 10:48:51,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+23.04.21 11:48:51,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+24.04.21 10:03:54,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+24.04.21 10:08:43,7.659042,45.089194,Corso Svizzera 157,Torino,10149,17,position
+24.04.21 10:11:13,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,26,position
+24.04.21 10:12:34,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,27,position
+24.04.21 10:15:04,7.652857,45.087069,Corso Regina Margherita,Torino,10143,20,position
+24.04.21 10:19:25,7.652658,45.087376,Corso Regina Margherita,Torino,10143,20,position
+24.04.21 10:24:18,7.651972,45.087592,Corso Regina Margherita,Torino,10143,10,position
+24.04.21 10:25:59,7.652803,45.088831,Corso Potenza 16,Torino,10143,18,position
+24.04.21 10:28:19,7.653721,45.090239,Corso Potenza 26,Torino,10143,20,position
+24.04.21 10:30:46,7.654498,45.091353,Corso Potenza,Torino,10149,14,position
+24.04.21 10:32:21,7.654863,45.091387,Via Pianezza,Torino,10149,12,position
+24.04.21 10:33:56,7.655078,45.091504,Via Nole 78,Torino,10149,34,position
+24.04.21 10:35:27,7.657905,45.091656,Via Nole 19,Torino,10149,23,position
+24.04.21 10:40:09,7.660517,45.091811,Via Nole,Torino,10149,18,position
+24.04.21 10:43:06,7.662191,45.091913,Via Nole 50,Torino,10149,33,position
+24.04.21 10:46:06,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+24.04.21 10:46:06,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+24.04.21 11:46:06,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+25.04.21 10:03:44,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+25.04.21 10:06:15,7.657819,45.088259,Corso Svizzera 145,Torino,10149,14,position
+25.04.21 10:07:43,7.656279,45.087164,Corso Svizzera,Torino,10143,20,position
+25.04.21 10:10:29,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,23,position
+25.04.21 10:12:17,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,20,position
+25.04.21 10:13:43,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,33,position
+25.04.21 10:15:13,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,38,position
+25.04.21 10:16:43,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,14,position
+25.04.21 10:20:52,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,14,position
+25.04.21 10:22:57,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,32,position
+25.04.21 10:26:24,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,22,position
+25.04.21 10:30:13,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,29,position
+25.04.21 10:34:27,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,38,position
+25.04.21 10:38:01,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,28,position
+25.04.21 10:40:24,7.657932,45.061366,Corso Peschiera,Torino,10138,20,position
+25.04.21 10:44:38,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,16,position
+25.04.21 10:49:28,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,12,position
+25.04.21 10:52:43,7.664573,45.064981,Corso Stati Uniti,Torino,10128,38,position
+25.04.21 10:55:09,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,15,position
+25.04.21 10:58:45,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,12,position
+25.04.21 11:00:05,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,24,position
+25.04.21 11:03:59,7.665849,45.072535,Corso Inghilterra,Torino,10138,14,position
+25.04.21 11:06:43,7.667405,45.074778,Corso Inghilterra,Torino,10138,28,position
+25.04.21 11:08:35,7.669519,45.078036,Corso Principe Oddone,Torino,10122,23,position
+25.04.21 11:13:04,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,21,position
+25.04.21 11:15:43,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,22,position
+25.04.21 11:20:35,7.67115,45.081096,Corso Umbria,Torino,10144,11,position
+25.04.21 11:23:27,7.669277,45.083255,Corso Umbria,Torino,10144,22,position
+25.04.21 11:26:15,7.667276,45.085539,Corso Umbria 30,Torino,10144,29,position
+25.04.21 11:31:02,7.666182,45.086884,Corso Umbria 42,Torino,10144,12,position
+25.04.21 11:35:26,7.666295,45.087153,Via Treviso,Torino,10144,15,position
+25.04.21 11:36:49,7.665866,45.087274,Corso Umbria,Torino,10144,32,position
+25.04.21 11:40:19,7.665592,45.087471,Corso Umbria 53,Torino,10144,16,position
+25.04.21 11:44:32,7.664541,45.088747,Corso Umbria 65,Torino,10149,25,position
+25.04.21 11:48:08,7.664353,45.089293,Corso Umbria,Torino,10149,37,position
+25.04.21 11:51:55,7.664026,45.089391,Corso Umbria 90,Torino,10149,27,position
+25.04.21 11:53:57,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,36,position
+25.04.21 11:57:46,7.662845,45.091637,Corso Svizzera,Torino,10149,11,position
+25.04.21 12:00:46,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+25.04.21 12:00:47,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+25.04.21 13:00:46,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+26.04.21 10:04:56,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+26.04.21 10:07:44,7.65791,45.091656,Via Nole 19,Torino,10149,40,position
+26.04.21 10:10:53,7.655056,45.091497,Via Nole 78,Torino,10149,38,position
+26.04.21 10:11:53,7.65415,45.091868,Via Pianezza,Torino,10149,33,position
+26.04.21 10:14:16,7.651907,45.093455,Via Pianezza 80,Torino,10149,27,position
+26.04.21 10:17:16,7.650615,45.094239,Via Pianezza 94,Torino,10149,35,position
+26.04.21 10:21:49,7.649252,45.094693,Via Foglizzo,Torino,10149,35,position
+26.04.21 10:24:17,7.64907,45.095155,Via Foglizzo 1,Torino,10149,35,position
+26.04.21 10:28:17,7.649359,45.098639,Corso Lombardia 128,Torino,10149,17,position
+26.04.21 10:31:41,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,30,position
+26.04.21 10:33:05,7.644521,45.100676,Corso Toscana,Torino,10151,38,position
+26.04.21 10:36:02,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,22,position
+26.04.21 10:39:28,7.638341,45.10241,Viale dei Mughetti,Torino,10151,34,position
+26.04.21 10:42:36,7.638416,45.102865,Corso Molise,Torino,10151,32,position
+26.04.21 10:45:44,7.638523,45.105046,Corso Molise,Torino,10151,31,position
+26.04.21 10:50:12,7.638652,45.106886,Corso Molise,Torino,10151,12,position
+26.04.21 10:54:10,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,36,position
+26.04.21 10:57:48,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,11,position
+26.04.21 11:00:25,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,35,position
+26.04.21 11:01:46,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,15,position
+26.04.21 11:03:22,7.638137,45.112307,Via Druento,Torino,10151,26,position
+26.04.21 11:05:54,7.639961,45.112224,Via Druento,Torino,10151,19,position
+26.04.21 11:07:32,7.642868,45.111989,Via Druento,Torino,10151,10,position
+26.04.21 11:10:15,7.645229,45.1118,Via Druento,Torino,10151,16,position
+26.04.21 11:14:24,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,10,position
+26.04.21 11:17:12,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,11,position
+26.04.21 11:19:27,7.647879,45.105985,Corso Grosseto,Torino,10151,20,position
+26.04.21 11:22:14,7.652943,45.105788,Corso Grosseto,Torino,10151,34,position
+26.04.21 11:26:22,7.659745,45.10547,Corso Grosseto,Torino,10151,10,position
+26.04.21 11:27:58,7.662792,45.105303,Corso Grosseto,Torino,10151,20,position
+26.04.21 11:31:51,7.663586,45.103773,Via Lucento,Torino,10149,33,position
+26.04.21 11:33:53,7.662513,45.103955,Corso Potenza,Torino,10149,21,position
+26.04.21 11:35:20,7.660431,45.100775,Corso Potenza 155,Torino,10149,37,position
+26.04.21 11:39:18,7.658693,45.098154,Corso Potenza,Torino,10149,28,position
+26.04.21 11:42:38,7.658071,45.097291,Corso Potenza,Torino,10149,15,position
+26.04.21 11:44:03,7.657041,45.096836,Largo Toscana,Torino,10149,32,position
+26.04.21 11:46:54,7.65805,45.096306,Largo Toscana 27,Torino,10149,22,position
+26.04.21 11:49:33,7.659122,45.096337,Corso Toscana,Torino,10149,20,position
+26.04.21 11:51:46,7.662406,45.095458,Corso Toscana,Torino,10149,37,position
+26.04.21 11:54:48,7.662942,45.094943,Largo Borgaro 27,Torino,10149,38,position
+26.04.21 11:56:28,7.66291,45.093459,Via Borgaro,Torino,10149,17,position
+26.04.21 11:58:36,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,38,position
+26.04.21 12:01:36,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+26.04.21 12:01:36,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+26.04.21 13:01:36,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+27.04.21 10:04:36,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+27.04.21 10:06:18,7.655019,45.091504,Via Nole 80,Torino,10149,17,position
+27.04.21 10:10:33,7.654429,45.091807,Corso Potenza 73,Torino,10149,13,position
+27.04.21 10:14:22,7.653039,45.08977,Corso Potenza 21,Torino,10143,11,position
+27.04.21 10:15:57,7.651441,45.087407,Corso Regina Margherita,Torino,10143,34,position
+27.04.21 10:17:11,7.642622,45.090383,Corso Regina Margherita,Torino,10151,15,position
+27.04.21 10:19:07,7.635401,45.092709,Corso Regina Margherita,Torino,10151,40,position
+27.04.21 10:21:22,7.629393,45.094905,Corso Regina Margherita,Torino,10151,17,position
+27.04.21 10:25:11,7.622054,45.097791,Corso Regina Margherita,Torino,10151,26,position
+27.04.21 10:29:01,7.615864,45.100184,Corso Regina Margherita,Torino,10151,28,position
+27.04.21 10:32:44,7.611165,45.104076,Via Nazioni Unite,Collegno,10093,37,position
+27.04.21 10:36:35,7.604641,45.104697,Via Nazioni Unite,Collegno,10093,12,position
+27.04.21 10:41:08,7.600479,45.105742,Tangenziale Nord,Collegno,10093,10,position
+27.04.21 10:44:43,7.598333,45.105697,Via Venaria,Collegno,10093,18,position
+27.04.21 10:49:24,7.596316,45.104107,Tangenziale Nord,Collegno,10093,11,position
+27.04.21 10:50:39,7.594857,45.10338,Tangenziale Nord,Collegno,10093,27,position
+27.04.21 10:54:35,7.586832,45.101138,Tangenziale Nord,Collegno,10093,38,position
+27.04.21 10:58:02,7.580201,45.099381,Tangenziale Nord,Collegno,10093,10,position
+27.04.21 11:00:36,7.576854,45.098381,Tangenziale Nord,Collegno,10093,10,position
+27.04.21 11:04:57,7.575502,45.09929,Variante di Alpignano Pianezza,Collegno,10093,32,position
+27.04.21 11:09:02,7.576854,45.099502,Variante di Alpignano Pianezza,Collegno,10093,23,position
+27.04.21 11:12:10,7.578678,45.096427,Via Torino-Pianezza,Collegno,10093,21,position
+27.04.21 11:16:34,7.580845,45.092959,Via della Piombia,Collegno,10093,33,position
+27.04.21 11:19:05,7.584128,45.090762,Via Sebusto 24,Collegno,10093,18,position
+27.04.21 11:22:12,7.586317,45.087399,Via della Varda,Collegno,10093,39,position
+27.04.21 11:24:41,7.587819,45.084445,Via della Varda,Collegno,10093,18,position
+27.04.21 11:29:01,7.587561,45.08043,Viale Certosa,Collegno,10093,18,position
+27.04.21 11:31:14,7.587524,45.077994,Corso Fratelli Cervi,Collegno,10093,21,position
+27.04.21 11:34:01,7.587395,45.076721,Corso Fratelli Cervi 15,Collegno,10093,38,position
+27.04.21 11:36:44,7.587223,45.074463,Corso Fratelli Cervi 1,Collegno,10093,19,position
+27.04.21 11:38:57,7.586993,45.074107,Via Torino,Collegno,10093,21,position
+27.04.21 11:42:14,7.587985,45.073581,Via Torino,Collegno,10093,15,position
+27.04.21 11:46:12,7.588092,45.073175,Corso Francia,Collegno,10093,21,position
+27.04.21 11:47:42,7.593843,45.073425,Corso Francia,Collegno,10093,10,position
+27.04.21 11:50:20,7.607903,45.07399,Corso Francia,Torino,10146,23,position
+27.04.21 11:53:20,7.618567,45.074429,Corso Francia,Torino,10146,28,position
+27.04.21 11:54:39,7.632708,45.07502,Corso Francia,Torino,10146,30,position
+27.04.21 11:59:17,7.641624,45.075376,Corso Francia,Torino,10145,13,position
+27.04.21 12:01:59,7.648791,45.075642,Corso Francia 111,Torino,10138,20,position
+27.04.21 12:04:52,7.649778,45.078414,Via Giacomo Medici 44,Torino,10143,32,position
+27.04.21 12:06:23,7.651065,45.081786,Corso Svizzera 68,Torino,10143,28,position
+27.04.21 12:10:24,7.651741,45.08318,Corso Svizzera 76,Torino,10143,11,position
+27.04.21 12:13:32,7.653104,45.084551,Corso Svizzera,Torino,10143,16,position
+27.04.21 12:14:32,7.655646,45.086429,Corso Svizzera,Torino,10143,31,position
+27.04.21 12:18:39,7.659852,45.089474,Corso Svizzera,Torino,10149,18,position
+27.04.21 12:19:44,7.66276,45.091595,Corso Svizzera,Torino,10149,40,position
+27.04.21 12:22:44,7.662153,45.091906,Via Nole 52,Torino,10149,0,digital_input_change
+27.04.21 12:22:44,7.662153,45.091906,Via Nole 52,Torino,10149,0,pause
+27.04.21 13:22:44,7.662153,45.091906,Via Nole 52,Torino,10149,0,communication
+28.04.21 10:04:32,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+28.04.21 10:06:38,7.657819,45.088259,Corso Svizzera 145,Torino,10149,27,position
+28.04.21 10:08:07,7.656279,45.087164,Corso Svizzera,Torino,10143,26,position
+28.04.21 10:09:07,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,38,position
+28.04.21 10:13:13,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,30,position
+28.04.21 10:15:10,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,20,position
+28.04.21 10:17:13,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,16,position
+28.04.21 10:21:57,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,39,position
+28.04.21 10:26:51,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,22,position
+28.04.21 10:27:57,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,36,position
+28.04.21 10:29:26,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,21,position
+28.04.21 10:32:18,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,26,position
+28.04.21 10:34:02,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,27,position
+28.04.21 10:38:44,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,33,position
+28.04.21 10:41:06,7.657932,45.061366,Corso Peschiera,Torino,10138,11,position
+28.04.21 10:43:12,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,14,position
+28.04.21 10:48:00,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,11,position
+28.04.21 10:49:04,7.664573,45.064981,Corso Stati Uniti,Torino,10128,40,position
+28.04.21 10:54:04,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,37,position
+28.04.21 10:58:44,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,31,position
+28.04.21 11:01:09,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,26,position
+28.04.21 11:03:22,7.665849,45.072535,Corso Inghilterra,Torino,10138,12,position
+28.04.21 11:06:23,7.667405,45.074778,Corso Inghilterra,Torino,10138,30,position
+28.04.21 11:10:20,7.669519,45.078036,Corso Principe Oddone,Torino,10122,11,position
+28.04.21 11:12:08,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,11,position
+28.04.21 11:15:23,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,27,position
+28.04.21 11:17:19,7.67115,45.081096,Corso Umbria,Torino,10144,40,position
+28.04.21 11:21:35,7.669277,45.083255,Corso Umbria,Torino,10144,36,position
+28.04.21 11:25:29,7.667276,45.085539,Corso Umbria 30,Torino,10144,23,position
+28.04.21 11:26:58,7.666182,45.086884,Corso Umbria 42,Torino,10144,30,position
+28.04.21 11:31:42,7.666295,45.087153,Via Treviso,Torino,10144,38,position
+28.04.21 11:35:59,7.665866,45.087274,Corso Umbria,Torino,10144,18,position
+28.04.21 11:38:15,7.665592,45.087471,Corso Umbria 53,Torino,10144,34,position
+28.04.21 11:39:32,7.664541,45.088747,Corso Umbria 65,Torino,10149,17,position
+28.04.21 11:41:00,7.664353,45.089293,Corso Umbria,Torino,10149,38,position
+28.04.21 11:42:48,7.664026,45.089391,Corso Umbria 90,Torino,10149,32,position
+28.04.21 11:47:43,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,20,position
+28.04.21 11:49:29,7.662845,45.091637,Corso Svizzera,Torino,10149,38,position
+28.04.21 11:52:29,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+28.04.21 11:52:29,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+28.04.21 12:52:29,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+29.04.21 10:03:07,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+29.04.21 10:04:13,7.65791,45.091656,Via Nole 19,Torino,10149,22,position
+29.04.21 10:08:20,7.655056,45.091497,Via Nole 78,Torino,10149,38,position
+29.04.21 10:09:24,7.65415,45.091868,Via Pianezza,Torino,10149,17,position
+29.04.21 10:13:49,7.651907,45.093455,Via Pianezza 80,Torino,10149,15,position
+29.04.21 10:15:39,7.650615,45.094239,Via Pianezza 94,Torino,10149,39,position
+29.04.21 10:17:38,7.649252,45.094693,Via Foglizzo,Torino,10149,31,position
+29.04.21 10:20:30,7.64907,45.095155,Via Foglizzo 1,Torino,10149,12,position
+29.04.21 10:24:00,7.649359,45.098639,Corso Lombardia 128,Torino,10149,34,position
+29.04.21 10:28:25,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,22,position
+29.04.21 10:31:45,7.644521,45.100676,Corso Toscana,Torino,10151,15,position
+29.04.21 10:34:05,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,20,position
+29.04.21 10:37:12,7.638341,45.10241,Viale dei Mughetti,Torino,10151,37,position
+29.04.21 10:39:18,7.638416,45.102865,Corso Molise,Torino,10151,19,position
+29.04.21 10:42:24,7.638523,45.105046,Corso Molise,Torino,10151,19,position
+29.04.21 10:44:25,7.638652,45.106886,Corso Molise,Torino,10151,26,position
+29.04.21 10:47:38,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,32,position
+29.04.21 10:49:21,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,23,position
+29.04.21 10:51:28,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,21,position
+29.04.21 10:53:59,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,20,position
+29.04.21 10:56:58,7.638137,45.112307,Via Druento,Torino,10151,34,position
+29.04.21 11:01:13,7.639961,45.112224,Via Druento,Torino,10151,35,position
+29.04.21 11:02:24,7.642868,45.111989,Via Druento,Torino,10151,28,position
+29.04.21 11:03:49,7.645229,45.1118,Via Druento,Torino,10151,39,position
+29.04.21 11:06:57,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,10,position
+29.04.21 11:11:30,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,38,position
+29.04.21 11:13:39,7.647879,45.105985,Corso Grosseto,Torino,10151,27,position
+29.04.21 11:17:59,7.652943,45.105788,Corso Grosseto,Torino,10151,11,position
+29.04.21 11:22:12,7.659745,45.10547,Corso Grosseto,Torino,10151,21,position
+29.04.21 11:26:26,7.662792,45.105303,Corso Grosseto,Torino,10151,36,position
+29.04.21 11:28:00,7.663586,45.103773,Via Lucento,Torino,10149,17,position
+29.04.21 11:32:38,7.662513,45.103955,Corso Potenza,Torino,10149,24,position
+29.04.21 11:34:08,7.660431,45.100775,Corso Potenza 155,Torino,10149,22,position
+29.04.21 11:35:13,7.658693,45.098154,Corso Potenza,Torino,10149,37,position
+29.04.21 11:36:16,7.658071,45.097291,Corso Potenza,Torino,10149,27,position
+29.04.21 11:40:24,7.657041,45.096836,Largo Toscana,Torino,10149,11,position
+29.04.21 11:43:12,7.65805,45.096306,Largo Toscana 27,Torino,10149,14,position
+29.04.21 11:47:58,7.659122,45.096337,Corso Toscana,Torino,10149,35,position
+29.04.21 11:51:26,7.662406,45.095458,Corso Toscana,Torino,10149,39,position
+29.04.21 11:54:18,7.662942,45.094943,Largo Borgaro 27,Torino,10149,40,position
+29.04.21 11:55:51,7.66291,45.093459,Via Borgaro,Torino,10149,35,position
+29.04.21 11:59:51,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,26,position
+29.04.21 12:02:51,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+29.04.21 12:02:51,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+29.04.21 13:02:51,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+30.04.21 10:03:52,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+30.04.21 10:06:14,7.658355,45.08866,Corso Svizzera 149,Torino,10149,27,position
+30.04.21 10:07:35,7.656113,45.087043,Corso Svizzera 129,Torino,10143,25,position
+30.04.21 10:09:18,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,38,position
+30.04.21 10:13:14,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,12,position
+30.04.21 10:18:07,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,11,position
+30.04.21 10:19:21,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,19,position
+30.04.21 10:24:17,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,18,position
+30.04.21 10:28:16,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,10,position
+30.04.21 10:31:05,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,25,position
+30.04.21 10:32:08,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,20,position
+30.04.21 10:35:04,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,39,position
+30.04.21 10:39:02,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,30,position
+30.04.21 10:40:42,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,30,position
+30.04.21 10:45:26,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,35,position
+30.04.21 10:48:21,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,30,position
+30.04.21 10:51:05,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,33,position
+30.04.21 10:53:13,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,14,position
+30.04.21 10:57:24,7.693154,45.057599,Ponte Umberto I,Torino,10131,19,position
+30.04.21 11:00:49,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,34,position
+30.04.21 11:03:09,7.699892,45.063836,Corso Casale,Torino,10131,33,position
+30.04.21 11:07:08,7.709076,45.067231,Corso Casale 71,Torino,10132,14,position
+30.04.21 11:11:58,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,39,position
+30.04.21 11:14:04,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,12,position
+30.04.21 11:17:47,7.704355,45.069853,Corso Regina Margherita,Torino,10153,35,position
+30.04.21 11:22:00,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,33,position
+30.04.21 11:25:25,7.707316,45.072081,Corso Tortona,Torino,10153,24,position
+30.04.21 11:29:16,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,34,position
+30.04.21 11:31:47,7.703239,45.076627,Corso Novara,Torino,10153,17,position
+30.04.21 11:34:07,7.7006,45.079733,Corso Novara,Torino,10154,17,position
+30.04.21 11:38:50,7.697414,45.083312,Via Bologna,Torino,10154,28,position
+30.04.21 11:42:09,7.695778,45.085111,Corso Novara,Torino,10154,37,position
+30.04.21 11:45:53,7.693567,45.086342,Corso Novara,Torino,10154,25,position
+30.04.21 11:47:58,7.690644,45.087884,Corso Novara,Torino,10155,21,position
+30.04.21 11:51:46,7.688262,45.088967,Corso Vigevano,Torino,10155,15,position
+30.04.21 11:54:33,7.683649,45.089527,Corso Vigevano,Torino,10155,29,position
+30.04.21 11:56:39,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,37,position
+30.04.21 11:58:12,7.67778,45.09055,Corso Mortara,Torino,10149,35,position
+30.04.21 12:00:14,7.676782,45.089952,Corso Mortara,Torino,10149,20,position
+30.04.21 12:03:22,7.6738,45.0898,Corso Mortara,Torino,10149,36,position
+30.04.21 12:05:57,7.670635,45.09052,Corso Mortara,Torino,10149,24,position
+30.04.21 12:09:23,7.67057,45.090861,Via Orvieto,Torino,10149,35,position
+30.04.21 12:11:26,7.668961,45.091111,Corso Mortara 64,Torino,10149,21,position
+30.04.21 12:13:11,7.668349,45.093209,Via Verolengo,Torino,10149,38,position
+30.04.21 12:17:48,7.66733,45.093761,Via Verolengo,Torino,10149,28,position
+30.04.21 12:21:24,7.662942,45.093739,Via Borgaro,Torino,10149,37,position
+30.04.21 12:23:07,7.66284,45.091944,Via Borgaro,Torino,10149,10,position
+30.04.21 12:26:07,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+30.04.21 12:26:07,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+30.04.21 13:26:07,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+01.05.21 10:03:56,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+01.05.21 10:06:27,7.658355,45.08866,Corso Svizzera 149,Torino,10149,35,position
+01.05.21 10:09:57,7.656113,45.087043,Corso Svizzera 129,Torino,10143,37,position
+01.05.21 10:11:52,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,20,position
+01.05.21 10:16:21,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,26,position
+01.05.21 10:19:12,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,24,position
+01.05.21 10:22:33,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,40,position
+01.05.21 10:27:21,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,33,position
+01.05.21 10:30:38,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,19,position
+01.05.21 10:33:57,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,24,position
+01.05.21 10:35:12,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,33,position
+01.05.21 10:37:41,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,37,position
+01.05.21 10:41:10,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,35,position
+01.05.21 10:45:09,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,39,position
+01.05.21 10:48:52,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,33,position
+01.05.21 10:52:50,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,38,position
+01.05.21 10:56:48,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,23,position
+01.05.21 11:01:25,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,37,position
+01.05.21 11:04:53,7.693154,45.057599,Ponte Umberto I,Torino,10131,37,position
+01.05.21 11:08:53,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,22,position
+01.05.21 11:10:27,7.699892,45.063836,Corso Casale,Torino,10131,26,position
+01.05.21 11:14:25,7.709076,45.067231,Corso Casale 71,Torino,10132,36,position
+01.05.21 11:15:27,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,39,position
+01.05.21 11:18:58,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,16,position
+01.05.21 11:22:42,7.704355,45.069853,Corso Regina Margherita,Torino,10153,35,position
+01.05.21 11:27:38,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,36,position
+01.05.21 11:30:18,7.707316,45.072081,Corso Tortona,Torino,10153,23,position
+01.05.21 11:33:13,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,40,position
+01.05.21 11:34:57,7.703239,45.076627,Corso Novara,Torino,10153,27,position
+01.05.21 11:37:29,7.7006,45.079733,Corso Novara,Torino,10154,22,position
+01.05.21 11:40:24,7.697414,45.083312,Via Bologna,Torino,10154,37,position
+01.05.21 11:41:26,7.695778,45.085111,Corso Novara,Torino,10154,39,position
+01.05.21 11:45:14,7.693567,45.086342,Corso Novara,Torino,10154,25,position
+01.05.21 11:49:41,7.690644,45.087884,Corso Novara,Torino,10155,22,position
+01.05.21 11:51:24,7.688262,45.088967,Corso Vigevano,Torino,10155,15,position
+01.05.21 11:54:27,7.683649,45.089527,Corso Vigevano,Torino,10155,26,position
+01.05.21 11:59:27,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,18,position
+01.05.21 12:04:12,7.67778,45.09055,Corso Mortara,Torino,10149,26,position
+01.05.21 12:07:42,7.676782,45.089952,Corso Mortara,Torino,10149,23,position
+01.05.21 12:12:05,7.6738,45.0898,Corso Mortara,Torino,10149,26,position
+01.05.21 12:15:15,7.670635,45.09052,Corso Mortara,Torino,10149,33,position
+01.05.21 12:20:07,7.67057,45.090861,Via Orvieto,Torino,10149,12,position
+01.05.21 12:23:08,7.668961,45.091111,Corso Mortara 64,Torino,10149,16,position
+01.05.21 12:24:30,7.668349,45.093209,Via Verolengo,Torino,10149,24,position
+01.05.21 12:25:59,7.66733,45.093761,Via Verolengo,Torino,10149,35,position
+01.05.21 12:27:50,7.662942,45.093739,Via Borgaro,Torino,10149,20,position
+01.05.21 12:32:25,7.66284,45.091944,Via Borgaro,Torino,10149,31,position
+01.05.21 12:35:25,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
+01.05.21 12:35:25,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
+01.05.21 13:35:25,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
+02.05.21 10:03:42,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+02.05.21 10:05:03,7.65791,45.091656,Via Nole 19,Torino,10149,15,position
+02.05.21 10:07:32,7.655056,45.091497,Via Nole 78,Torino,10149,18,position
+02.05.21 10:11:52,7.65415,45.091868,Via Pianezza,Torino,10149,12,position
+02.05.21 10:16:42,7.651907,45.093455,Via Pianezza 80,Torino,10149,21,position
+02.05.21 10:21:24,7.650615,45.094239,Via Pianezza 94,Torino,10149,13,position
+02.05.21 10:23:53,7.649252,45.094693,Via Foglizzo,Torino,10149,33,position
+02.05.21 10:28:37,7.64907,45.095155,Via Foglizzo 1,Torino,10149,25,position
+02.05.21 10:32:45,7.649359,45.098639,Corso Lombardia 128,Torino,10149,26,position
+02.05.21 10:35:49,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,33,position
+02.05.21 10:38:49,7.644521,45.100676,Corso Toscana,Torino,10151,19,position
+02.05.21 10:43:31,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,18,position
+02.05.21 10:48:04,7.638341,45.10241,Viale dei Mughetti,Torino,10151,34,position
+02.05.21 10:50:00,7.638416,45.102865,Corso Molise,Torino,10151,37,position
+02.05.21 10:54:37,7.638523,45.105046,Corso Molise,Torino,10151,18,position
+02.05.21 10:59:20,7.638652,45.106886,Corso Molise,Torino,10151,32,position
+02.05.21 11:02:48,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,25,position
+02.05.21 11:07:16,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,18,position
+02.05.21 11:09:31,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,12,position
+02.05.21 11:13:12,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,19,position
+02.05.21 11:14:13,7.638137,45.112307,Via Druento,Torino,10151,11,position
+02.05.21 11:18:52,7.639961,45.112224,Via Druento,Torino,10151,14,position
+02.05.21 11:20:31,7.642868,45.111989,Via Druento,Torino,10151,29,position
+02.05.21 11:23:19,7.645229,45.1118,Via Druento,Torino,10151,18,position
+02.05.21 11:24:44,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,21,position
+02.05.21 11:25:50,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,28,position
+02.05.21 11:27:14,7.647879,45.105985,Corso Grosseto,Torino,10151,32,position
+02.05.21 11:29:20,7.652943,45.105788,Corso Grosseto,Torino,10151,12,position
+02.05.21 11:30:58,7.659745,45.10547,Corso Grosseto,Torino,10151,34,position
+02.05.21 11:35:03,7.662792,45.105303,Corso Grosseto,Torino,10151,25,position
+02.05.21 11:37:10,7.663586,45.103773,Via Lucento,Torino,10149,25,position
+02.05.21 11:39:55,7.662513,45.103955,Corso Potenza,Torino,10149,25,position
+02.05.21 11:44:33,7.660431,45.100775,Corso Potenza 155,Torino,10149,36,position
+02.05.21 11:48:26,7.658693,45.098154,Corso Potenza,Torino,10149,13,position
+02.05.21 11:50:22,7.658071,45.097291,Corso Potenza,Torino,10149,36,position
+02.05.21 11:51:58,7.657041,45.096836,Largo Toscana,Torino,10149,39,position
+02.05.21 11:54:52,7.65805,45.096306,Largo Toscana 27,Torino,10149,14,position
+02.05.21 11:58:41,7.659122,45.096337,Corso Toscana,Torino,10149,40,position
+02.05.21 11:59:41,7.662406,45.095458,Corso Toscana,Torino,10149,31,position
+02.05.21 12:00:52,7.662942,45.094943,Largo Borgaro 27,Torino,10149,38,position
+02.05.21 12:03:39,7.66291,45.093459,Via Borgaro,Torino,10149,30,position
+02.05.21 12:08:30,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,16,position
+02.05.21 12:11:30,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+02.05.21 12:11:30,7.662051,45.091902,Via Nole 52,Torino,10149,0,pause
+02.05.21 13:11:30,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
+03.05.21 10:03:59,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+03.05.21 10:05:29,7.659042,45.089194,Corso Svizzera 157,Torino,10149,25,position
+03.05.21 10:08:58,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,37,position
+03.05.21 10:13:06,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,20,position
+03.05.21 10:16:31,7.652857,45.087069,Corso Regina Margherita,Torino,10143,39,position
+03.05.21 10:19:38,7.652658,45.087376,Corso Regina Margherita,Torino,10143,27,position
+03.05.21 10:20:51,7.651972,45.087592,Corso Regina Margherita,Torino,10143,30,position
+03.05.21 10:22:38,7.652803,45.088831,Corso Potenza 16,Torino,10143,20,position
+03.05.21 10:23:54,7.653721,45.090239,Corso Potenza 26,Torino,10143,24,position
+03.05.21 10:25:00,7.654498,45.091353,Corso Potenza,Torino,10149,10,position
+03.05.21 10:29:26,7.654863,45.091387,Via Pianezza,Torino,10149,35,position
+03.05.21 10:32:28,7.655078,45.091504,Via Nole 78,Torino,10149,10,position
+03.05.21 10:34:58,7.657905,45.091656,Via Nole 19,Torino,10149,21,position
+03.05.21 10:38:01,7.660517,45.091811,Via Nole,Torino,10149,31,position
+03.05.21 10:42:56,7.662191,45.091913,Via Nole 50,Torino,10149,23,position
+03.05.21 10:45:56,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+03.05.21 10:45:56,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+03.05.21 11:45:56,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+04.05.21 10:03:37,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+04.05.21 10:05:44,7.659042,45.089194,Corso Svizzera 157,Torino,10149,12,position
+04.05.21 10:07:36,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,29,position
+04.05.21 10:09:21,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,17,position
+04.05.21 10:10:27,7.652857,45.087069,Corso Regina Margherita,Torino,10143,12,position
+04.05.21 10:14:28,7.652658,45.087376,Corso Regina Margherita,Torino,10143,26,position
+04.05.21 10:17:18,7.651972,45.087592,Corso Regina Margherita,Torino,10143,18,position
+04.05.21 10:21:04,7.652803,45.088831,Corso Potenza 16,Torino,10143,26,position
+04.05.21 10:22:42,7.653721,45.090239,Corso Potenza 26,Torino,10143,17,position
+04.05.21 10:25:44,7.654498,45.091353,Corso Potenza,Torino,10149,22,position
+04.05.21 10:26:56,7.654863,45.091387,Via Pianezza,Torino,10149,17,position
+04.05.21 10:29:14,7.655078,45.091504,Via Nole 78,Torino,10149,28,position
+04.05.21 10:32:39,7.657905,45.091656,Via Nole 19,Torino,10149,16,position
+04.05.21 10:34:10,7.660517,45.091811,Via Nole,Torino,10149,27,position
+04.05.21 10:36:06,7.662191,45.091913,Via Nole 50,Torino,10149,19,position
+04.05.21 10:39:06,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
+04.05.21 10:39:06,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
+04.05.21 11:39:06,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+05.05.21 10:03:06,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+05.05.21 10:07:14,7.657819,45.088259,Corso Svizzera 145,Torino,10149,20,position
+05.05.21 10:09:34,7.656279,45.087164,Corso Svizzera,Torino,10143,14,position
+05.05.21 10:12:01,7.655679,45.084013,Corso Alessandro Tassoni,Torino,10144,30,position
+05.05.21 10:14:13,7.655764,45.082316,Corso Alessandro Tassoni,Torino,10144,29,position
+05.05.21 10:15:58,7.656204,45.07924,Corso Alessandro Tassoni,Torino,10143,18,position
+05.05.21 10:18:43,7.656258,45.076672,Corso Alessandro Tassoni,Torino,10143,21,position
+05.05.21 10:20:05,7.655968,45.076066,Piazza Lorenzo Bernini,Torino,10143,18,position
+05.05.21 10:24:17,7.65629,45.07552,Corso Francesco Ferrucci,Torino,10138,23,position
+05.05.21 10:27:47,7.655721,45.072429,Corso Francesco Ferrucci,Torino,10138,32,position
+05.05.21 10:32:36,7.655367,45.070345,Corso Francesco Ferrucci,Torino,10138,18,position
+05.05.21 10:34:41,7.654863,45.067284,Corso Francesco Ferrucci,Torino,10138,29,position
+05.05.21 10:35:59,7.655807,45.063025,Corso Francesco Ferrucci,Torino,10138,21,position
+05.05.21 10:37:20,7.656065,45.062116,Corso Francesco Ferrucci,Torino,10141,28,position
+05.05.21 10:40:09,7.657932,45.061366,Corso Peschiera,Torino,10138,34,position
+05.05.21 10:43:58,7.661161,45.060168,Corso Luigi Einaudi,Torino,10129,38,position
+05.05.21 10:47:52,7.663242,45.063071,Corso Duca degli Abruzzi,Torino,10129,11,position
+05.05.21 10:49:51,7.664573,45.064981,Corso Stati Uniti,Torino,10128,11,position
+05.05.21 10:52:52,7.666128,45.067049,Corso Duca degli Abruzzi,Torino,10128,38,position
+05.05.21 10:55:54,7.666043,45.067352,Corso Vittorio Emanuele II,Torino,10121,16,position
+05.05.21 11:00:31,7.662996,45.068444,Corso Vittorio Emanuele II,Torino,10121,20,position
+05.05.21 11:03:23,7.665849,45.072535,Corso Inghilterra,Torino,10138,30,position
+05.05.21 11:05:58,7.667405,45.074778,Corso Inghilterra,Torino,10138,27,position
+05.05.21 11:07:58,7.669519,45.078036,Corso Principe Oddone,Torino,10122,18,position
+05.05.21 11:12:15,7.671364,45.080392,Corso Principe Oddone 24,Torino,10122,38,position
+05.05.21 11:15:24,7.671729,45.081013,Corso Principe Oddone 30,Torino,10152,35,position
+05.05.21 11:19:29,7.67115,45.081096,Corso Umbria,Torino,10144,34,position
+05.05.21 11:22:39,7.669277,45.083255,Corso Umbria,Torino,10144,34,position
+05.05.21 11:25:50,7.667276,45.085539,Corso Umbria 30,Torino,10144,10,position
+05.05.21 11:30:33,7.666182,45.086884,Corso Umbria 42,Torino,10144,39,position
+05.05.21 11:31:40,7.666295,45.087153,Via Treviso,Torino,10144,37,position
+05.05.21 11:36:21,7.665866,45.087274,Corso Umbria,Torino,10144,12,position
+05.05.21 11:37:44,7.665592,45.087471,Corso Umbria 53,Torino,10144,27,position
+05.05.21 11:39:10,7.664541,45.088747,Corso Umbria 65,Torino,10149,26,position
+05.05.21 11:42:25,7.664353,45.089293,Corso Umbria,Torino,10149,28,position
+05.05.21 11:46:12,7.664026,45.089391,Corso Umbria 90,Torino,10149,30,position
+05.05.21 11:48:46,7.663076,45.090535,Ponte Carlo Emanuele II,Torino,10149,29,position
+05.05.21 11:51:20,7.662845,45.091637,Corso Svizzera,Torino,10149,39,position
+05.05.21 11:54:20,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,digital_input_change
+05.05.21 11:54:20,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,pause
+05.05.21 12:54:20,7.662373,45.091584,Corso Svizzera 189,Torino,10149,0,communication
+06.05.21 10:04:00,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+06.05.21 10:07:01,7.65791,45.091656,Via Nole 19,Torino,10149,40,position
+06.05.21 10:10:55,7.655056,45.091497,Via Nole 78,Torino,10149,36,position
+06.05.21 10:12:52,7.65415,45.091868,Via Pianezza,Torino,10149,26,position
+06.05.21 10:17:12,7.651907,45.093455,Via Pianezza 80,Torino,10149,18,position
+06.05.21 10:21:36,7.650615,45.094239,Via Pianezza 94,Torino,10149,31,position
+06.05.21 10:26:00,7.649252,45.094693,Via Foglizzo,Torino,10149,23,position
+06.05.21 10:28:18,7.64907,45.095155,Via Foglizzo 1,Torino,10149,28,position
+06.05.21 10:31:30,7.649359,45.098639,Corso Lombardia 128,Torino,10149,26,position
+06.05.21 10:35:52,7.648748,45.099464,Strada Comunale di Altessano,Torino,10151,24,position
+06.05.21 10:40:36,7.644521,45.100676,Corso Toscana,Torino,10151,18,position
+06.05.21 10:44:53,7.640594,45.101789,Via Andrea Sansovino,Torino,10151,27,position
+06.05.21 10:48:19,7.638341,45.10241,Viale dei Mughetti,Torino,10151,38,position
+06.05.21 10:51:28,7.638416,45.102865,Corso Molise,Torino,10151,18,position
+06.05.21 10:55:52,7.638523,45.105046,Corso Molise,Torino,10151,32,position
+06.05.21 10:57:20,7.638652,45.106886,Corso Molise,Torino,10151,29,position
+06.05.21 10:59:53,7.63848,45.107416,Corso Gaetano Scirea,Torino,10151,22,position
+06.05.21 11:03:49,7.637128,45.108415,Corso Gaetano Scirea,Torino,10151,22,position
+06.05.21 11:07:11,7.636249,45.109445,Corso Gaetano Scirea,Torino,10151,31,position
+06.05.21 11:10:44,7.637257,45.111202,Corso Gaetano Scirea,Torino,10151,25,position
+06.05.21 11:12:10,7.638137,45.112307,Via Druento,Torino,10151,25,position
+06.05.21 11:13:52,7.639961,45.112224,Via Druento,Torino,10151,39,position
+06.05.21 11:18:26,7.642868,45.111989,Via Druento,Torino,10151,22,position
+06.05.21 11:23:00,7.645229,45.1118,Via Druento,Torino,10151,17,position
+06.05.21 11:24:36,7.645261,45.109362,Strada Comunale di Altessano,Torino,10151,14,position
+06.05.21 11:27:47,7.645196,45.106303,Sottopassaggio Mina,Torino,10151,26,position
+06.05.21 11:31:48,7.647879,45.105985,Corso Grosseto,Torino,10151,14,position
+06.05.21 11:35:25,7.652943,45.105788,Corso Grosseto,Torino,10151,39,position
+06.05.21 11:39:47,7.659745,45.10547,Corso Grosseto,Torino,10151,24,position
+06.05.21 11:40:54,7.662792,45.105303,Corso Grosseto,Torino,10151,29,position
+06.05.21 11:42:15,7.663586,45.103773,Via Lucento,Torino,10149,12,position
+06.05.21 11:43:36,7.662513,45.103955,Corso Potenza,Torino,10149,36,position
+06.05.21 11:46:28,7.660431,45.100775,Corso Potenza 155,Torino,10149,13,position
+06.05.21 11:50:17,7.658693,45.098154,Corso Potenza,Torino,10149,28,position
+06.05.21 11:53:14,7.658071,45.097291,Corso Potenza,Torino,10149,26,position
+06.05.21 11:57:36,7.657041,45.096836,Largo Toscana,Torino,10149,32,position
+06.05.21 12:01:48,7.65805,45.096306,Largo Toscana 27,Torino,10149,21,position
+06.05.21 12:05:46,7.659122,45.096337,Corso Toscana,Torino,10149,32,position
+06.05.21 12:09:21,7.662406,45.095458,Corso Toscana,Torino,10149,20,position
+06.05.21 12:12:36,7.662942,45.094943,Largo Borgaro 27,Torino,10149,15,position
+06.05.21 12:14:31,7.66291,45.093459,Via Borgaro,Torino,10149,27,position
+06.05.21 12:18:50,7.662802,45.091929,Piazza Piero Della Francesca,Torino,10149,27,position
+06.05.21 12:21:50,7.662051,45.091902,Via Nole 52,Torino,10149,0,digital_input_change
+06.05.21 13:21:50,7.662051,45.091902,Via Nole 52,Torino,10149,0,communication
