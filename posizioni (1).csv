@@ -1,136 +1,1967 @@
 Data [dd.MM.yy HH:mm:ss],Longitudine,Latitudine,Indirizzo,Luogo,C.A.P.,Velocità,Tipo
-03.05.21 10:03:58,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
-03.05.21 10:05:57,7.659042,45.089194,Corso Svizzera 157,Torino,10149,26,position
-03.05.21 10:08:48,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,36,position
-03.05.21 10:10:15,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,30,position
-03.05.21 10:11:53,7.652857,45.087069,Corso Regina Margherita,Torino,10143,40,position
-03.05.21 10:14:50,7.652658,45.087376,Corso Regina Margherita,Torino,10143,13,position
-03.05.21 10:16:02,7.651972,45.087592,Corso Regina Margherita,Torino,10143,35,position
-03.05.21 10:20:31,7.652803,45.088831,Corso Potenza 16,Torino,10143,18,position
-03.05.21 10:23:48,7.653721,45.090239,Corso Potenza 26,Torino,10143,35,position
-03.05.21 10:28:17,7.654498,45.091353,Corso Potenza,Torino,10149,35,position
-03.05.21 10:32:43,7.654863,45.091387,Via Pianezza,Torino,10149,37,position
-03.05.21 10:34:49,7.655078,45.091504,Via Nole 78,Torino,10149,28,position
-03.05.21 10:37:30,7.657905,45.091656,Via Nole 19,Torino,10149,12,position
-03.05.21 10:39:08,7.660517,45.091811,Via Nole,Torino,10149,17,position
-03.05.21 10:43:50,7.662191,45.091913,Via Nole 50,Torino,10149,11,position
-03.05.21 10:46:50,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
-03.05.21 10:46:50,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,pause
-03.05.21 11:46:50,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
-04.05.21 10:03:36,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
-04.05.21 10:07:00,7.658355,45.08866,Corso Svizzera 149,Torino,10149,21,position
-04.05.21 10:11:07,7.656113,45.087043,Corso Svizzera 129,Torino,10143,37,position
-04.05.21 10:15:46,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,28,position
-04.05.21 10:20:16,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,17,position
-04.05.21 10:21:42,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,31,position
-04.05.21 10:22:48,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,16,position
-04.05.21 10:24:20,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,40,position
-04.05.21 10:27:05,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,34,position
-04.05.21 10:30:04,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,24,position
-04.05.21 10:33:36,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,35,position
-04.05.21 10:38:25,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,15,position
-04.05.21 10:41:36,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,33,position
-04.05.21 10:45:28,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,40,position
-04.05.21 10:46:33,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,40,position
-04.05.21 10:50:31,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,30,position
-04.05.21 10:51:56,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,24,position
-04.05.21 10:55:25,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,33,position
-04.05.21 10:59:25,7.693154,45.057599,Ponte Umberto I,Torino,10131,10,position
-04.05.21 11:02:25,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,39,position
-04.05.21 11:04:09,7.699892,45.063836,Corso Casale,Torino,10131,24,position
-04.05.21 11:07:56,7.709076,45.067231,Corso Casale 71,Torino,10132,33,position
-04.05.21 11:12:27,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,20,position
-04.05.21 11:14:54,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,36,position
-04.05.21 11:18:20,7.704355,45.069853,Corso Regina Margherita,Torino,10153,32,position
-04.05.21 11:23:16,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,17,position
-04.05.21 11:24:26,7.707316,45.072081,Corso Tortona,Torino,10153,16,position
-04.05.21 11:29:21,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,15,position
-04.05.21 11:33:42,7.703239,45.076627,Corso Novara,Torino,10153,16,position
-04.05.21 11:37:56,7.7006,45.079733,Corso Novara,Torino,10154,30,position
-04.05.21 11:41:02,7.697414,45.083312,Via Bologna,Torino,10154,38,position
-04.05.21 11:44:11,7.695778,45.085111,Corso Novara,Torino,10154,23,position
-04.05.21 11:46:05,7.693567,45.086342,Corso Novara,Torino,10154,13,position
-04.05.21 11:48:38,7.690644,45.087884,Corso Novara,Torino,10155,40,position
-04.05.21 11:52:07,7.688262,45.088967,Corso Vigevano,Torino,10155,23,position
-04.05.21 11:55:37,7.683649,45.089527,Corso Vigevano,Torino,10155,28,position
-04.05.21 11:59:40,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,33,position
-04.05.21 12:04:16,7.67778,45.09055,Corso Mortara,Torino,10149,17,position
-04.05.21 12:09:02,7.676782,45.089952,Corso Mortara,Torino,10149,32,position
-04.05.21 12:12:18,7.6738,45.0898,Corso Mortara,Torino,10149,12,position
-04.05.21 12:13:57,7.670635,45.09052,Corso Mortara,Torino,10149,39,position
-04.05.21 12:15:15,7.67057,45.090861,Via Orvieto,Torino,10149,14,position
-04.05.21 12:17:54,7.668961,45.091111,Corso Mortara 64,Torino,10149,32,position
-04.05.21 12:19:19,7.668349,45.093209,Via Verolengo,Torino,10149,30,position
-04.05.21 12:21:23,7.66733,45.093761,Via Verolengo,Torino,10149,22,position
-04.05.21 12:23:34,7.662942,45.093739,Via Borgaro,Torino,10149,21,position
-04.05.21 12:27:46,7.66284,45.091944,Via Borgaro,Torino,10149,12,position
-04.05.21 12:30:46,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
-04.05.21 12:30:46,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
-04.05.21 13:30:46,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
-05.05.21 10:03:05,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
-05.05.21 10:05:12,7.658355,45.08866,Corso Svizzera 149,Torino,10149,20,position
-05.05.21 10:09:43,7.656113,45.087043,Corso Svizzera 129,Torino,10143,16,position
-05.05.21 10:11:40,7.655646,45.083528,Corso Alessandro Tassoni,Torino,10144,26,position
-05.05.21 10:14:15,7.656204,45.079293,Corso Alessandro Tassoni,Torino,10143,17,position
-05.05.21 10:16:08,7.656212,45.076263,Piazza Lorenzo Bernini,Torino,10143,21,position
-05.05.21 10:18:21,7.65599,45.076039,Piazza Lorenzo Bernini,Torino,10143,25,position
-05.05.21 10:20:56,7.656236,45.075736,Piazza Lorenzo Bernini,Torino,10138,29,position
-05.05.21 10:24:22,7.655974,45.074005,Corso Francesco Ferrucci,Torino,10138,10,position
-05.05.21 10:25:27,7.65577,45.07266,Corso Francesco Ferrucci,Torino,10138,12,position
-05.05.21 10:28:25,7.655491,45.071118,Corso Vittorio Emanuele II,Torino,10138,36,position
-05.05.21 10:32:30,7.660893,45.069224,Corso Vittorio Emanuele II,Torino,10138,24,position
-05.05.21 10:35:01,7.665678,45.067481,Corso Vittorio Emanuele II,Torino,10121,40,position
-05.05.21 10:38:56,7.670162,45.065844,Corso Vittorio Emanuele II,Torino,10121,32,position
-05.05.21 10:42:57,7.670699,45.065329,Corso Vittorio Emanuele II,Torino,10121,31,position
-05.05.21 10:44:05,7.671815,45.065261,Corso Vittorio Emanuele II,Torino,10121,36,position
-05.05.21 10:47:47,7.677855,45.063079,Corso Vittorio Emanuele II,Torino,10121,11,position
-05.05.21 10:51:19,7.685633,45.060312,Corso Vittorio Emanuele II,Torino,10123,21,position
-05.05.21 10:52:24,7.693154,45.057599,Ponte Umberto I,Torino,10131,12,position
-05.05.21 10:56:46,7.69677,45.061199,Corso Moncalieri 11,Torino,10131,36,position
-05.05.21 11:01:24,7.699892,45.063836,Corso Casale,Torino,10131,40,position
-05.05.21 11:05:44,7.709076,45.067231,Corso Casale 71,Torino,10132,37,position
-05.05.21 11:07:09,7.708046,45.069019,Piazzale Regina Margherita,Torino,10153,38,position
-05.05.21 11:10:01,7.70678,45.069095,Piazzale Regina Margherita,Torino,10153,33,position
-05.05.21 11:12:52,7.704355,45.069853,Corso Regina Margherita,Torino,10153,23,position
-05.05.21 11:16:25,7.705879,45.07108,Via Bettino Ricasoli 26,Torino,10153,24,position
-05.05.21 11:21:03,7.707316,45.072081,Corso Tortona,Torino,10153,38,position
-05.05.21 11:22:07,7.704913,45.075051,Lungo Dora Voghera 2,Torino,10153,34,position
-05.05.21 11:23:34,7.703239,45.076627,Corso Novara,Torino,10153,24,position
-05.05.21 11:27:58,7.7006,45.079733,Corso Novara,Torino,10154,20,position
-05.05.21 11:32:30,7.697414,45.083312,Via Bologna,Torino,10154,20,position
-05.05.21 11:34:50,7.695778,45.085111,Corso Novara,Torino,10154,10,position
-05.05.21 11:36:17,7.693567,45.086342,Corso Novara,Torino,10154,31,position
-05.05.21 11:40:16,7.690644,45.087884,Corso Novara,Torino,10155,39,position
-05.05.21 11:43:20,7.688262,45.088967,Corso Vigevano,Torino,10155,14,position
-05.05.21 11:47:35,7.683649,45.089527,Corso Vigevano,Torino,10155,26,position
-05.05.21 11:48:53,7.678681,45.090202,Piazza Generale Antonio Baldissera,Torino,10152,30,position
-05.05.21 11:52:48,7.67778,45.09055,Corso Mortara,Torino,10149,11,position
-05.05.21 11:55:31,7.676782,45.089952,Corso Mortara,Torino,10149,16,position
-05.05.21 11:58:23,7.6738,45.0898,Corso Mortara,Torino,10149,30,position
-05.05.21 12:01:32,7.670635,45.09052,Corso Mortara,Torino,10149,25,position
-05.05.21 12:02:50,7.67057,45.090861,Via Orvieto,Torino,10149,12,position
-05.05.21 12:05:26,7.668961,45.091111,Corso Mortara 64,Torino,10149,37,position
-05.05.21 12:07:31,7.668349,45.093209,Via Verolengo,Torino,10149,24,position
-05.05.21 12:12:19,7.66733,45.093761,Via Verolengo,Torino,10149,31,position
-05.05.21 12:16:27,7.662942,45.093739,Via Borgaro,Torino,10149,15,position
-05.05.21 12:19:13,7.66284,45.091944,Via Borgaro,Torino,10149,40,position
-05.05.21 12:22:13,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,digital_input_change
-05.05.21 12:22:13,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,pause
-05.05.21 13:22:13,7.662395,45.091607,Corso Svizzera 189,Torino,10149,0,communication
-06.05.21 10:04:00,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
-06.05.21 10:08:54,7.659042,45.089194,Corso Svizzera 157,Torino,10149,11,position
-06.05.21 10:11:37,7.656333,45.087202,Ponte Candido Ramello,Torino,10143,13,position
-06.05.21 10:14:34,7.655126,45.086327,Corso Regina Margherita 286,Torino,10143,12,position
-06.05.21 10:19:06,7.652857,45.087069,Corso Regina Margherita,Torino,10143,11,position
-06.05.21 10:21:30,7.652658,45.087376,Corso Regina Margherita,Torino,10143,11,position
-06.05.21 10:23:44,7.651972,45.087592,Corso Regina Margherita,Torino,10143,20,position
-06.05.21 10:25:48,7.652803,45.088831,Corso Potenza 16,Torino,10143,32,position
-06.05.21 10:29:46,7.653721,45.090239,Corso Potenza 26,Torino,10143,40,position
-06.05.21 10:33:30,7.654498,45.091353,Corso Potenza,Torino,10149,13,position
-06.05.21 10:34:47,7.654863,45.091387,Via Pianezza,Torino,10149,17,position
-06.05.21 10:39:20,7.655078,45.091504,Via Nole 78,Torino,10149,37,position
-06.05.21 10:43:22,7.657905,45.091656,Via Nole 19,Torino,10149,26,position
-06.05.21 10:47:08,7.660517,45.091811,Via Nole,Torino,10149,17,position
-06.05.21 10:51:07,7.662191,45.091913,Via Nole 50,Torino,10149,37,position
-06.05.21 10:54:07,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,digital_input_change
-06.05.21 11:54:07,7.662408,45.091609,Corso Svizzera 189,Torino,10149,0,communication
+29.04.21 07:59:25,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 07:59:25,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 07:59:56,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 07:59:56,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:00:29,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:00:29,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:01:30,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:01:30,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:02:32,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:02:32,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:03:33,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:03:33,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:04:34,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:04:34,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:05:35,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:05:35,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:05:41,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:05:41,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:05:41,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:05:41,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:05:44,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:05:44,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:05:59,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:05:59,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:06:49,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:07:50,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+29.04.21 08:08:09,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+29.04.21 08:08:09,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 05:21:59,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,anomaly
+30.04.21 05:21:59,8.77976,39.659952,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,anomaly
+30.04.21 05:22:48,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,external_power_on
+30.04.21 16:07:32,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:07:45,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:08:37,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:09:28,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:09:29,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:09:56,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:10:09,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:11:00,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,1,telemetry
+30.04.21 16:12:01,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:13:03,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:14:04,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:15:05,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:16:06,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:17:07,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:18:08,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,telemetry
+30.04.21 16:18:08,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:18:11,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,digital_input_change
+30.04.21 16:18:19,8.780082,39.660113,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,0,driving_style
+30.04.21 16:33:09,8.78094,39.659501,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,8,driving_style
+30.04.21 16:34:23,8.781391,39.658665,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,9,driving_style
+30.04.21 16:35:51,8.78403,39.656937,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,14,driving_style
+30.04.21 16:37:28,8.785918,39.65551,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,34,driving_style
+30.04.21 16:38:05,8.78476,39.651187,Str. Cons. di Collegamento SS 131-SP 46,Gonnostramatza,09093,46,geofence_violation
+30.04.21 16:38:36,8.783923,39.647861,Strada Provinciale 53,Collinas,09020,42,driving_style
+30.04.21 16:40:31,8.779052,39.635276,Strada Statale 131,Sardara,09030,23,driving_style
+30.04.21 16:42:14,8.786283,39.630147,E25/SS131,Sardara,09030,63,driving_style
+30.04.21 16:49:36,8.801647,39.620116,Strada Statale 131,Sardara,09030,64,driving_style
+30.04.21 16:51:52,8.822697,39.605063,E25/SS131,Sardara,09030,64,driving_style
+30.04.21 16:53:05,8.83467,39.599677,E25/SS131,Sardara,09030,64,driving_style
+30.04.21 16:56:21,8.866578,39.578188,Strada Statale 131,Sanluri,09025,73,driving_style
+30.04.21 17:00:21,8.900481,39.546452,Strada Statale 131,Sanluri,09025,70,driving_style
+30.04.21 17:01:28,8.917282,39.542643,Strada Statale 131,Sanluri,09025,75,driving_style
+30.04.21 17:02:53,8.931423,39.530176,Strada Statale 131,Serrenti,09027,77,driving_style
+30.04.21 17:05:40,8.948868,39.513171,Strada Statale 131,Serrenti,09027,60,driving_style
+30.04.21 17:06:56,8.954898,39.507785,Strada Statale 131,Serrenti,09027,36,driving_style
+30.04.21 17:08:11,8.963652,39.497936,Strada Statale 131,Serrenti,09027,80,driving_style
+30.04.21 17:09:12,8.973351,39.488816,Strada Statale 131,Serrenti,09027,80,driving_style
+30.04.21 17:10:43,8.988887,39.475523,Strada Statale 131,Serrenti,09027,78,driving_style
+30.04.21 17:13:31,9.007104,39.449667,Strada Statale 131,Nuraminis,09024,65,driving_style
+30.04.21 17:14:41,9.011138,39.437039,Strada Statale 131,Nuraminis,09024,75,driving_style
+30.04.21 17:16:41,9.022103,39.419969,Strada Statale 131,Nuraminis,09024,45,driving_style
+30.04.21 17:18:41,9.033197,39.402031,Strada Statale 131,Monastir,09023,78,driving_style
+30.04.21 17:20:02,9.045213,39.390529,Viale Europa,Monastir,09023,57,driving_style
+30.04.21 17:21:17,9.049805,39.384564,Strada Statale 131,Monastir,09023,37,driving_style
+30.04.21 17:22:51,9.047337,39.369029,Strada Statale 131,Monastir,09023,80,driving_style
+30.04.21 17:24:15,9.049977,39.352388,Strada Statale 131 Carlo Felice,San Sperate,09026,78,driving_style
+30.04.21 17:25:30,9.052208,39.337733,Strada Statale 131 Carlo Felice,San Sperate,09026,78,driving_style
+30.04.21 17:26:56,9.056478,39.322949,Strada Statale 131,Sestu,09028,73,driving_style
+30.04.21 17:28:05,9.061306,39.309774,Strada Statale 131,Sestu,09028,78,driving_style
+30.04.21 17:30:44,9.065405,39.298895,Località Scala Sa Perda,Sestu,09028,18,driving_style
+30.04.21 17:31:45,9.066885,39.29485,Località Cortexandra,Sestu,09028,37,driving_style
+30.04.21 17:33:17,9.069889,39.288048,Località Pintoreddu,Sestu,09028,38,driving_style
+30.04.21 17:35:31,9.073559,39.2816,Via San Giorgio,Sestu,09028,14,driving_style
+01.05.21 11:00:00,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,digital_input_change
+01.05.21 11:00:59,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,digital_input_change
+01.05.21 11:39:27,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,digital_input_change
+01.05.21 11:40:12,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,digital_input_change
+01.05.21 11:50:21,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,digital_input_change
+01.05.21 11:50:31,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,digital_input_change
+02.05.21 11:50:37,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,anomaly
+02.05.21 11:50:41,9.058173,39.27572,Via San Giorgio,Truncu Is Follas,09032,0,anomaly
+02.05.21 11:51:30,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,external_power_on
+03.05.21 06:49:01,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 06:49:28,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 06:50:06,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:51:07,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:52:08,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:53:09,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:54:10,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:55:10,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:56:12,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:57:13,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 06:57:47,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 06:57:52,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:18:22,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:18:48,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:19:25,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:20:26,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:21:27,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:22:28,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:23:29,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:24:31,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:25:32,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:26:33,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:27:33,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:28:34,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:29:35,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:30:36,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:31:37,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:32:39,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:33:40,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:34:41,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:35:41,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:36:42,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:37:43,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:38:44,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:39:45,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:40:46,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:41:48,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:42:28,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:42:28,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:42:40,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:42:55,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:43:45,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,telemetry
+03.05.21 11:43:57,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 11:43:57,9.058066,39.275216,Via Truncu Is Follas,Assemini,09032,0,digital_input_change
+03.05.21 12:17:06,9.056028,39.274272,Via San Giorgio,Truncu Is Follas,09032,5,driving_style
+03.05.21 12:18:25,9.055083,39.273725,Via San Giorgio,Elmas,09067,7,driving_style
+03.05.21 12:19:40,9.04959,39.27366,Strada Statale 130,Elmas,09067,39,driving_style
+03.05.21 12:20:01,9.0462,39.274926,Strada Statale 130,Elmas,09067,42,geofence_violation
+03.05.21 12:21:01,9.039291,39.278553,Regione Is Punteddus,Elmas,09067,45,driving_style
+03.05.21 12:22:57,9.029506,39.285934,Strada Pedemontana,Assemini,09032,28,driving_style
+03.05.21 12:24:09,9.032939,39.291803,Strada Pedemontana,Assemini,09032,43,driving_style
+03.05.21 12:25:17,9.038261,39.299098,Strada Pedemontana,Assemini,09032,49,driving_style
+03.05.21 12:26:17,9.043303,39.305976,Strada Pedemontana,Assemini,09032,54,driving_style
+03.05.21 12:27:18,9.050298,39.311276,Località Is Tapius,Sestu,09028,45,driving_style
+03.05.21 12:28:34,9.057444,39.313829,Strada Statale 131,Sestu,09028,19,driving_style
+03.05.21 12:30:03,9.059804,39.316683,Strada Statale 131,Sestu,09028,29,driving_style
+03.05.21 12:31:45,9.05489,39.328227,Strada Statale 131,Sestu,09028,59,driving_style
+03.05.21 12:32:58,9.052294,39.3399,Strada Statale 131 Carlo Felice,San Sperate,09026,59,driving_style
+03.05.21 12:34:00,9.050856,39.349095,Strada Statale 131 Carlo Felice,San Sperate,09026,61,driving_style
+03.05.21 12:35:10,9.049183,39.359759,Strada Statale 131,Monastir,09023,60,driving_style
+03.05.21 12:36:10,9.047852,39.36845,Strada Statale 131,Monastir,09023,57,driving_style
+03.05.21 12:37:10,9.047917,39.377387,Strada Statale 131,Monastir,09023,59,driving_style
+03.05.21 12:40:00,9.035943,39.398512,Strada Statale 131,Monastir,09023,62,driving_style
+03.05.21 12:41:01,9.030858,39.406483,Strada Statale 131,Monastir,09023,61,driving_style
+03.05.21 12:42:01,9.025622,39.414723,Strada Statale 131,Nuraminis,09024,60,driving_style
+03.05.21 12:43:20,9.020386,39.426053,Strada Statale 131,Nuraminis,09024,56,driving_style
+03.05.21 12:44:20,9.015902,39.433659,Strada Statale 131,Nuraminis,09024,59,driving_style
+03.05.21 12:45:22,9.008649,39.440333,Strada Statale 131,Nuraminis,09024,59,driving_style
+03.05.21 12:46:22,9.007426,39.44883,Strada Statale 131,Nuraminis,09024,51,driving_style
+03.05.21 12:48:13,8.998821,39.462423,Strada Statale 131,Nuraminis,09024,51,driving_style
+03.05.21 12:49:28,8.992148,39.471414,Strada Statale 131,Nuraminis,09024,56,driving_style
+03.05.21 12:50:29,8.986355,39.479364,Strada Statale 131,Serrenti,09027,59,driving_style
+03.05.21 12:51:59,8.972793,39.489621,Strada Statale 131,Serrenti,09027,68,driving_style
+03.05.21 12:53:06,8.963416,39.49859,Strada Statale 131,Serrenti,09027,64,driving_style
+03.05.21 12:54:06,8.956979,39.506294,E25/SS131,Case Genna,09027,60,driving_style
+03.05.21 12:55:20,8.946937,39.516615,Strada Statale 131,Serrenti,09027,59,driving_style
+03.05.21 12:57:19,8.932217,39.529919,Strada Statale 131,Serrenti,09027,62,driving_style
+03.05.21 12:58:30,8.923205,39.538577,Strada Statale 131,Samassi,09030,62,driving_style
+03.05.21 12:59:35,8.912025,39.544478,Strada Statale 131,Sanluri,09025,61,driving_style
+03.05.21 13:00:43,8.898185,39.547192,Strada Statale 131,Sanluri,09025,62,driving_style
+03.05.21 13:01:59,8.885611,39.551526,Strada Provinciale per Sanluri Stato,Sanluri,09025,65,driving_style
+03.05.21 13:03:03,8.87941,39.561783,Strada Statale 131,Sanluri,09025,63,driving_style
+03.05.21 13:04:03,8.876641,39.568918,Strada Statale 131,Sanluri,09025,46,driving_style
+03.05.21 13:05:10,8.869796,39.575816,Strada Statale 131,Sanluri,09025,62,driving_style
+03.05.21 13:06:47,8.853338,39.587007,E25/SS131,Cantoniera di Sardara,09030,65,driving_style
+03.05.21 13:07:49,8.844605,39.594281,Strada Statale 131,Sardara,09030,64,driving_style
+03.05.21 13:08:59,8.83261,39.601158,E25/SS131,Sardara,09030,69,driving_style
+03.05.21 13:10:14,8.816453,39.606855,Strada Statale 131,Sardara,09030,66,driving_style
+03.05.21 13:11:31,8.805187,39.614043,Strada Statale 131,Sardara,09030,61,driving_style
+03.05.21 13:12:38,8.798278,39.62386,E25/SS131,Santa Maria de is Acquas,09030,65,driving_style
+03.05.21 13:13:40,8.786906,39.630019,E25/SS131,Santa Maria de is Acquas,09030,64,driving_style
+03.05.21 13:14:41,8.778129,39.636381,Strada Statale 131,Sardara,09030,58,driving_style
+03.05.21 13:16:54,8.75665,39.650811,E25/SS131,Ponte Cracaxia,09095,72,driving_style
+03.05.21 13:19:29,8.732467,39.666904,Strada Statale 131,Mogoro,09095,68,driving_style
+03.05.21 13:21:56,8.713799,39.687568,Strada Statale Carlo Felice,Uras,09099,70,driving_style
+03.05.21 13:22:56,8.708928,39.698597,Strada Statale Carlo Felice,Uras,09099,70,driving_style
+03.05.21 13:24:16,8.698586,39.708146,Strada Statale Carlo Felice,Uras,09099,60,driving_style
+03.05.21 13:25:45,8.689101,39.720484,Strada Statale Carlo Felice,Uras,09099,62,driving_style
+03.05.21 13:26:46,8.684552,39.729035,Strada Statale Carlo Felice,Uras,09099,61,driving_style
+03.05.21 13:28:14,8.677257,39.742693,E25/SS131,Zona P.I.P.,09094,67,driving_style
+03.05.21 13:29:17,8.672171,39.751963,Strada Statale 131,Marrubiu,09094,67,driving_style
+03.05.21 13:32:26,8.655456,39.782475,E25/SS131,Marrubiu,09094,67,driving_style
+03.05.21 13:33:44,8.649576,39.793698,Strada Statale 131,Marrubiu,09094,70,driving_style
+03.05.21 13:34:50,8.643633,39.804598,Strada Statale 131,Marrubiu,09094,66,driving_style
+03.05.21 13:36:44,8.634406,39.821861,Strada Statale 131,Santa Giusta,09096,71,driving_style
+03.05.21 13:39:03,8.622604,39.844016,Strada Statale 131,Santa Giusta,09096,68,driving_style
+03.05.21 13:40:03,8.61769,39.853146,Strada Statale 131,Santa Giusta,09096,64,driving_style
+03.05.21 13:41:06,8.612283,39.863478,E25/SS131,Santa Giusta,09096,62,driving_style
+03.05.21 13:42:09,8.614085,39.872286,E25/SS131,Santa Giusta,09096,59,driving_style
+03.05.21 13:43:34,8.619707,39.88367,E25/SS131,Santa Giusta,09096,68,driving_style
+03.05.21 13:45:23,8.627969,39.900482,Strada Statale 131 Carlo Felice,Santa giusta,09170,62,driving_style
+03.05.21 13:47:11,8.634556,39.91782,Viadotto Or. Sili',Oristano,09170,66,driving_style
+03.05.21 13:48:12,8.631101,39.927583,Viadotto Tirso,Siamaggiore,09070,70,driving_style
+03.05.21 13:49:15,8.626703,39.937432,Strada Statale Carlo Felice,Siamaggiore,09070,62,driving_style
+03.05.21 13:50:14,8.622711,39.946326,Strada Statale Carlo Felice,Siamaggiore,09070,61,driving_style
+03.05.21 13:51:15,8.618141,39.954609,Strada Statale Carlo Felice,Siamaggiore,09070,61,driving_style
+03.05.21 13:52:15,8.6193,39.963235,Strada Statale Carlo Felice,Siamaggiore,09070,60,driving_style
+03.05.21 13:53:23,8.626874,39.972741,Strada Statale Carlo Felice,Siamaggiore,09070,65,driving_style
+03.05.21 13:55:10,8.638504,39.987364,Strada Statale Carlo Felice,Tramatza,09070,59,driving_style
+03.05.21 13:56:11,8.64728,39.993179,Strada Statale Carlo Felice,Tramatza,09070,59,driving_style
+03.05.21 13:57:11,8.657001,39.998168,Strada Statale Carlo Felice,Tramatza,09070,62,driving_style
+03.05.21 13:58:24,8.664232,40.007577,Strada Statale Carlo Felice,Bauladu,09070,65,driving_style
+03.05.21 13:59:24,8.667193,40.016739,Strada Statale 131 Carlo Felice 2,Tramatza,09070,61,driving_style
+03.05.21 14:00:24,8.67039,40.025677,Strada Statale 131 Carlo Felice 107,Bauladu,09070,57,driving_style
+03.05.21 14:01:35,8.676849,40.034753,Strada Statale Carlo Felice,Bauladu,09070,59,driving_style
+03.05.21 14:02:38,8.68938,40.038315,Strada Statale Carlo Felice,Bauladu,09070,58,driving_style
+03.05.21 14:03:43,8.698822,40.040643,Strada Statale Carlo Felice,Bauladu,09070,53,driving_style
+03.05.21 14:04:46,8.708306,40.044152,E25/SS131,Cantoniera di Paulilatino,09070,43,driving_style
+03.05.21 14:05:47,8.708671,40.050095,Strada Statale 131,Paulilatino,09070,34,driving_style
+03.05.21 14:06:48,8.712383,40.053411,E25/SS131,Paulilatino,09070,28,driving_style
+03.05.21 14:07:55,8.717468,40.057273,E25/SS131,Paulilatino,09070,29,driving_style
+03.05.21 14:08:59,8.722318,40.059698,E25/SS131,Paulilatino,09070,30,driving_style
+03.05.21 14:10:04,8.730987,40.061897,E25/SS131,Paulilatino,09070,45,driving_style
+03.05.21 14:11:04,8.738626,40.064021,E25/SS131,Santa Cristina,09070,46,driving_style
+03.05.21 14:12:04,8.746072,40.069665,Strada Statale 131,Paulilatino,09070,60,driving_style
+03.05.21 14:13:15,8.751543,40.0771,Strada Statale 131,Paulilatino,09070,39,driving_style
+03.05.21 14:14:15,8.752766,40.084095,E25/SS131,Paulilatino,09070,59,driving_style
+03.05.21 14:15:15,8.757659,40.090511,Strada Statale 131,Paulilatino,09070,50,driving_style
+03.05.21 14:16:17,8.767315,40.093376,E25/SS131,Paulilatino,09070,62,driving_style
+03.05.21 14:19:15,8.793836,40.111518,Strada Statale 131 Carlo Felice,Abbasanta,09071,25,driving_style
+03.05.21 14:20:15,8.797527,40.113878,SS131DCN,Abbasanta,09071,33,driving_style
+03.05.21 14:21:17,8.807312,40.113825,Strada Statale 131DCN,Abbasanta,09071,58,driving_style
+03.05.21 14:24:33,8.845142,40.119017,Strada Statale 131DCN,Ghilarza,09074,58,driving_style
+03.05.21 14:26:41,8.865913,40.133426,Strada Statale 131DCN,Soddì,09080,66,driving_style
+03.05.21 14:27:42,8.872715,40.141709,Strada Statale 131DCN,Soddì,09080,66,driving_style
+03.05.21 14:28:51,8.883808,40.147975,SS131DCN,Soddì,09080,52,driving_style
+03.05.21 14:39:11,8.901618,40.152481,Strada Statale 131DCN,Sedilo,09076,15,driving_style
+03.05.21 14:41:06,8.90797,40.158178,Strada Statale 131DCN,Sedilo,09076,29,driving_style
+03.05.21 14:42:11,8.913334,40.160495,Strada Statale 131DCN,Sedilo,09076,34,driving_style
+03.05.21 14:43:58,8.928247,40.165806,SS131DCN,Sedilo,09076,50,driving_style
+03.05.21 14:45:05,8.931595,40.169121,Strada Statale 131DCN,Sedilo,09076,53,driving_style
+03.05.21 14:48:31,8.977793,40.189517,Strada Statale 131DCN,Sedilo,09076,72,driving_style
+03.05.21 14:49:33,8.988801,40.196126,SS131DCN,Sedilo,09076,73,driving_style
+03.05.21 14:51:00,8.999594,40.20929,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,63,driving_style
+03.05.21 14:52:16,9.010387,40.216092,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,64,driving_style
+03.05.21 14:53:35,9.023433,40.224482,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,62,driving_style
+03.05.21 14:54:36,9.03251,40.231048,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,59,driving_style
+03.05.21 14:55:48,9.042853,40.237496,Strada Statale Numero 131 D.C.N.,Ottana,08020,66,driving_style
+03.05.21 14:56:52,9.052466,40.243204,Strada Statale Numero 131 D.C.N.,Ottana,08020,36,driving_style
+03.05.21 14:57:52,9.058066,40.245296,Strada Statale Numero 131 D.C.N.,Ottana,08020,31,driving_style
+03.05.21 14:59:05,9.065619,40.246637,Strada Statale Numero 131 D.C.N.,Ottana,08020,41,driving_style
+03.05.21 15:00:07,9.074524,40.248257,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,52,driving_style
+03.05.21 15:01:07,9.086476,40.2508,Strada Statale 131DCN,Orani,08026,59,driving_style
+03.05.21 15:02:41,9.101282,40.261271,SS131DCN,Orotelli,08020,63,driving_style
+03.05.21 15:04:21,9.121066,40.266357,SS131DCN,Oniferi,08020,67,driving_style
+03.05.21 15:04:21,9.121066,40.266357,SS131DCN,Oniferi,08020,67,driving_style
+03.05.21 15:05:21,9.128683,40.271871,Strada Statale Numero 131,Oniferi,08020,48,driving_style
+03.05.21 15:06:27,9.136129,40.278148,Strada Statale Numero 131,Oniferi,08020,62,driving_style
+03.05.21 15:07:27,9.145377,40.284038,Strada Statale Numero 131,Oniferi,08020,63,driving_style
+03.05.21 15:08:28,9.155205,40.287224,Strada Statale Numero 131,Oniferi,08020,59,driving_style
+03.05.21 15:09:30,9.165848,40.288683,Strada Statale Numero 131,Oniferi,08020,47,driving_style
+03.05.21 15:10:31,9.172865,40.292707,Strada Statale Numero 131,Oniferi,08020,22,driving_style
+03.05.21 15:11:39,9.179087,40.293168,Strada Statale Numero 131,Oniferi,08020,35,driving_style
+03.05.21 15:12:57,9.187542,40.296794,Strada Statale Numero 131,Oniferi,08020,56,driving_style
+03.05.21 15:16:13,9.218655,40.313799,Strada Statale 131 Diramazione Centrale Nuorese,Nuoro,08026,66,driving_style
+03.05.21 15:17:30,9.231766,40.314626,SS131DCN,Orani,08026,67,driving_style
+03.05.21 15:18:30,9.244319,40.313842,SS131DCN,Orani,08026,54,driving_style
+03.05.21 15:19:49,9.258095,40.317801,Strada Statale 131DCN,Nuoro,08100,69,driving_style
+03.05.21 15:20:49,9.26775,40.321117,SS131DCN,Nuoro,08100,48,driving_style
+03.05.21 15:21:49,9.275175,40.322737,Strada Statale 131DCN,Nuoro,08100,32,driving_style
+03.05.21 15:22:53,9.281634,40.322715,SS389var,Prato Sardo,08100,28,driving_style
+03.05.21 15:23:53,9.28393,40.321288,Prato Sardo,Nuoro,08100,24,driving_style
+03.05.21 15:25:14,9.28393,40.321288,Prato Sardo,Nuoro,08100,25,driving_style
+03.05.21 15:26:35,9.277728,40.303854,SS389var,Nuoro,08100,65,driving_style
+03.05.21 15:27:46,9.267879,40.294874,SS389var,Nuoro,08100,65,driving_style
+03.05.21 15:28:53,9.261742,40.287739,SS389var,Nuoro,08100,35,driving_style
+03.05.21 15:29:56,9.259961,40.281613,Strada Statale 389var,Nuoro,08100,41,driving_style
+03.05.21 15:30:56,9.258052,40.274961,SS389var,Nuoro,08100,51,driving_style
+03.05.21 15:33:33,9.24934,40.252978,Viadotto Navile,Orani,08026,66,driving_style
+03.05.21 15:34:34,9.256764,40.247753,Viadotto Sa Pruna,Orani,08026,40,driving_style
+03.05.21 15:35:37,9.260755,40.243332,Galleria Teulargiu,Orani,08026,37,driving_style
+03.05.21 15:36:38,9.260755,40.243332,Galleria Teulargiu,Orani,08026,37,driving_style
+03.05.21 15:37:40,9.264918,40.23328,SS389var,Mamoiada,08024,38,driving_style
+03.05.21 15:38:46,9.261056,40.226317,SS389var,Mamoiada,08024,44,driving_style
+03.05.21 15:40:01,9.259489,40.218892,Strada Statale 389var,Mamoiada,08024,46,driving_style
+03.05.21 15:41:24,9.257472,40.210148,SS389var,Mamoiada,08024,38,driving_style
+03.05.21 15:42:25,9.26185,40.206672,SS389var,Mamoiada,08024,24,driving_style
+03.05.21 15:43:29,9.266248,40.20502,Strada Statale 389var,Mamoiada,08024,24,driving_style
+03.05.21 15:46:37,9.27554,40.195332,Strada Statale 389var,Mamoiada,08024,26,driving_style
+03.05.21 15:48:30,9.282857,40.191888,Strada Statale 389var di Buddusò e del Correboi,Mamoiada,08024,26,driving_style
+03.05.21 15:49:32,9.286075,40.189034,Strada Statale 389var,Mamoiada,08024,10,driving_style
+03.05.21 15:51:24,9.287127,40.184453,SS389var,Mamoiada,08024,18,driving_style
+03.05.21 15:52:36,9.290989,40.182242,Strada Statale 389var,Mamoiada,08024,20,driving_style
+03.05.21 15:53:43,9.294122,40.178466,SS389,Pratobello,08027,26,driving_style
+03.05.21 15:56:05,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,4,driving_style
+03.05.21 16:05:52,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:06:14,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:06:57,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:07:57,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:08:58,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:10:00,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:11:01,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:12:02,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:13:03,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:14:04,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:15:05,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:16:05,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:17:06,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:18:07,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:19:09,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:20:10,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:21:11,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:22:12,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:23:13,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:23:40,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:23:55,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:25:08,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:25:25,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:26:13,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:26:33,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:26:33,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:46:29,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:46:43,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 16:47:34,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:48:35,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:49:36,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:50:37,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:51:37,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:52:39,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:53:40,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:54:41,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:55:42,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:56:43,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:57:44,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:58:45,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 16:59:46,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:00:47,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:01:48,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:02:49,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:03:50,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:04:51,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:05:52,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:06:53,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:07:54,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:08:54,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:09:56,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:10:57,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:11:58,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:12:59,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,2,telemetry
+03.05.21 17:14:00,9.30013,40.172093,Strada Statale 389var,Mamoiada,08024,2,telemetry
+03.05.21 17:14:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,2,motion_start
+03.05.21 17:15:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,2,telemetry
+03.05.21 17:16:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,1,telemetry
+03.05.21 17:17:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:17:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,motion_stop
+03.05.21 17:18:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:19:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:20:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:21:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:22:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:23:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:24:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:25:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:26:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:27:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:28:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:29:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:30:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:31:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:32:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:33:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:34:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:35:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:36:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:37:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:38:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:39:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:40:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:41:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:42:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:43:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:44:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+03.05.21 17:45:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 17:45:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+03.05.21 17:45:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,driving_style
+04.05.21 07:59:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,driving_style
+04.05.21 08:23:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,driving_style
+04.05.21 10:19:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 10:19:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 10:20:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:21:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:22:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:23:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:24:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:25:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:26:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:27:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:28:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:29:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:30:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:31:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:32:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:33:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:34:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:35:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:36:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:37:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:38:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:39:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:40:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:41:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:42:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:43:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:44:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:45:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:46:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:47:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:48:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:49:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 10:49:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 10:50:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 10:50:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 10:51:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:52:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:53:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:54:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:55:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:56:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:57:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:58:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 10:59:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:00:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:01:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:02:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:03:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:04:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:05:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:06:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:07:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:08:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:09:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:10:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:11:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:12:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:13:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:14:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:15:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:16:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:17:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:18:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:19:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:20:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:21:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:22:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:23:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:24:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:25:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:26:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:27:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:28:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:29:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:30:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:31:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:32:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:33:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:34:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:35:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:37:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:38:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:39:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:40:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:41:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:42:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:43:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:44:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:45:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:46:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:47:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:48:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:49:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:50:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:51:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:52:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:53:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:54:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:55:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:56:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:57:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:58:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 11:59:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:00:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:01:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:02:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:03:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:04:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:05:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:06:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:07:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:08:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:09:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:10:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:11:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:12:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:13:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:14:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:15:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:16:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:17:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:18:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:19:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:20:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:21:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:22:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:23:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:24:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:25:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:26:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:27:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:28:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:29:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:30:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:31:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:32:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:33:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:34:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:35:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:37:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:38:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:39:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:40:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:41:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:42:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:43:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:44:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:45:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:46:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:47:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:48:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:49:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:50:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:51:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:52:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:53:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:54:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:55:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:56:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:57:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:58:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 12:59:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:00:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:01:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 13:01:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 13:03:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 13:03:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 13:04:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:05:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:06:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:07:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:08:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:09:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:10:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:11:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:12:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:13:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:14:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:15:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:16:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:17:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:18:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:19:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:20:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:21:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:22:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:23:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:24:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:25:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:26:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:27:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:28:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:29:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:30:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:31:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:32:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:33:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:34:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,1,telemetry
+04.05.21 13:35:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:37:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:38:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:39:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:40:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:41:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:42:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:43:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:44:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:45:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:46:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:47:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:48:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:49:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:50:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:51:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:52:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:53:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:54:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:55:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:56:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:57:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:58:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 13:59:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:00:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:01:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:02:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:03:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:04:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:05:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:06:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:07:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:08:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:09:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:10:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:11:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:12:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:13:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:14:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:15:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:16:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:17:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:18:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:19:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:20:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:21:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:22:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:23:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:24:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:25:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:26:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:27:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:28:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:29:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:30:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:31:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:32:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:33:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:34:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:35:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:36:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:38:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:39:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:40:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:41:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:42:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:43:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:44:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:45:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:46:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:47:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:48:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:49:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:50:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:51:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:52:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:53:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:54:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:55:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:56:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:57:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:58:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 14:59:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:00:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:01:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:02:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:03:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:04:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:05:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:06:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:07:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:08:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:09:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:10:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:11:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:12:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:13:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:14:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:15:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:16:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:17:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:18:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:19:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:20:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:21:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:22:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:23:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:24:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 15:24:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:25:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 15:25:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 15:25:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 15:25:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:26:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:27:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:28:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:29:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:30:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:31:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:32:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:33:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:34:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:35:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:36:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:37:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:38:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:40:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:41:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:42:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:43:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:44:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:45:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:46:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:47:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:48:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:49:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:50:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:51:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:52:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:53:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:54:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:55:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:56:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:57:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:58:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 15:59:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:00:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:01:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:02:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:03:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:04:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:05:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:06:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:07:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:08:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:09:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:10:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:11:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:12:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:13:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:14:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:15:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:16:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:17:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:18:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:19:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:20:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:21:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:22:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:23:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:24:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:25:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:26:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:27:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:28:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:29:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:30:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:31:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:32:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:33:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:34:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:35:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:36:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 16:36:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 16:44:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 16:44:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 16:45:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:46:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:47:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:48:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:49:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:50:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:51:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:52:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:53:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:54:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:55:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:56:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:57:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:58:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 16:59:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:00:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:01:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:02:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:03:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:04:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:05:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:06:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:07:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:08:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:09:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:10:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:11:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:12:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:13:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:14:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:15:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:16:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:17:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:18:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:19:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:20:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:22:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:23:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:24:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:25:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:26:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:27:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:28:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:29:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:30:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:31:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:32:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:33:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:34:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:35:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:36:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:37:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:38:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:39:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:40:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:41:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:42:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:43:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:44:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:45:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:46:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:47:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:48:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:49:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:50:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:51:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:52:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:53:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:54:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:55:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:56:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:57:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:58:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 17:59:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:00:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:01:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:02:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:03:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:04:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:05:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:06:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:07:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:08:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:09:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:10:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:11:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+04.05.21 18:12:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+04.05.21 18:12:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,driving_style
+04.05.21 18:12:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+05.05.21 07:15:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+05.05.21 07:16:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+05.05.21 07:16:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:17:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:18:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:19:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:20:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:21:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:22:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:24:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:25:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:26:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:27:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:28:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:29:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:30:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:31:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:32:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:33:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:34:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:35:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:36:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:37:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:38:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:39:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:40:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:41:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:42:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:43:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:44:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:45:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:46:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:47:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:48:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:49:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:50:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:51:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:52:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:53:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:54:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:55:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:56:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:57:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:58:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 07:59:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:00:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:01:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:02:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:03:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:04:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:05:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:06:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:07:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:08:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:09:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:10:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:11:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:12:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:13:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:14:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:15:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:16:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:17:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:18:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:19:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:20:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:21:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:22:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:23:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:25:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:26:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:27:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:28:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:29:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:30:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:31:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:32:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:33:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:34:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:35:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:36:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:37:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:38:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:39:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:40:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:41:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:42:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:43:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:44:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:45:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:46:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:47:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:48:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:49:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:50:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:51:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:52:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:53:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:54:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:55:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:56:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:57:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:58:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 08:59:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:00:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:01:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:02:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:03:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:04:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:05:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:06:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:07:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:08:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:09:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:10:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:11:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:12:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:13:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:14:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:15:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:16:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:17:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:18:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:19:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:20:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:21:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:22:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:23:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:24:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:26:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:27:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:28:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:29:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:30:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:31:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:32:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:33:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:34:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:35:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:36:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:37:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:38:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:39:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:40:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:41:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:42:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:43:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:44:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:45:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:46:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:47:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:48:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:49:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:50:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:51:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:52:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:53:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:54:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:55:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:56:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:57:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:58:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 09:59:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:00:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:01:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:02:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:03:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:04:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:05:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:06:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:07:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:08:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:09:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:10:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:11:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:12:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:13:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:14:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:15:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:16:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:17:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:18:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:19:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:20:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:21:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:22:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:23:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:24:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:25:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:27:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:28:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:29:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:30:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:31:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:32:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:33:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:34:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:35:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:36:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:37:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:38:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:39:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:40:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:41:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:42:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:43:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:44:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:45:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:46:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:47:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:48:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:49:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:50:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:51:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:52:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:53:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:54:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:55:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:56:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:57:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:58:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 10:59:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:00:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:01:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:02:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:03:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:04:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:05:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:06:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:07:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:08:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:09:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:10:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:11:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:12:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:13:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:14:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:15:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:16:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:17:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:18:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:19:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:20:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:21:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:22:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:23:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:24:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:25:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:27:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:28:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:29:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:30:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:31:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:32:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:33:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:34:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:35:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:36:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:37:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:38:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:39:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:40:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:41:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:42:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:43:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:44:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:45:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:46:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:47:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:48:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:49:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:50:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:51:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:52:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:53:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:54:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:55:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:56:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:57:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:58:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 11:59:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:00:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:01:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:02:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:03:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:04:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:05:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:06:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:07:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:08:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:09:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:10:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:11:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:12:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:13:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:14:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:15:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:16:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:17:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:18:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:19:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:20:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:21:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:22:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:23:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:24:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:25:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:26:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:28:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:29:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:30:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:31:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:32:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:33:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:34:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:35:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:36:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:37:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:38:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:39:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:40:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:41:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:42:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:43:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:44:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:45:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:46:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:47:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:48:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:49:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:50:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:51:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:52:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:53:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:54:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:55:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:56:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:57:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:58:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 12:59:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:00:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:01:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:02:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:03:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:04:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:05:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:06:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:07:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:08:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:09:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:10:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:11:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:12:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:13:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:14:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:15:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:16:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:17:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:18:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:19:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:20:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:21:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:22:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:23:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:24:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:25:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:26:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:27:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:29:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:30:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:31:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:32:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:33:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:34:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:35:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:36:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:37:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:38:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:39:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:40:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:41:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:42:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:43:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:44:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:45:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:46:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:47:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:48:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:49:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:50:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:51:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:52:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:53:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:54:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:55:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:56:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:57:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:58:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 13:59:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:00:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:01:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:02:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:03:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:04:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:05:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:06:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:07:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:08:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:09:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:10:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:11:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:12:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:13:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:14:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:15:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:16:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:17:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:18:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:19:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:20:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:21:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:22:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:23:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:24:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:25:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:26:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:27:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:28:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:30:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:31:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:32:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:33:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:34:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:34:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,driving_style
+05.05.21 14:35:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:36:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:37:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:38:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:39:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:40:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:41:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:42:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:43:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:44:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:45:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:46:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:47:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:48:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:49:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:50:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:51:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:52:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:53:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:54:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:55:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:56:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:57:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:58:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 14:59:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:00:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:01:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:02:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:03:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:04:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:05:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:06:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:07:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:08:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:09:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:10:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:11:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:12:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:13:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:14:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:15:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:16:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:17:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:18:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:19:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:20:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:21:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:22:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:23:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:24:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:25:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:26:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:27:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:28:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:29:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:31:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:32:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:33:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:34:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:35:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:36:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:37:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:38:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:39:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:40:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:41:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:42:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:43:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:44:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:45:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:46:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:47:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:48:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:49:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:50:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:51:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:52:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:53:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:54:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:55:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:56:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:57:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:58:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 15:59:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:00:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:01:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:02:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:03:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:04:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:05:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:06:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:07:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:08:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:09:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:10:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:11:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:12:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:13:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:14:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:15:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:16:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:17:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:18:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:19:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:20:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:21:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:22:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:23:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:24:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:25:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+05.05.21 16:26:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+05.05.21 16:26:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+05.05.21 16:26:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,driving_style
+06.05.21 07:03:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 07:03:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 07:04:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:05:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:06:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:07:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 07:07:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 07:07:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:08:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:09:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:10:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:11:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:12:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:13:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:14:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:15:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:16:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:17:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:18:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:20:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:21:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:22:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:23:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:24:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:25:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:26:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:27:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:28:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:29:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:30:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:31:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:32:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:33:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:34:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:35:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:36:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:37:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:38:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:39:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:40:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:41:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:42:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:43:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:44:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:45:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:46:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:47:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:48:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:49:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:50:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:51:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:52:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:53:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:54:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:55:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:56:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:57:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:58:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 07:59:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:00:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:01:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:02:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:03:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:04:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:05:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:06:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:07:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:08:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:09:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:10:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:11:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:12:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:13:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:14:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:15:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:16:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:17:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:18:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:20:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:21:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:22:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:23:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:24:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:25:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:26:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:27:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:28:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:29:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:30:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:31:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:32:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:33:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:34:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:35:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:36:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:37:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:38:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:39:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:40:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:41:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:42:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:43:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:44:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:45:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:46:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:47:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:48:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:49:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:50:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:51:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:52:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:53:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:54:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:55:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:56:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:57:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:58:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 08:59:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:00:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:01:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:02:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:03:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:04:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:05:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:06:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:07:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:08:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:09:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:10:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:11:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:12:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:13:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:14:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:15:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:16:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:17:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:18:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:19:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:21:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:22:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:23:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:24:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:25:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:26:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:27:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:28:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:29:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:30:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:31:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:32:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:33:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:34:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:35:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:36:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:37:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:38:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:39:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:40:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:41:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:42:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:43:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:44:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:45:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:46:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:47:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:48:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,2,telemetry
+06.05.21 09:49:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,2,telemetry
+06.05.21 09:50:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:51:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:52:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:53:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:54:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:55:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:56:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:57:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:58:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 09:59:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:00:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:01:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:02:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:03:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:04:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:05:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:06:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:07:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:08:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:09:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:10:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:11:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:12:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:13:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:14:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:15:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:16:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:17:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:18:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:19:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:20:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:22:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:23:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:24:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:25:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:26:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:27:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:28:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:29:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:30:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:31:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:32:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:33:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:34:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:35:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:36:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:37:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:38:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:39:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:40:17,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:41:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:42:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:43:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:44:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:45:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:46:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:47:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:48:25,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:49:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:50:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:51:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:52:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:53:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,1,telemetry
+06.05.21 10:54:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:55:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:56:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:57:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:58:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 10:59:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:00:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:01:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:02:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:03:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:04:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:05:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:06:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:07:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:08:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:09:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:10:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:11:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:12:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:13:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:14:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:15:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:16:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:17:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:18:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:19:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:20:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:21:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:22:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:24:01,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:25:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:26:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:27:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:28:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:29:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:30:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:31:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,2,telemetry
+06.05.21 11:32:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,1,telemetry
+06.05.21 11:33:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,2,telemetry
+06.05.21 11:34:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,1,telemetry
+06.05.21 11:35:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:36:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:37:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:38:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:39:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:40:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:41:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:42:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:43:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:44:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:45:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:46:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:47:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:48:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:49:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:50:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:51:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:52:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:53:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:54:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:55:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:56:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:56:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 11:57:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:58:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 11:59:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 11:59:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:00:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:00:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:00:42,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:01:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:01:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:01:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:02:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:02:50,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:03:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:04:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:05:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:05:58,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:07:02,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:08:03,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:09:04,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:10:05,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:10:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 12:11:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:12:07,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:13:08,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:14:09,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:15:10,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:16:11,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:17:12,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:18:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:19:14,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:20:15,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:21:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:22:16,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:23:18,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:24:19,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:25:20,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:26:21,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:27:22,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:28:23,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:29:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:30:24,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:31:26,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:32:27,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:33:28,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:34:29,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:35:30,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:36:31,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:37:32,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:38:33,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:39:34,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:40:35,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:41:36,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:42:37,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:43:38,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:44:39,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:45:40,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:46:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:47:41,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:48:43,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:49:44,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:50:45,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:51:46,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:52:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:53:48,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:54:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:55:49,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:56:51,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:57:52,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:58:53,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 12:59:54,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 13:00:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 13:01:06,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 13:01:47,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 13:01:55,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 13:02:56,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 13:03:57,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 13:04:59,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 13:06:00,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,telemetry
+06.05.21 13:06:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+06.05.21 13:06:13,9.301117,40.171599,Strada Statale 389var,Mamoiada,08024,0,digital_input_change
+07.05.21 05:41:25,9.300345,40.172361,Strada Statale 389var,Mamoiada,08024,11,driving_style
+07.05.21 05:42:56,9.296418,40.176245,SS389,Pratobello,08027,28,driving_style
+07.05.21 05:44:15,9.297856,40.178208,SS389,Orgosolo,08027,13,driving_style
+07.05.21 05:45:17,9.296182,40.177071,SS389,Pratobello,08027,20,driving_style
+07.05.21 05:45:55,9.293779,40.179507,SS389var,Orgosolo,08027,29,geofence_violation
+07.05.21 05:55:59,9.266012,40.235179,Strada Statale 389var,Mamoiada,08024,64,driving_style
+07.05.21 05:57:50,9.252709,40.250864,SS389var,Nuoro,08100,64,driving_style
+07.05.21 05:58:52,9.246636,40.258181,SS389var,Nuoro,08100,55,driving_style
+07.05.21 05:59:59,9.249898,40.26464,Strada Statale 389var,Orani,08026,29,driving_style
+07.05.21 06:01:47,9.255498,40.271903,SS389var,Nuoro,08100,34,driving_style
+07.05.21 06:03:19,9.260326,40.282407,Strada Statale 389var,Nuoro,08100,58,driving_style
+07.05.21 06:05:13,9.270926,40.29702,Strada Statale 389var,Nuoro,08100,64,driving_style
+07.05.21 06:06:14,9.278458,40.304648,Strada Statale 389var di Buddusò e del Correboi,Nuoro,08100,59,driving_style
+07.05.21 06:08:12,9.281955,40.313842,Prato Sardo,Nuoro,08100,60,driving_style
+07.05.21 06:10:15,9.279166,40.323477,SS389,Prato Sardo,08100,34,driving_style
+07.05.21 06:12:37,9.257558,40.317887,Strada Statale 131DCN,Nuoro,08100,64,driving_style
+07.05.21 06:14:14,9.238225,40.313209,Strada Statale 131DCN,Nuoro,08100,62,driving_style
+07.05.21 06:15:19,9.224621,40.316235,SS131DCN,Orani,08026,62,driving_style
+07.05.21 06:17:26,9.200545,40.309765,Strada Statale 131DCN,Orani,08026,65,driving_style
+07.05.21 06:18:26,9.190696,40.304841,Strada Statale 131DCN,Orani,08026,47,driving_style
+07.05.21 06:19:31,9.186919,40.295882,Strada Statale Numero 131,Oniferi,08020,56,driving_style
+07.05.21 06:20:32,9.175955,40.293232,Strada Statale Numero 131,Oniferi,08020,63,driving_style
+07.05.21 06:22:01,9.159861,40.287868,Strada Statale 131,Oniferi,08020,62,driving_style
+07.05.21 06:23:06,9.148918,40.285422,Strada Statale Numero 131,Oniferi,08020,61,driving_style
+07.05.21 06:24:50,9.134327,40.275498,Strada Statale 131,Oniferi,08020,59,driving_style
+07.05.21 06:26:05,9.124134,40.268438,Strada Statale 131DCN,Orani,08026,63,driving_style
+07.05.21 06:27:39,9.107505,40.26405,Strada Statale 131 Diramazione Centrale Nuorese,Orani,08026,60,driving_style
+07.05.21 06:28:39,9.097505,40.258836,Strada Statale 131DCN,Orani,08026,63,driving_style
+07.05.21 06:29:47,9.087013,40.251347,Strada Statale 131DCN,Orani,08026,63,driving_style
+07.05.21 06:30:49,9.076477,40.248826,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,51,driving_style
+07.05.21 06:31:58,9.064139,40.246594,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,57,driving_style
+07.05.21 06:33:26,9.048196,40.240886,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,60,driving_style
+07.05.21 06:34:26,9.038454,40.235136,Strada Statale Numero 131 D.C.N.,Ottana,08020,62,driving_style
+07.05.21 06:35:39,9.027189,40.227368,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,65,driving_style
+07.05.21 06:37:09,9.011696,40.217133,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,67,driving_style
+07.05.21 06:38:35,8.998671,40.208925,Strada Statale 131 Diramazione Centrale Nuorese,Ottana,08020,65,driving_style
+07.05.21 06:39:52,8.989874,40.197681,Strada Statale 131DCN,Sedilo,09076,61,driving_style
+07.05.21 06:40:54,8.981205,40.191233,Strada Statale 131DCN,Sedilo,09076,65,driving_style
+07.05.21 06:42:01,8.968201,40.1853,Strada Statale 131DCN,Sedilo,09076,65,driving_style
+07.05.21 06:43:03,8.958052,40.179753,Strada Statale 131DCN,Sedilo,09076,58,driving_style
+07.05.21 06:44:03,8.950434,40.18,SS131DCN,Sedilo,09076,35,driving_style
+07.05.21 06:45:31,8.939555,40.177168,Strada Statale 131DCN,Sedilo,09076,36,driving_style
+07.05.21 06:46:26,8.935693,40.173735,Strada Statale 131DCN,Sedilo,09076,47,driving_style
+07.05.21 06:47:41,8.928548,40.166332,Strada Statale 131DCN,Sedilo,09076,31,driving_style
+07.05.21 06:51:22,8.899236,40.151236,SS131DCN,Soddì,09080,51,driving_style
+07.05.21 06:53:40,8.877993,40.145722,Viadotto Lago Omodeo,Soddì,09080,46,driving_style
+07.05.21 06:54:54,8.871771,40.140668,Strada Statale 131DCN,Soddì,09080,36,driving_style
+07.05.21 06:56:53,8.86514,40.132997,Strada Statale 131 Diramazione Centrale Nuorese,Ghilarza,09080,33,driving_style
+07.05.21 06:57:53,8.859947,40.129317,Strada Statale 131DCN,Ghilarza,09074,34,driving_style
+07.05.21 06:58:53,8.854283,40.126678,Strada Statale 131DCN,Ghilarza,09074,33,driving_style
+07.05.21 06:59:54,8.848124,40.121635,Via Ocier Reale 23,Ghilarza,09074,44,driving_style
+07.05.21 07:00:56,8.840314,40.116764,Strada Statale 131DCN,Ghilarza,09074,53,driving_style
+07.05.21 07:01:57,8.830786,40.115616,Strada Statale 131DCN,Ghilarza,09074,47,driving_style
+07.05.21 07:03:12,8.819113,40.114822,Strada Statale 131DCN,Ghilarza,09074,52,driving_style
+07.05.21 07:04:13,8.808556,40.114061,Strada Statale 131DCN,Abbasanta,09071,54,driving_style
+07.05.21 07:05:28,8.794716,40.114168,Strada Statale 131DCN,Abbasanta,09071,43,driving_style
+07.05.21 07:06:43,8.795102,40.11685,SS131DCN,Abbasanta,09071,24,driving_style
+07.05.21 07:08:25,8.788708,40.105124,Strada Statale 131 Carlo Felice,Abbasanta,09071,59,driving_style
+07.05.21 07:09:49,8.775554,40.09595,E25/SS131,Paulilatino,09070,66,driving_style
+07.05.21 07:10:49,8.765276,40.092957,Strada Statale 131 Carlo Felice 31,Paulilatino,09070,57,driving_style
+07.05.21 07:12:17,8.753174,40.085136,E25/SS131,Paulilatino,09070,61,driving_style
+07.05.21 07:15:58,8.727082,40.061017,Strada Statale 131,Paulilatino,09070,63,driving_style
+07.05.21 07:17:19,8.714271,40.054709,Strada Statale 131,Paulilatino,09070,57,driving_style
+07.05.21 07:18:21,8.708564,40.048239,Strada Statale 131 Carlo Felice,Paulilatino,09070,55,driving_style
+07.05.21 07:19:24,8.704229,40.041545,E25/SS131,Paulilatino,09070,61,driving_style
+07.05.21 07:21:41,8.67642,40.034635,Strada Statale Carlo Felice,Bauladu,09070,66,driving_style
+07.05.21 07:23:16,8.667901,40.019379,Strada Statale Carlo Felice,Bauladu,09070,65,driving_style
+07.05.21 07:25:33,8.658117,39.999412,Strada Statale Carlo Felice,Tramatza,09070,65,driving_style
+07.05.21 07:26:35,8.647903,39.99363,Strada Statale Carlo Felice,Tramatza,09070,65,driving_style
+07.05.21 07:27:35,8.638569,39.987525,Strada Statale Carlo Felice,Tramatza,09070,62,driving_style
+07.05.21 07:28:41,8.629685,39.97891,Strada Statale Carlo Felice,Tramatza,09070,65,driving_style
+07.05.21 07:29:49,8.624171,39.969189,Strada Statale Carlo Felice,Siamaggiore,09070,62,driving_style
+07.05.21 07:31:17,8.617004,39.956272,Strada Statale Statale 131 101,Siamaggiore,09096,65,driving_style
+07.05.21 07:32:48,8.62357,39.942818,Strada Statale Carlo Felice,Siamaggiore,09070,65,driving_style
+07.05.21 07:33:53,8.62769,39.933505,Strada Statale Carlo Felice,Siamaggiore,09070,63,driving_style
+07.05.21 07:35:27,8.63402,39.91841,Strada Statale 131 Carlo Felice,Oristano,09170,67,driving_style
+07.05.21 07:36:36,8.630758,39.907166,E25/SS131,Fenosu,09170,65,driving_style
+07.05.21 07:37:53,8.624728,39.895085,E25/SS131,Santa Giusta,09096,65,driving_style
+07.05.21 07:39:16,8.618742,39.882865,E25/SS131,Santa Giusta,09096,62,driving_style
+07.05.21 07:40:42,8.61312,39.871278,Strada Statale 131,Santa Giusta,09096,62,driving_style
+07.05.21 07:41:48,8.613034,39.860978,E25/SS131,Santa Giusta,09096,63,driving_style
+07.05.21 07:43:26,8.620587,39.846977,E25/SS131,Santa Giusta,09096,62,driving_style
+07.05.21 07:45:29,8.630973,39.827247,E25/SS131,Santa Giusta,09096,66,driving_style
+07.05.21 07:46:49,8.637732,39.814876,E25/SS131,Marrubiu,09094,65,driving_style
+07.05.21 07:47:59,8.64344,39.80418,E25/SS131,Sant'Anna,09094,66,driving_style
+07.05.21 07:48:59,8.64831,39.795264,Strada Statale 131,Marrubiu,09094,65,driving_style
+07.05.21 07:50:40,8.656593,39.77989,Strada Statale 131,Marrubiu,09094,66,driving_style
+07.05.21 07:51:40,8.661657,39.770845,Strada Statale 131,Marrubiu,09094,66,driving_style
+07.05.21 07:52:42,8.666678,39.761586,Strada Statale 131,Marrubiu,09094,66,driving_style
+07.05.21 07:54:29,8.675004,39.746255,Strada Statale 131,Marrubiu,09094,68,driving_style
+07.05.21 07:58:02,8.693908,39.711429,Strada Statale Carlo Felice,Uras,09099,65,driving_style
+07.05.21 07:59:10,8.705281,39.70379,Strada Statale Carlo Felice,Uras,09099,67,driving_style
+07.05.21 08:00:20,8.710838,39.69363,Strada Statale Carlo Felice,Uras,09099,65,driving_style
+07.05.21 08:01:22,8.714915,39.685304,Strada Statale Carlo Felice,Uras,09099,45,driving_style
+07.05.21 08:03:50,8.732897,39.666132,Strada Statale 131,Mogoro,09095,62,driving_style
+07.05.21 08:04:50,8.739098,39.659501,Strada Statale 131,Mogoro,09095,46,driving_style
+07.05.21 08:05:50,8.746544,39.655467,Strada Statale 131,Mogoro,09095,35,driving_style
+07.05.21 08:06:50,8.752702,39.653171,Strada Statale 131,Mogoro,09095,34,driving_style
+07.05.21 08:08:09,8.758603,39.648955,E25/SS131,Ponte Cracaxia,09095,34,driving_style
+07.05.21 08:09:10,8.764868,39.64432,Strada Statale 131,Mogoro,09095,50,driving_style
+07.05.21 08:10:14,8.773752,39.63873,Strada Statale 131,Sardara,09030,56,driving_style
+07.05.21 08:11:14,8.782507,39.632851,E25/SS131,Santa Maria de is Acquas,09030,61,driving_style
+07.05.21 08:12:29,8.794416,39.625588,Strada Statale 131,Sardara,09030,60,driving_style
+07.05.21 08:14:12,8.805552,39.613121,Strada Statale 131,Sardara,09030,64,driving_style
+07.05.21 08:15:18,8.81759,39.606158,Strada Statale 131,Sardara,09030,65,driving_style
+07.05.21 08:16:20,8.829091,39.6028,E25/SS131,Sardara,09030,63,driving_style
+07.05.21 08:17:26,8.838962,39.597167,Strada Statale 131,Sardara,09030,62,driving_style
+07.05.21 08:18:39,8.851042,39.588627,E25/SS131,Cantoniera di Sardara,09030,66,driving_style
+07.05.21 08:19:47,8.859926,39.581685,Strada Statale 131,Sanluri,09025,62,driving_style
+07.05.21 08:20:47,8.869539,39.575602,Strada Statale 131,Sanluri,09025,63,driving_style
+07.05.21 08:22:44,8.880203,39.558618,Strada Statale 131,Sanluri,09025,66,driving_style
+07.05.21 08:24:21,8.891662,39.548211,Strada Provinciale Sanluri Samassi,Sanluri,09025,53,driving_style
+07.05.21 08:25:22,8.902069,39.546098,Strada Statale 131,Sanluri,09025,55,driving_style
+07.05.21 08:26:49,8.91872,39.541817,Strada Statale 131,Sanluri,09025,62,driving_style
+07.05.21 08:27:59,8.926981,39.5345,Strada Statale 131,Serrenti,09027,56,driving_style
+07.05.21 08:29:07,8.933933,39.527783,Strada Statale 131,Serrenti,09027,56,driving_style
+07.05.21 08:30:07,8.941251,39.522494,Strada Statale 131,Serrenti,09027,50,driving_style
+07.05.21 08:31:14,8.948096,39.514297,Strada Statale 131,Serrenti,09027,63,driving_style
+07.05.21 08:33:13,8.960133,39.500822,Strada Statale 131,Serrenti,09027,57,driving_style
+07.05.21 08:34:18,8.967193,39.493183,E25/SS131,Serrenti,09027,61,driving_style
+07.05.21 08:36:17,8.985024,39.480512,Strada Statale 131,Serrenti,09027,53,driving_style
+07.05.21 08:37:29,8.991569,39.471886,E25/SS131,Villagreca,09024,58,driving_style
+07.05.21 08:38:43,8.999186,39.461511,Strada Statale 131,Nuraminis,09024,57,driving_style
+07.05.21 08:39:43,9.004894,39.453722,Strada Statale 131,Nuraminis,09024,52,driving_style
+07.05.21 08:41:23,9.008842,39.439496,Strada Statale 131,Nuraminis,09024,57,driving_style
+07.05.21 08:42:24,9.016481,39.432941,Strada Statale 131,Nuraminis,09024,58,driving_style
+07.05.21 08:43:24,9.020429,39.425119,E25/SS131,Nuraminis,09024,56,driving_style
+07.05.21 08:44:25,9.023669,39.417319,Strada Statale 131,Nuraminis,09024,54,driving_style
+07.05.21 08:45:26,9.028733,39.409283,Strada Statale 131,Monastir,09023,61,driving_style
+07.05.21 08:47:08,9.037574,39.396559,Strada Statale 131,Monastir,09023,57,driving_style
+07.05.21 08:48:31,9.049204,39.386946,Strada Statale 131,Monastir,09023,52,driving_style
+07.05.21 08:50:03,9.046651,39.374983,Strada Statale 131,Monastir,09023,58,driving_style
+07.05.21 08:51:04,9.04796,39.365628,Strada Statale 131,Monastir,09023,61,driving_style
+07.05.21 08:52:11,9.049333,39.35683,Strada Statale 131 Carlo Felice,San Sperate,09026,59,driving_style
+07.05.21 08:53:19,9.051028,39.346005,Strada Statale 131 Carlo Felice,San Sperate,09026,63,driving_style
+07.05.21 08:54:30,9.052788,39.33431,Strada Statale 131,Sestu,09028,67,driving_style
+07.05.21 08:56:14,9.058645,39.317273,Strada Statale 131,Sestu,09028,66,driving_style
+07.05.21 08:57:41,9.062851,39.304484,Strada Statale 131 Carlo Felice 11,Sestu,09028,63,driving_style
+07.05.21 09:00:33,9.072314,39.277984,Strada Statale 131,Sestu,09028,51,driving_style
+07.05.21 09:01:52,9.077163,39.270195,Via Giua,Cagliari,09122,39,driving_style
+07.05.21 09:03:08,9.072979,39.265678,Via Igola,Elmas,09067,37,driving_style
+07.05.21 09:04:18,9.068409,39.25908,Strada Statale 130,Elmas,09067,37,driving_style
+07.05.21 09:05:31,9.06652,39.256451,Via dei Trasvolatori,Elmas,09067,17,driving_style
+07.05.21 09:18:08,9.069095,39.256473,Via Omodeo 4,Elmas,09030,1,driving_style
+07.05.21 09:44:59,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 09:45:16,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 09:46:04,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 09:47:05,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 09:48:06,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 09:49:07,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 09:50:08,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 09:51:09,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 09:52:10,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 09:52:11,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 09:52:11,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 10:25:12,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 10:26:15,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:25:13,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:25:31,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:26:18,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 11:27:19,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 11:28:19,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 11:29:20,9.069331,39.258168,Via Omodeo,Elmas,09067,1,telemetry
+07.05.21 11:30:22,9.069331,39.258168,Via Omodeo,Elmas,09067,1,telemetry
+07.05.21 11:31:23,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 11:31:59,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:31:59,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:46:19,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:46:32,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:47:25,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 11:48:26,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 11:49:27,9.069331,39.258168,Via Omodeo,Elmas,09067,0,telemetry
+07.05.21 11:49:50,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:49:50,9.069331,39.258168,Via Omodeo,Elmas,09067,0,digital_input_change
+07.05.21 11:50:29,9.069331,39.258168,Via Omodeo,Elmas,09067,0,driving_style
+08.05.21 07:10:27,9.069331,39.258168,Via Omodeo,Elmas,09067,0,driving_style
+09.05.21 07:10:33,9.069331,39.258168,Via Omodeo,Elmas,09067,0,anomaly
+09.05.21 07:10:37,9.069331,39.258168,Via Omodeo,Elmas,09067,0,anomaly
+09.05.21 07:11:32,9.069761,39.25879,Strada Statale 130,Elmas,09067,0,external_power_on
+10.05.21 06:07:22,9.069761,39.25879,Strada Statale 130,Elmas,09067,0,driving_style
+10.05.21 08:28:48,9.069761,39.25879,Strada Statale 130,Elmas,09067,0,driving_style
+10.05.21 15:27:49,9.069761,39.25879,Strada Statale 130,Elmas,09067,0,driving_style
+
