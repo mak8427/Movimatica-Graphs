@@ -4,7 +4,7 @@ import seaborn as sns
 from datetime import datetime,timedelta
 import numpy as np
 import operator
-
+import itertools
 
 df=pd.read_csv('posizioni (1).csv')
 df=df.rename(columns={'Data [dd.MM.yy HH:mm:ss]':'Date','Longitudine':'Longitude','Latitudine':'Latitude','Indirizzo':'Address','Luogo':'City','CAP':'ZIP','Velocità':'Velocity','Tipo':'Type'})
@@ -56,7 +56,7 @@ while i<len(df):
                 timedelta_minutes = df.iloc[i]['Date'] - timedate
                 timedate = df.iloc[i]['Date']
                 address = df.iloc[i]['Address']
-                timedelta_minutes = round(timedelta_minutes.total_seconds() / 60, 1)
+                timedelta_minutes = round(timedelta_minutes.total_seconds() / 3600, 1)
                 time_per_address[df.iloc[i-1]['Address']] =round(time_per_address.get(df.iloc[i]['Address'])+timedelta_minutes,2)
                 alpha=True
 
@@ -65,7 +65,7 @@ while i<len(df):
            print(timedelta_minutes)
            timedate=df.iloc[i]['Date']
            address=df.iloc[i]['Address']
-           timedelta_minutes=round(timedelta_minutes.total_seconds()/60,1)
+           timedelta_minutes=round(timedelta_minutes.total_seconds()/3600,1)
            time_per_address[df.iloc[i-1]['Address']]=timedelta_minutes
         if df.iloc[i]['Address'] not in list_of_address:
           list_of_address.append(df.iloc[i]['Address'])
@@ -76,8 +76,10 @@ while i<len(df):
     i=i+1
 print(list_of_address)
 print(time_per_address)
-plt.figure()
-
-plt.bar(height=time_per_address.values(), x=time_per_address.keys())
+plt.figure(figsize=[19.2, 10.8])
+time_per_address = {k: v for k, v in sorted(time_per_address.items(), key=lambda item: item[1],reverse=True)}
+N=10
+time_per_address_5 = dict(itertools.islice(time_per_address.items(), N))
+plt.bar(height=time_per_address_5.values(), x=time_per_address_5.keys())
 plt.show()
 
